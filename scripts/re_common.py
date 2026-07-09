@@ -158,7 +158,7 @@ def build_summary(title: str, description: str) -> str:
 
 
 REGION_PATTERN = re.compile(
-    r"([가-힣]{2,10}(?:특별자치시|특별자치도|광역시|특별시|도|시|군|구|동|읍|면))(?![가-힣])"
+    r"([가-힣]{2,10}(?:특별자치시|특별자치도|광역시|특별시|시|군|구|동|읍))(?![가-힣])"
 )
 
 # 지명이 아닌데 지역 접미사로 끝나서 오탐되기 쉬운 일반 명사들
@@ -167,8 +167,26 @@ REGION_BLOCKLIST = {"신도시", "구도심", "신시가지", "도시", "광역�
 # "서울"처럼 접미사(시/도) 없이 단독으로 쓰이는 광역시 이름
 STANDALONE_CITY_NAMES = ["서울", "부산", "대구", "인천", "광주", "대전", "울산", "세종"]
 
+# 도(道) 단위 지명은 "OO도"라는 일반 규칙으로 잡으면 "체계도", "정도" 같은 무관한 단어까지
+# 걸려서, 실제 존재하는 도 이름만 화이트리스트로 정확히 대조한다 (긴 이름부터 검사).
+PROVINCE_NAMES = sorted(
+    [
+        "경기도", "강원특별자치도", "강원도", "충청북도", "충북", "충청남도", "충남",
+        "전북특별자치도", "전라북도", "전북", "전라남도", "전남",
+        "경상북도", "경북", "경상남도", "경남",
+        "제주특별자치도", "제주도", "제주",
+    ],
+    key=len,
+    reverse=True,
+)
+
 
 def extract_region(text: str):
+    for name in PROVINCE_NAMES:
+        pattern = r"(?<![가-힣])" + name + r"(?![가-힣])"
+        if re.search(pattern, text):
+            return name
+
     for m in REGION_PATTERN.finditer(text):
         candidate = m.group(1)
         if candidate in REGION_BLOCKLIST:
