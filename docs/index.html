@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -368,12 +369,12 @@ function renderPolicyTable(entries) {
 function renderSubscriptionTable(entries) {
   const rows = entries.map(e => `
     <tr>
-      <td data-label="단지명" class="primary-cell"><a href="${escapeHtml(e.source_url)}" target="_blank" rel="noopener">${escapeHtml(e.housing_name)}</a></td>
       <td data-label="지역" class="muted-cell">${escapeHtml(e.region)}</td>
+      <td data-label="단지명" class="primary-cell"><a href="${escapeHtml(e.source_url)}" target="_blank" rel="noopener">${escapeHtml(e.housing_name)}</a></td>
       <td data-label="내용" class="muted-cell">${escapeHtml(e.summary)}</td>
     </tr>
   `).join('');
-  return `<table><thead><tr><th style="width:22%">단지명</th><th style="width:14%">지역</th><th style="width:64%">내용</th></tr></thead><tbody>${rows}</tbody></table>`;
+  return `<table><thead><tr><th style="width:14%">지역</th><th style="width:22%">단지명</th><th style="width:64%">내용</th></tr></thead><tbody>${rows}</tbody></table>`;
 }
 
 function renderRedevelopmentTable(entries) {
