@@ -181,6 +181,17 @@ PROVINCE_NAMES = sorted(
 )
 
 
+# 행정구역 접미사(시/구/동) 없이 뉴스에서 관용적으로 쓰이는 유명 지명들.
+# 위의 규칙들로 못 잡는 경우를 위한 마지막 보강 목록.
+POPULAR_AREA_NAMES = [
+    "판교", "동탄", "위례", "송도", "마곡", "세곡", "별내", "다산", "검단", "향동",
+    "고덕", "미사", "과천", "광교", "일산", "분당", "용인", "수원", "화성", "평택",
+    "파주", "김포", "오산", "이천", "여주", "안성", "양평", "가평", "연천", "포천",
+    "동두천", "구리", "남양주", "의정부", "양주", "하남", "안양", "부천", "광명",
+    "시흥", "군포", "의왕", "성남", "고양",
+]
+
+
 def extract_region(text: str):
     for name in PROVINCE_NAMES:
         pattern = r"(?<![가-힣])" + name + r"(?![가-힣])"
@@ -197,6 +208,12 @@ def extract_region(text: str):
         pattern = r"(?<![가-힣])" + city + r"(?![가-힣])"
         if re.search(pattern, text):
             return city
+
+    # 가장 긴 이름부터 검사 (예: "동두천"이 "동"에 가려지지 않도록)
+    for name in sorted(POPULAR_AREA_NAMES, key=len, reverse=True):
+        pattern = r"(?<![가-힣])" + name + r"(?![가-힣])"
+        if re.search(pattern, text):
+            return name
 
     return None
 
