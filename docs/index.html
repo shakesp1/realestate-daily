@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>부동산 일일 동향 원장</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=IBM+Plex+Sans+KR:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F3F1EC;
+    --ink: #1E2A22;
+    --ink-soft: #57604F;
+    --rule: #D6D2C4;
+    --seal: #8A5A2B;
+    --ledger-green: #2F4A3B;
+    --card: #FFFFFF;
+    --cat-loan: #8A5A2B;
+    --cat-law: #2F4A3B;
+    --cat-tax: #5B4E9E;
+    --cat-supply: #3B5FA5;
+    --cat-etc: #8A8578;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 3px solid var(--ink);
+    padding-bottom: 20px;
+    gap: 20px;
+  }
+
+  .masthead-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    color: var(--seal);
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    font-family: 'Noto Serif KR', serif;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 1.25;
+    margin: 0 0 8px;
+  }
+
+  .subhead {
+    color: var(--ink-soft);
+    font-size: 14px;
+    max-width: 54ch;
+  }
+
+  .seal {
+    flex-shrink: 0;
+    width: 80px;
+    height: 80px;
+  }
+  .seal svg { width: 100%; height: 100%; }
+  .seal .ring-text {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 7.4px;
+    letter-spacing: 2px;
+    fill: var(--seal);
+  }
+  .seal circle.dial { fill: none; stroke: var(--seal); stroke-width: 1; }
+  .seal .mark { fill: var(--seal); font-size: 18px; font-family: 'Noto Serif KR', serif; font-weight: 700; }
+
+  .section-tabs {
+    display: flex;
+    gap: 4px;
+    margin: 24px 0 20px;
+    border-bottom: 1px solid var(--rule);
+    overflow-x: auto;
+  }
+  .section-tab {
+    flex-shrink: 0;
+    font-family: 'Noto Serif KR', serif;
+    font-weight: 700;
+    font-size: 13.5px;
+    padding: 12px 14px;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid transparent;
+    color: var(--ink-soft);
+    cursor: pointer;
+    margin-bottom: -1px;
+    white-space: nowrap;
+  }
+  .section-tab.active {
+    color: var(--ink);
+    border-bottom-color: var(--seal);
+  }
+
+  .section-panel { display: none; }
+  .section-panel.active { display: block; }
+
+  .meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+    padding: 4px 0 16px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .total-count { color: var(--ink); font-weight: 600; }
+
+  .day-tabs {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    padding-bottom: 4px;
+    margin-bottom: 20px;
+  }
+  .day-tab {
+    flex-shrink: 0;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    padding: 7px 14px;
+    border: 1px solid var(--rule);
+    background: var(--card);
+    color: var(--ink-soft);
+    cursor: pointer;
+    border-radius: 3px;
+    white-space: nowrap;
+  }
+  .day-tab.active {
+    background: var(--ink);
+    border-color: var(--ink);
+    color: var(--paper);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--card);
+  }
+  thead th {
+    text-align: left;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--paper);
+    background: var(--ledger-green);
+    padding: 12px 14px;
+    font-weight: 600;
+  }
+  tbody td {
+    padding: 14px;
+    border-bottom: 1px solid var(--rule);
+    font-size: 13.5px;
+    vertical-align: top;
+  }
+  tbody tr:hover { background: #FAF9F4; }
+  tbody tr:last-child td { border-bottom: none; }
+
+  .primary-cell { font-weight: 700; font-size: 14.5px; }
+  .primary-cell a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .primary-cell a:hover { border-bottom-color: var(--seal); color: var(--seal); }
+
+  .cat-pill {
+    display: inline-block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10.5px;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 3px;
+    color: #fff;
+    white-space: nowrap;
+  }
+
+  .muted-cell { color: var(--ink-soft); line-height: 1.55; }
+
+  .empty-state {
+    border: 1px dashed var(--rule);
+    padding: 40px 24px;
+    text-align: center;
+    color: var(--ink-soft);
+    font-size: 14px;
+    line-height: 1.7;
+  }
+  .empty-state strong { color: var(--ink); }
+
+  footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 11.5px;
+    color: var(--ink-soft);
+    line-height: 1.7;
+  }
+
+  @media (max-width: 600px) {
+    h1 { font-size: 24px; }
+    .seal { width: 58px; height: 58px; }
+    thead { display: none; }
+    table, tbody, tr, td { display: block; width: 100%; }
+    tbody tr { border-bottom: 1px solid var(--rule); padding: 12px 0; }
+    tbody td { border: none; padding: 4px 0; }
+    tbody td::before {
+      content: attr(data-label);
+      display: block;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      color: var(--ink-soft);
+      margin-bottom: 2px;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div>
+      <div class="masthead-label">Daily Ledger · Korea Real Estate</div>
+      <h1>부동산 일일 동향 원장</h1>
+      <div class="subhead">뉴스·RSS를 매일 자동 수집하고, 정규식·키워드 규칙으로 정리한 국내 부동산 정책·청약·정비사업 동향 기록입니다.</div>
+    </div>
+    <div class="seal" aria-hidden="true">
+      <svg viewBox="0 0 100 100">
+        <circle class="dial" cx="50" cy="50" r="46"/>
+        <circle class="dial" cx="50" cy="50" r="38"/>
+        <path id="ringPath" d="M 50,50 m -42,0 a 42,42 0 1,1 84,0 a 42,42 0 1,1 -84,0" fill="none"/>
+        <text class="ring-text">
+          <textPath href="#ringPath" startOffset="2%">DAILY · LEDGER · AUTO-COLLECTED · DAILY · LEDGER ·</textPath>
+        </text>
+        <text class="mark" x="50" y="58" text-anchor="middle">宅</text>
+      </svg>
+    </div>
+  </header>
+
+  <nav class="section-tabs" id="sectionTabs">
+    <button class="section-tab active" data-section="policy">정책 동향 요약</button>
+    <button class="section-tab" data-section="loanlaw">대출규제·법개정</button>
+    <button class="section-tab" data-section="subscription">청약 일정</button>
+    <button class="section-tab" data-section="redevelopment">관리처분인가</button>
+    <button class="section-tab" data-section="development">개발 예상지역</button>
+  </nav>
+
+  <!-- 정책 동향 요약 -->
+  <section class="section-panel active" id="panel-policy">
+    <div class="meta-row">
+      <span>총 <span class="total-count" id="policy-total">0</span>건 기록됨</span>
+      <span id="policy-updated"></span>
+    </div>
+    <div class="day-tabs" id="policy-dayTabs"></div>
+    <div id="policy-content"></div>
+  </section>
+
+  <!-- 대출규제·법개정 (정책 데이터 중 필터링) -->
+  <section class="section-panel" id="panel-loanlaw">
+    <div class="meta-row">
+      <span>총 <span class="total-count" id="loanlaw-total">0</span>건 기록됨</span>
+      <span id="loanlaw-updated"></span>
+    </div>
+    <div class="day-tabs" id="loanlaw-dayTabs"></div>
+    <div id="loanlaw-content"></div>
+  </section>
+
+  <!-- 청약 일정 -->
+  <section class="section-panel" id="panel-subscription">
+    <div class="meta-row">
+      <span>총 <span class="total-count" id="subscription-total">0</span>건 기록됨</span>
+      <span id="subscription-updated"></span>
+    </div>
+    <div class="day-tabs" id="subscription-dayTabs"></div>
+    <div id="subscription-content"></div>
+  </section>
+
+  <!-- 관리처분인가 -->
+  <section class="section-panel" id="panel-redevelopment">
+    <div class="meta-row">
+      <span>총 <span class="total-count" id="redevelopment-total">0</span>건 기록됨</span>
+      <span id="redevelopment-updated"></span>
+    </div>
+    <div class="day-tabs" id="redevelopment-dayTabs"></div>
+    <div id="redevelopment-content"></div>
+  </section>
+
+  <!-- 개발 예상지역 -->
+  <section class="section-panel" id="panel-development">
+    <div class="meta-row">
+      <span>총 <span class="total-count" id="development-total">0</span>건 기록됨</span>
+      <span id="development-updated"></span>
+    </div>
+    <div class="day-tabs" id="development-dayTabs"></div>
+    <div id="development-content"></div>
+  </section>
+
+  <footer>
+    본 데이터는 뉴스·RSS 검색 결과를 규칙 기반으로 자동 추출한 것으로, 오탈자·누락·오류가 있을 수 있습니다.
+    재개발/재건축 구역 정보는 상업적 데이터베이스가 아닌 뉴스 보도 기준이며, 매일 오전 자동 갱신됩니다.
+  </footer>
+
+</div>
+
+<script>
+const CAT_COLOR = {
+  '대출규제': 'var(--cat-loan)',
+  '법개정': 'var(--cat-law)',
+  '세제': 'var(--cat-tax)',
+  '공급대책': 'var(--cat-supply)',
+  '기타정책': 'var(--cat-etc)',
+  '신도시': 'var(--cat-supply)',
+  '교통망(GTX 등)': 'var(--cat-law)',
+  '산업단지': 'var(--cat-loan)',
+  '공공택지': 'var(--cat-tax)',
+  '기타개발': 'var(--cat-etc)',
+};
+function catColor(cat) {
+  return CAT_COLOR[cat] || 'var(--cat-etc)';
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str || '';
+  return div.innerHTML;
+}
+
+function emptyState(msg) {
+  return `
+    <div class="empty-state">
+      ${msg}<br>
+      <strong>매일 오전 8시(KST)</strong>에 자동으로 수집이 실행됩니다.<br>
+      지금 바로 확인하고 싶다면 저장소의 <strong>Actions 탭 → Run workflow</strong>로 수동 실행할 수 있습니다.
+    </div>
+  `;
+}
+
+/* ---------- 렌더러들 ---------- */
+function renderPolicyTable(entries) {
+  const rows = entries.map(e => `
+    <tr>
+      <td data-label="분류"><span class="cat-pill" style="background:${catColor(e.category)}">${escapeHtml(e.category)}</span></td>
+      <td data-label="제목" class="primary-cell"><a href="${escapeHtml(e.source_url)}" target="_blank" rel="noopener">${escapeHtml(e.title)}</a></td>
+      <td data-label="요약" class="muted-cell">${escapeHtml(e.summary)}</td>
+    </tr>
+  `).join('');
+  return `<table><thead><tr><th style="width:14%">분류</th><th style="width:32%">제목</th><th style="width:54%">요약</th></tr></thead><tbody>${rows}</tbody></table>`;
+}
+
+function renderSubscriptionTable(entries) {
+  const rows = entries.map(e => `
+    <tr>
+      <td data-label="단지명" class="primary-cell"><a href="${escapeHtml(e.source_url)}" target="_blank" rel="noopener">${escapeHtml(e.housing_name)}</a></td>
+      <td data-label="지역" class="muted-cell">${escapeHtml(e.region)}</td>
+      <td data-label="내용" class="muted-cell">${escapeHtml(e.summary)}</td>
+    </tr>
+  `).join('');
+  return `<table><thead><tr><th style="width:22%">단지명</th><th style="width:14%">지역</th><th style="width:64%">내용</th></tr></thead><tbody>${rows}</tbody></table>`;
+}
+
+function renderRedevelopmentTable(entries) {
+  const rows = entries.map(e => `
+    <tr>
+      <td data-label="구역명" class="primary-cell"><a href="${escapeHtml(e.source_url)}" target="_blank" rel="noopener">${escapeHtml(e.zone_name)}</a></td>
+      <td data-label="지역" class="muted-cell">${escapeHtml(e.region)}</td>
+      <td data-label="진행단계"><span class="cat-pill" style="background:var(--cat-law)">${escapeHtml(e.stage)}</span></td>
+      <td data-label="내용" class="muted-cell">${escapeHtml(e.summary)}</td>
+    </tr>
+  `).join('');
+  return `<table><thead><tr><th style="width:20%">구역명</th><th style="width:12%">지역</th><th style="width:16%">진행단계</th><th style="width:52%">내용</th></tr></thead><tbody>${rows}</tbody></table>`;
+}
+
+function renderDevelopmentTable(entries) {
+  const rows = entries.map(e => `
+    <tr>
+      <td data-label="지역" class="primary-cell"><a href="${escapeHtml(e.source_url)}" target="_blank" rel="noopener">${escapeHtml(e.region)}</a></td>
+      <td data-label="개발유형"><span class="cat-pill" style="background:${catColor(e.dev_type)}">${escapeHtml(e.dev_type)}</span></td>
+      <td data-label="내용" class="muted-cell">${escapeHtml(e.summary)}</td>
+    </tr>
+  `).join('');
+  return `<table><thead><tr><th style="width:16%">지역</th><th style="width:16%">개발유형</th><th style="width:68%">내용</th></tr></thead><tbody>${rows}</tbody></table>`;
+}
+
+/* ---------- 공용 섹션 로더 (일 단위 탭) ---------- */
+async function loadSection({ dataUrl, prefix, renderTable, emptyMsg, filterFn }) {
+  const totalEl = document.getElementById(`${prefix}-total`);
+  const updatedEl = document.getElementById(`${prefix}-updated`);
+  const tabsEl = document.getElementById(`${prefix}-dayTabs`);
+  const contentEl = document.getElementById(`${prefix}-content`);
+
+  let data = [];
+  try {
+    const res = await fetch(dataUrl, { cache: 'no-store' });
+    data = await res.json();
+  } catch (e) {
+    contentEl.innerHTML = emptyState(emptyMsg);
+    tabsEl.style.display = 'none';
+    return;
+  }
+
+  if (filterFn) data = data.filter(filterFn);
+
+  if (!data.length) {
+    contentEl.innerHTML = emptyState(emptyMsg);
+    tabsEl.style.display = 'none';
+    return;
+  }
+
+  totalEl.textContent = data.length;
+  updatedEl.textContent = `최신 기록일: ${data[0].pub_date}`;
+
+  const byDay = {};
+  for (const e of data) {
+    if (!byDay[e.pub_date]) byDay[e.pub_date] = [];
+    byDay[e.pub_date].push(e);
+  }
+  const days = Object.keys(byDay).sort().reverse();
+
+  tabsEl.innerHTML = days.map((d, i) =>
+    `<button class="day-tab ${i === 0 ? 'active' : ''}" data-day="${d}">${d}</button>`
+  ).join('');
+
+  function show(day) {
+    contentEl.innerHTML = renderTable(byDay[day]);
+    tabsEl.querySelectorAll('.day-tab').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.day === day);
+    });
+  }
+
+  tabsEl.addEventListener('click', (ev) => {
+    const btn = ev.target.closest('.day-tab');
+    if (btn) show(btn.dataset.day);
+  });
+
+  show(days[0]);
+}
+
+/* ---------- 섹션 탭 전환 ---------- */
+document.getElementById('sectionTabs').addEventListener('click', (ev) => {
+  const btn = ev.target.closest('.section-tab');
+  if (!btn) return;
+  document.querySelectorAll('.section-tab').forEach(b => b.classList.toggle('active', b === btn));
+  document.querySelectorAll('.section-panel').forEach(p => {
+    p.classList.toggle('active', p.id === `panel-${btn.dataset.section}`);
+  });
+});
+
+/* ---------- 초기 로드 ---------- */
+loadSection({
+  dataUrl: 'data/policy.json',
+  prefix: 'policy',
+  renderTable: renderPolicyTable,
+  emptyMsg: '아직 수집된 정책 동향 데이터가 없습니다.',
+});
+
+loadSection({
+  dataUrl: 'data/policy.json',
+  prefix: 'loanlaw',
+  renderTable: renderPolicyTable,
+  emptyMsg: '아직 수집된 대출규제·법개정 데이터가 없습니다.',
+  filterFn: e => ['대출규제', '법개정', '세제'].includes(e.category),
+});
+
+loadSection({
+  dataUrl: 'data/subscription.json',
+  prefix: 'subscription',
+  renderTable: renderSubscriptionTable,
+  emptyMsg: '아직 수집된 청약 일정 데이터가 없습니다.',
+});
+
+loadSection({
+  dataUrl: 'data/redevelopment.json',
+  prefix: 'redevelopment',
+  renderTable: renderRedevelopmentTable,
+  emptyMsg: '아직 수집된 관리처분인가 데이터가 없습니다.',
+});
+
+loadSection({
+  dataUrl: 'data/development_areas.json',
+  prefix: 'development',
+  renderTable: renderDevelopmentTable,
+  emptyMsg: '아직 수집된 개발 예상지역 데이터가 없습니다.',
+});
+</script>
+</body>
+</html>
