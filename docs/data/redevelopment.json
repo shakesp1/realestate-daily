@@ -1,5 +1,13 @@
 [
   {
+    "zone_name": "투기과열지구",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "현재 투기과열지구에서 재건축은 조합설립인가 이후, 재개발은 관리처분계획 인가 이후 조합원 지위 양도가 제한된다. 사업 도중 조합원 지위를 처분할 수 없는 만큼 조합원들이 이주를 마쳐야 사업이 다음 단계로 진행될...",
+    "source_url": "https://www.kukinews.com/article/view/kuk202607140180",
+    "pub_date": "2026-07-15"
+  },
+  {
     "zone_name": "우동3구역",
     "region": "부산",
     "stage": "관리처분계획인가",
@@ -13,6 +21,62 @@
     "stage": "관리처분계획인가",
     "summary": "해운대 우동3구역 재개발 놓고 해운정사측 크게 반발  네이트",
     "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UdE9EaktIdUFJV2x4VHV5ck9oYVFpS2o5MFFWOGtCTzJpNkUzUFZIOWNaQnZ2M0NfeUdVNXBaaDJvMWpUZHlfUE5YWDNOUFhGSVBZ?oc=5",
+    "pub_date": "2026-07-14"
+  },
+  {
+    "zone_name": "통합재건축",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "대치우성1차와 쌍용2차 아파트는 통합재건축 정비계획 변경 고시를 마치고, 현재 사업시행인가를 준비 중입니다.사업시행인가 이후에도 은마아파트 호가는 크게 오르지 않은 상황. 어제부터 관리처분의 기준이 되는...",
+    "source_url": "https://news.mtn.co.kr/news-detail/2026071416413367928",
+    "pub_date": "2026-07-14"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "도시정비법에 따르면 투기과열지구로 지정된 지역에서는 재건축은 조합설립인가 후, 재개발은 관리처분계획인가 후 정비사업 구역 내 주택을 매수한 자의 조합원 자격 취득이 금지된다. 이는 투기 수요를 차단하겠다는...",
+    "source_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424952",
+    "pub_date": "2026-07-14"
+  },
+  {
+    "zone_name": "용문동5구역",
+    "region": "용문동",
+    "stage": "관리처분계획인가",
+    "summary": "입안 제안이 접수되면 서구가 입안 여부를 검토하고, 이후 정비계획 수립과 주민 공람, 시 도시계획위원회 심의 등을 거쳐야 정비구역으로 지정된다.구역지정 이후에도 조합설립과 사업시행계획·관리처분계획 인가...",
+    "source_url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233238",
+    "pub_date": "2026-07-14"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "투기과열지구",
+    "stage": "관리처분계획인가",
+    "summary": "도시정비법 제39조제2항에 따라 투기과열지구로 지정된 지역 내 재건축은 조합설립인가 후, 재개발은 관리처분계획인가 후 정비사업 구역 내 부동산을 양수한 자의 조합원 자격 취득이 원칙적으로 금지된다. 이는 단기...",
+    "source_url": "https://www.arunews.com/news/articleView.html?idxno=64773",
+    "pub_date": "2026-07-14"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "현재 투기과열지구로 묶인 서울 지역 재건축의 경우 조합설립 이후, 재개발의 경우 관리처분인가 이후... 관련 비서관실에서 면밀히 검토할 예정”이라며 “건의와 관련해 별도의 면담 일정 계획은 아직 없다”고 설명했다.",
+    "source_url": "https://www.edaily.co.kr/news/newspath.asp?newsid=04739606645514520",
+    "pub_date": "2026-07-14"
+  },
+  {
+    "zone_name": "성수3지구",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "한 정비업계 관계자는 \"성수전략정비구역은 서울 한강변 재개발의 상징적인 사업지인 만큼 시공사 선정이 마무리되면 사업 추진 불확실성이 크게 줄어들 것\"이라며 \"사업시행인가와 관리처분계획 등 후속 절차에도...",
+    "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468337",
+    "pub_date": "2026-07-14"
+  },
+  {
+    "zone_name": "마천5구역",
+    "region": "송파구",
+    "stage": "관리처분계획인가",
+    "summary": "늦어지면 관리처분과 이주, 착공 일정도 줄줄이 밀린다. 사업 기간이 길어질수록 금융비용이 불어나고, 늘어난 비용은 결국 조합원 분담금에 반영된다. 14일 정비업계에 따르면 서울 송파구 마천5구역 재개발조합은...",
+    "source_url": "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400117.html",
     "pub_date": "2026-07-14"
   },
   {
@@ -229,6 +293,14 @@
     "stage": "관리처분계획인가",
     "summary": "세운재정비촉진지구3-8·9·10구역, 재개발 관리처분인가  한국주택경제신문",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44N1dONkRuR3NUT1N5bWZBTDZRdWFqNTV3WVk0UWNHTnJJaU9xMEpaZl96SFBlUkJ6OEpEeDNXZjZVeDhkV2gwWlAxbUxTN0hldXFyZWpNNmlkdGhLT0t3SzJ2WjUzM2tX?oc=5",
+    "pub_date": "2026-07-13"
+  },
+  {
+    "zone_name": "강남재건축",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "[강남재건축] 은마아파트 재건축, 사업시행인가 이후 무엇이 남았나?…관리처분계획이 최대 분수령  내외뉴스통신",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ib3U4MkplZkMyV3lNVVFYWG91TlVUSXAwV0YtSVlfdkU2THJZTnNUNFNOSWFhWE53RzZRM0NWeEwwMzc2YVdoeVZPSjI5NHBuNmtyVDZ0N3o1M2JDVkVxN1FpVmVNbEpFRVo3MdIBcEFVX3lxTE9XbVZQczIwaV9UY1JDeGVxMGo4TUlyWEVXWHJ3YVFBTm1UZk51eFlOUUd3alhuZHRVZ3hMU1hOYjRpS0xuRFN1UTQyOHlDcEc1M241MkJTU2Z5aGJxSjFTbmwwM3pja2hiVTFDR21uc1c?oc=5",
     "pub_date": "2026-07-13"
   },
   {
