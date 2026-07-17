@@ -1,5 +1,12 @@
 [
   {
+    "housing_name": "전국 6",
+    "region": "확인 필요",
+    "summary": "17일 부동산 전문 리서치업체 리얼투데이에 따르면 다음 주에는 전국 11곳에서 총 6,468가구(공공분양 포함, 행복주택 제외)가 청약 접수를 받는다. 이는 지난주 청약 물량 대비 크게 늘어난 수치다. 지역별로는...",
+    "source_url": "http://www.srtimes.kr/news/articleView.html?idxno=207748",
+    "pub_date": "2026-07-18"
+  },
+  {
     "housing_name": "서울은 청약 만점 경쟁",
     "region": "서울",
     "summary": "17일 한국부동산원 청약홈에 따르면 지난 6월 29일부터 이달 8일까지 14개 주요 분양 단지의 청약 접수 결과를 분석한 결과 서울 도심 내 재개발 사업지에 예비 청약자들의 통장이 쏠린 것으로 나타났다. 가장...",
@@ -25,6 +32,48 @@
     "region": "확인 필요",
     "summary": "서울은 청약 만점 경쟁, 지방은 미달 속출…분양시장 양극화 심화  뉴스핌",
     "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81ckFHc29kaVM1QnA1cHJsTFUxcFhXd0lMSXI4Nmxqdm93ekx4czFqYWVGeTBtMHh2emZmakZwNi0zNG0yVUoyZENMVEwtNzF6RzBxRXpTNVdMWlV4?oc=5",
+    "pub_date": "2026-07-17"
+  },
+  {
+    "housing_name": "고분양가",
+    "region": "서울",
+    "summary": "서울 아파트 평균 청약 당첨 가점은 2024년 59점에서 지난해 65점으로 높아졌다. 올해 주요 분양 단지에서는... 청약통장 가입자는 최고 연 4.5% 금리와 소득공제 혜택을 받을 수 있고, 청약통장을 담보로 납입액의 일정...",
+    "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469278",
+    "pub_date": "2026-07-17"
+  },
+  {
+    "housing_name": "오산헤리티지자이",
+    "region": "확인 필요",
+    "summary": "강세훈 기자, 신연경 인턴기자 = \"동탄역 인근 아파트는 가격이 너무 올랐고 규제도 생겼잖아요. 여기는... 내부 유니트는 가족 단위 방문객들로 붐볐고, 상담석마다 청약 일정과 분양가를 문의하는 실수요자들로...",
+    "source_url": "https://www.newsis.com/view/NISX20260716_0003712552",
+    "pub_date": "2026-07-17"
+  },
+  {
+    "housing_name": "오산헤리티지자이",
+    "region": "확인 필요",
+    "summary": "대단지 아파트 ‘오산헤리티지자이’가 지난 16일 견본주택을 개관하고 본격적인 분양 일정에 돌입했다.... 현장 상담석에서는 병점역 생활권의 개발 계획과 교통 여건, 청약 자격 요건 및 비규제지역 지정에 따른 장점...",
+    "source_url": "https://biz.heraldcorp.com/article/10811671?ref=naver",
+    "pub_date": "2026-07-17"
+  },
+  {
+    "housing_name": "포스코이앤씨",
+    "region": "서초구",
+    "summary": "실제 서울 서초구 잠원동에 공급한 '오티에르 반포'는 한국부동산원 청약홈 집계 결과 1순위 해당지역 청약에서 특별공급을 제외한 43가구 모집에 3만540건이 접수돼 평균 710.2대 1의 경쟁률을 기록하며 전 타입이...",
+    "source_url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356062",
+    "pub_date": "2026-07-17"
+  },
+  {
+    "housing_name": "일신건영",
+    "region": "서울",
+    "summary": "청약 일정은 이달 27일 특별공급을 시작으로 28일 1순위, 29일 2순위 접수를 진행한다. 당첨자는 다음 달 4일 발표되며 계약은 18일부터 20일까지 사흘간 진행된다. 청약은 입주자모집공고일 기준 경기·서울·인천 거주 만...",
+    "source_url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724593",
+    "pub_date": "2026-07-17"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "경상남도",
+    "summary": "청약 일정은 오는 20일(월) 특별공급을 시작으로, 21일(화) 1순위, 22일(수) 2순위 접수를 진행한다. 당첨자 발표는 29일(수)이며, 정당 계약은 8월 11일(화)부터 13일(목)까지 3일간 체결된다. 견본주택은 경상남도 거제시...",
+    "source_url": "https://www.donga.com/news/Economy/article/all/20260716/134313134/1",
     "pub_date": "2026-07-17"
   },
   {
@@ -508,6 +557,13 @@
     "region": "남양주",
     "summary": "청약은 7월 20일 특별공급을 시작으로 21일 1순위, 22일 2순위 접수를 받는다. 당첨자는 29일 발표하며, 정당계약은 8월 10일부터 12일까지 진행한다. 분양대금은 계약금 10%, 중도금 60%, 잔금 30%로 납부한다. 교통...",
     "source_url": "https://www.womennews.co.kr/news/articleView.html?idxno=279985",
+    "pub_date": "2026-07-16"
+  },
+  {
+    "housing_name": "일신건영",
+    "region": "서울",
+    "summary": "청약은 오는 27일 특별공급을 시작으로 28일 1순위, 29일 2순위 접수를 진행한다. 당첨자는 8월 4일 발표하며, 정당계약은 8월 18일부터 20일까지 사흘간 실시한다. 청약 자격은 입주자모집공고일 기준 경기도와 서울...",
+    "source_url": "https://www.seoulfn.com/news/articleView.html?idxno=633587",
     "pub_date": "2026-07-16"
   },
   {
