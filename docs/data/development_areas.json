@@ -1,5 +1,33 @@
 [
   {
+    "region": "용인",
+    "dev_type": "산업단지",
+    "summary": "대표 단지다. 여기에 용인·평택·화성으로 이어지는 반도체 클러스터 조성 기대감이 더해지면서 실수요자는... 국가산업단지, 화성·기흥 사업장 등이 하나의 산업벨트로 연결되면서 직주근접 수요가 꾸준히 유입될...",
+    "source_url": "https://www.wikitree.co.kr/articles/1146433",
+    "pub_date": "2026-07-19"
+  },
+  {
+    "region": "전남",
+    "dev_type": "기타개발",
+    "summary": "지자체가 주민 수용성을 높이고 기반시설 조성을 지원하면서 개별 발전소는 점차 지역의 산업 기반으로 연결됐다. 현재 전남1 해상풍력단지의 O&M센터에는 30명 안팎의 인력이 상주하고 있다. 이들이 인근 지역에서...",
+    "source_url": "https://www.mt.co.kr/industry/2026/07/19/2026071822480520000",
+    "pub_date": "2026-07-19"
+  },
+  {
+    "region": "서울",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "광운대역세권 개발사업과 장위뉴타운 조성, 동부간선도로 지하화 사업 등이 추진되고 있어 미래가치가 기대된다. 지하철 1·6호선 환승역인 석계역을 걸어서 이용할 수 있으며 서울 주요 간선도로 접근성도...",
+    "source_url": "http://www.kjdaily.com/article.php?aid=1784386931682548208",
+    "pub_date": "2026-07-19"
+  },
+  {
+    "region": "자족도시",
+    "dev_type": "산업단지",
+    "summary": "조 시장은 “‘자족도시 완성의 핵심은 스마트 국가산단’이라는 판단 아래 현장과 가장 가까운 곳에서... 지금 추세대로라면 내년에는 16개 광역단체 중 최초로 ‘재정주의 자치단체’로 지정될 수 있다는 위기감이...",
+    "source_url": "https://biz.heraldcorp.com/article/10809489?ref=naver",
+    "pub_date": "2026-07-19"
+  },
+  {
     "region": "경주시",
     "dev_type": "산업단지",
     "summary": "이에 따라 경북도는 이같은 SMR 연구기반을 바탕으로 SMR 국가산업단지를 SMR 제조 및 관련 소부장 산업 거점으로 조성한다는 방침이다. 또 한국재료연구원 주관으로 추진 중인 SMR 소부장 기업지원을 위한 3D프린팅 기반...",
@@ -81,6 +109,230 @@
     "dev_type": "신도시",
     "summary": "아울러 3기 신도시인 교산지구에는 약 3조원 규모 'AI 혁신클러스터'를 조성한다. 이곳에 AI 관련 기업과 대학, 연구기관을 집중적으로 유치해 첨단산업 거점을 구축해, K-컬처와 함께 하남의 미래 경제를 이끌 양대 축으로...",
     "source_url": "https://www.ekn.kr/web/view.php?key=20260718027263514",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "계획도시",
+    "dev_type": "신도시",
+    "summary": "박 시장이 내세운 3만 호 역세권 신도시 구상은 광주시의 난개발 구조를 계획도시 체계로 전환할 기회가 될 수 있다. 반대로 구체적인 자족 기능과 교통대책 없이 주택 공급에 치우친다면 또 다른 베드타운을 확대하는...",
+    "source_url": "http://www.newstown.co.kr/news/articleView.html?idxno=709505",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "기흥구",
+    "dev_type": "산업단지",
+    "summary": "대규모 산업단지 조성이 가져올 교통 수요도 미리 대비해야 한다. 이 시장은 삼성전자 국가산단에서 약 10만5000명, SK하이닉스 일반산단에서 약 4만명이 근무할 것으로 전망했다. 기흥구 플랫폼시티 역시 83만평 규모로...",
+    "source_url": "http://www.newstown.co.kr/news/articleView.html?idxno=709511",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "오산",
+    "dev_type": "산업단지",
+    "summary": "수도권 각 지자체는 세제 지원과 규제 완화, 산업단지 조성 등을 앞세워 경쟁하고 있다. 오산 역시 차별화된 전략을 마련하지 못한다면 기업 유치 경쟁에서 뒤처질 수 있다. 민선 9기는 오산만의 강점을 살린 산업 전략을...",
+    "source_url": "http://www.newstown.co.kr/news/articleView.html?idxno=709503",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "평생학습도시",
+    "dev_type": "산업단지",
+    "summary": "지방정부의 경쟁력 역시 도로와 산업단지 같은 물리적 기반시설만으로는 결정되지 않는다. 미래를 이끌... 권역별 학습센터가 조성되면 학생들이 거주지역과 관계없이 안정적인 학습환경을 이용할 수 있고, 학부모의...",
+    "source_url": "http://www.newstown.co.kr/news/articleView.html?idxno=709502",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "더불어민주당 최고위원 후보인 박선원 의원은 군공항 이전과 반도체 산업단지 조성을 하나의 프로젝트로 묶겠다는 구상을 내놓으며 정치적 승부수를 던졌다. 하지만 정치적 의지만으로 해결될 문제는 아니다. 이전 대상...",
+    "source_url": "https://www.ppss.kr/news/articleView.html?idxno=302454",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "인천",
+    "dev_type": "산업단지",
+    "summary": "계양테크노밸리엔 첨단 산업단지도 조성됩니다. 2021년부터 앵커 기업 유치가 추진되고 있습니다. [박형우 / 인천 계양구청장(지난달 30일): 계양테크노밸리의 앵커 기업은 우리 대기업이나 또 아니면 IT 기업 이쪽으로...",
+    "source_url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1531111",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "성주군",
+    "dev_type": "산업단지",
+    "summary": "고유가 피해 지원과 성주3 일반산업단지 조성, 성주사랑상품권 발행, 농업 기반 확충 등 주민 생활과 지역 현안에 가까운 사업들이 추경안에 담겼다. 성주군은 제1회 추가경정예산안을 본예산보다 590억 원, 8.84% 늘어난...",
+    "source_url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078558",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "성주군",
+    "dev_type": "산업단지",
+    "summary": "군은 반환금 등 법정 경비를 제외한 가용재원을 민생 안정과 지역경제 활성화 사업에 집중 배정했다.민생 안정과 지역경제 활성화 분야에는 ▲고유가 피해지원금 71억6000만원 ▲성주3일반산업단지 조성사업 31억원...",
+    "source_url": "https://www.kbsm.net/news/view.php?idx=527093",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "부안군",
+    "dev_type": "산업단지",
+    "summary": "이날 부안군은 재생에너지 기반 RE100 국가첨단산업단지 조성을 기본계획에 반영해 줄 것을 핵심 과제로 제시했다. 아울러 3권역 관광레저용지의 농생명용지 편입을 제외하고 복합개발용지로 전환하는 방안, 전략적...",
+    "source_url": "http://www.jeollailbo.com/news/articleView.html?idxno=805629",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "경북",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "또한 도시의 미래 경쟁력을 완성하기 위해 ‘서대구~신공항 철도 동구미역 신성 등을 적극적으로 추진하고, 일반산업단지 조성 및 경제자유구역 지정 등을 통해 ‘신공항 경제권 중심 도시’ 기반을 구축할 계획이다....",
+    "source_url": "https://www.viva100.com/article/20260718500136",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "김제시",
+    "dev_type": "산업단지",
+    "summary": "지평선 제2 일반산업단지 조성 25억원, 국산밀 생산단지 건조저장시설 지원 16억원, 지평선산업단지 완충저류시설 설치 14억원을 편성했다. 종자산업 혁신클러스터 조성 사업부지 매입 11억원, 첨단정밀육종 기반...",
+    "source_url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850945",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "안산시",
+    "dev_type": "산업단지",
+    "summary": "공직에 임용되기 전에는 반월·시화국가산업단지에서 일용직 노동자로 근무하며 산업현장의 삶을 직접... 사진=이관희 기자 또 안산문화광장 조성, 상록수역 광장 정비, 사동 90블록 개발, 원곡동 부부로 주차타워 건립...",
+    "source_url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069692",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "제주",
+    "dev_type": "기타개발",
+    "summary": "제주도가 지역농업네트워크 서울경기제주협동조합에 의뢰한 '친환경·유기농산업 복합서비스 지원단지 조성 사업계획 수립 용역' 결과보고서가 최근 나왔다. 2027년부터 2032년까지 228억원 정도(국비 포함) 투입해...",
+    "source_url": "https://www.jejusori.net/news/articleView.html?idxno=504843",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "세종시",
+    "dev_type": "산업단지",
+    "summary": "'원형지 개발도 제안' 성공위해 '국가산업단지의 경제자유구역 지정도 추진할 계획' [충청리뷰 윤소 기사] 세종시가 연서면 일대에 조성 중인 국가산업단지에 삼성 계열사의 추가 투자를 요청했다. 기업이 원하는...",
+    "source_url": "https://www.ccreview.co.kr/news/articleView.html?idxno=353014",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "다원지구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "규모로 조성된다. 넉넉한 수납공간을 제공하고, 남향 위주의 일자(‘ㅡ’)형 배치 설계에 4베이 판상형... 수열에너지 융복합 클러스터와 다원지구(도청신청사 이전), 춘천역세권개발, 제2거두 일반산업단지, GTX-B노선...",
+    "source_url": "https://www.mk.co.kr/article/12100690",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "부천시",
+    "dev_type": "산업단지",
+    "summary": "지난 17일 오전, 부천시 상동의 영상문화산업단지 내 동춘서커스장. 공연장의 모습을 갖추기도 못하고 20여... 2016년 부천시가 한 건설사와 이 일대 부지를 복합 개발해 쇼핑몰을 조성하는 계획을 발표하며 철거 소식이...",
+    "source_url": "https://www.joongboo.com/news/articleView.html?idxno=363731660",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "나주시",
+    "dev_type": "산업단지",
+    "summary": "- 도시계획·교통·재해·에너지 등 23일 통합심의…356억 원 투입해 2028년까지 조성 지이코노미 김정훈 기자 | 나주시 노안면에 4만 평 규모의 산업공간을 새로 마련하는 노안2 농공산업단지 조성사업이 계획 승인을 앞둔...",
+    "source_url": "https://www.geconomy.co.kr/news/article.html?no=321876",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "경제도시",
+    "dev_type": "산업단지",
+    "summary": "중앙정부와의 긴밀한 협력, 안정적 용수와 전력 공급 계획, 경쟁력 있는 산업단지 조성까지 종합 전략이 뒷받침돼야 한다. 경제도시는 선언만으로는 만들어지지 않는다. 기업이 '세종이라서 투자한다'고 말할 수 있는...",
+    "source_url": "https://www.etnews.com/20260716000016",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "보령시",
+    "dev_type": "기타개발",
+    "summary": "지난해 산업·농공단지 입주기업 대상 시범사업에서 제조업 중소기업까지 지원대상을 확대했다. 올해는... 엄승용 보령시장은 \"청년들이 안정적으로 일할 수 있는 환경을 조성하는 것이 지역 기업 경쟁력 강화의...",
+    "source_url": "https://www.newsis.com/view/NISX20260716_0003711331",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "용인특례시",
+    "dev_type": "산업단지",
+    "summary": "이 시장은 SK하이닉스 용인반도체클러스터 일반산업단지와 관련해 \"내년 10월쯤 HBM을 생산해 수출할 것으로... 국가산단 조성에 속도를 내야 할 때\"라며 전력·용수 공급과 주변 도로망 등 기반시설 구축에 대한 정부의...",
+    "source_url": "http://www.metroseoul.co.kr/article/20260718500011",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "세종시",
+    "dev_type": "산업단지",
+    "summary": "세종시 관계자에 따르면, 시는 최근 삼성그룹과 논의를 통해 연서면 일대에 조성 중인 국가산업단지에 삼성 계열사가 입주할 수 있도록 요청했다. 이 과정에서 삼성전기를 매개로 투자를 포함한 다양한 방안을 삼성그룹에...",
+    "source_url": "https://www.gokorea.kr/news/articleView.html?idxno=872326",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "무인택시",
+    "dev_type": "산업단지",
+    "summary": "수도 외곽에 조성된 계획형 테크 클러스터라는 점에서 ‘중국의 판교’라 할 만하다. 9.9위안 무인택시... 로봇 식당 가보니 요리는 사람이…‘반쪽’ 무인화 이좡 로봇산업단지 한편, 보라색 계단 위에 요리사 모자를...",
+    "source_url": "https://www.mk.co.kr/article/12095244",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "우주항공복합도시",
+    "dev_type": "산업단지",
+    "summary": "고흥 역시 우주항공복합도시 특별법과 국가산업단지 조성, 제2우주센터 추진이 하나의 전략으로 연결될 때 비로소 대한민국 우주산업의 새로운 거점으로 도약할 수 있을 것이다. 세계는 이미 뉴 스페이스 시대를 향해...",
+    "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=533597",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "세종시",
+    "dev_type": "산업단지",
+    "summary": "시는 투자 기업과 협력사가 산업단지 조성 단계에서 원형지 공급 방식으로 함께 입주하는 방안을 선호하고 있다. 원형지는 토지 보상이 끝난 부지를 기업이 자체 계획에 맞게 개발하는 방식이다.민선 5기 핵심...",
+    "source_url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2233411",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "다원지구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "수열에너지 융복합 클러스터, 다원지구(도청신청사 이전), 춘천역세권개발, 제2거두 일반산업단지, GTX-B노선, 동서고속화철도 등 다양한 개발사업이 이뤄지는 중심부에 있어, 가치 상승이 기대된다. '춘천 리버뷰 아이파크...",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=337746",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "서울",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "컬리어스 관계자는 \"중장기적으로는 서울역 북부역세권, 현대자동차 글로벌비즈니스센터(GBC), 서리풀 복합개발 등 대형 개발사업이 순차적으로 시장에 공급될 것\"이라며 \"이에 따라 각 권역별 수급 변화가 이어질...",
+    "source_url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02089366645515832",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "서울",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "59%) 등 광역교통망 확충과 개발 호재가 있는 지역을 중심으로 상승폭이 확대됐다. 전세시장도 강세를 이어가고 있다. 서울 아파트 전세가격지수는 6월 1.08% 상승했고, 7월 둘째 주에도 0.28% 올랐다. 역세권과 학군지를...",
+    "source_url": "https://www.cstimes.com/news/articleView.html?idxno=713823",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "구리시",
+    "dev_type": "신도시",
+    "summary": "▷ GTX-B 공사비 분담, 헌법소원도 고려해라= 갈매역 정차가 확정되지 않은 상황에서 구리시는 약 400억원... 또한 다른 신도시가 비슷한 지구 지정 단계에서 정차역으로 인정받은 사례를 찾아 협상 근거로 활용하고 '갈매...",
+    "source_url": "https://www.ekn.kr/web/view.php?key=20260718022303582",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "용인",
+    "dev_type": "산업단지",
+    "summary": "수자원공사 사장을 역임한 바 있는 인천연구원 최계운 원장은 국회에서 16일 개최된 ‘대한민국 반도체 국가산단의 미래전략’의 지정토론자로 참석해 용인 반도체 산단의 용수 공급과 관련된 문제의식을 공유했다....",
+    "source_url": "https://kidd.co.kr/news/246742",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "인천",
+    "dev_type": "신도시",
+    "summary": "정부가 올해 하반기 남양주 왕숙과 인천 계양 등 3기 신도시에서 주택 착공 속도를 높인다. 왕숙 6800호와 계양 1100호 등을 포함해 총 1만2000호를 착공한다. 정부는 지난 14일 관계부처 합동으로 발표한 '2026년 하반기...",
+    "source_url": "http://www.beyondpost.co.kr/view.php?ud=202607181627116908205868f676_30",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "서울",
+    "dev_type": "신도시",
+    "summary": "분양가상한제 주택 가격 산정 기준인 기본형 건축비도 추가로 올라 서울 강남권과 3기 신도시 등의 분양가 상승 압력이 커질 전망이다. 주택도시보증공사(HUG)가 지난 7월 15일 발표한 민간아파트 분양가격 동향에...",
+    "source_url": "https://www.mk.co.kr/article/12100367",
+    "pub_date": "2026-07-18"
+  },
+  {
+    "region": "나주시",
+    "dev_type": "기타개발",
+    "summary": "나주시, 노안에 4만 평 산업공간 더한다…노안2 농공산단 8월 승인 절차  지이코노미",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44SHVnSlR3c1BqUzhoaFVSQXNNSGFqSjRhMEQ3NGxSaVZPSF92YmswR0drckRwYmtXUlJHa0VmcERwbnhVRlR6TDRzTS14UVR4dXpDaGFmcmVZQ1paRHhkNTBNYV9BNHc?oc=5",
     "pub_date": "2026-07-18"
   },
   {
