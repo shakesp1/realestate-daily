@@ -1,5 +1,26 @@
 [
   {
+    "housing_name": "강남",
+    "region": "서울",
+    "summary": "19일 부동산 정보업체 부동산114에 따르면, 이달부터 서울 시내 22개 사업장이 본격적인 분양 일정에... 올해 상반기 서울 지역의 아파트 1순위 청약 접수 건수는 총 12만8137건으로 집계됐다. 전국 전체 접수량...",
+    "source_url": "https://biz.chosun.com/real_estate/real_estate_general/2026/07/19/SQUNTFZ4VFGHLF72BPD3IPZTGA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "2026-07-19"
+  },
+  {
+    "housing_name": "IPARK현대산업개발",
+    "region": "확인 필요",
+    "summary": "청약 일정은 오는 20일 특별공급을 시작으로 21일 1순위, 22일 2순위 청약 순으로 진행된다. 당첨자는 29일 발표하며 정당계약은 다음 달 10일부터 12일까지 사흘간 실시한다.",
+    "source_url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312309",
+    "pub_date": "2026-07-19"
+  },
+  {
+    "housing_name": "SK에코플랜트",
+    "region": "확인 필요",
+    "summary": "청약 일정은 오는 20일 특별공급을 시작으로 21일 1순위 해당 지역, 22일 1순위 기타 지역, 23일 2순위 접수 순으로 진행된다. 당첨자는 29일 발표하며 정당계약은 8월 10일부터 13일까지 나흘간 실시한다. 의왕역 SK뷰는...",
+    "source_url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=312307",
+    "pub_date": "2026-07-19"
+  },
+  {
     "housing_name": "전국 6",
     "region": "확인 필요",
     "summary": "17일 부동산 전문 리서치업체 리얼투데이에 따르면 다음 주에는 전국 11곳에서 총 6,468가구(공공분양 포함, 행복주택 제외)가 청약 접수를 받는다. 이는 지난주 청약 물량 대비 크게 늘어난 수치다. 지역별로는...",
