@@ -1,5 +1,411 @@
 [
   {
+    "housing_name": "SK에코플랜트",
+    "region": "확인 필요",
+    "summary": "청약홈에 따르면 '의왕역 SK VIEW'는 지난 21~22일 진행된 1순위 청약 결과, 384세대(특별공급 제외) 모집에 총 2,486건의 접수가 몰려 평균 6.47대 1의 경쟁률로 전 세대 1순위 청약 마감에 성공했다. 특히 전용 36...",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=337964",
+    "pub_date": "2026-07-23"
+  },
+  {
+    "housing_name": "한신공영",
+    "region": "확인 필요",
+    "summary": "청약 일정을 보면 오는 27일 특별공급을 시작으로 28일 1순위, 29일 2순위 청약 순으로 진행된다. 당첨자... 특히 노후 아파트가 밀집한 마산회원구는 신규 공급 공백이 긴 상황으로 새 아파트 희소성이 부각되고 있다....",
+    "source_url": "http://www.gnmaeil.com/news/articleView.html?idxno=591218",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "실리콘 공장보다 먼저 뛴 호반써밋",
+    "region": "확인 필요",
+    "summary": "서남권 신규 생산기지와 인공지능(AI) 산업 거점 조성 가능성이 거론되자 실제 공장 입지와 투자 일정이... 토지와 아파트 가격에 '팹 프리미엄'이 선반영된다. 첨단3지구가 단순한 신도시가 아니라 삼성·SK 반도체...",
+    "source_url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256424",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "부천 역곡지구 하우스토리",
+    "region": "역곡지구",
+    "summary": "이러한 가운데 7월 22일부터 23일까지 청약 접수를 진행하는 부천 신혼희망타운 '역곡지구 하우스토리'가... 지하 1층, 데크 3개층~지상 25층 규모로 총 1,464세대의 대단지이며, 공공분양 물량은 976세대다. 전 세대는...",
+    "source_url": "https://www.newspim.com/news/view/20260722000951",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "고촌센트럴자이",
+    "region": "마곡",
+    "summary": "현재는 총 11가구를 대상으로 민간분양을 진행한다. 모집공고일은 지난 20일이며 청약 접수는 22~23일, 당첨자 발표는 29일이다. 공급 물량은 ▲84A㎡ 5가구 ▲84B㎡ 4가구 ▲105㎡ 2가구다. 분양가는 84A㎡ 7억5840만원, 84B...",
+    "source_url": "https://realty.chosun.com/site/data/html_dir/2026/07/22/2026072201410.html",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "DL이앤씨",
+    "region": "분당",
+    "summary": "제한된 수요층을 대상으로 한 공급임에도 1만5000건을 웃도는 청약이 접수됐다는 점에서 실수요 중심의 수요가 확인됐습니다. 청약 결과에는 판교와 분당 생활권을 공유하는 직주근접 여건과 분양가상한제 적용...",
+    "source_url": "https://www.inthenews.co.kr/news/article.html?no=89584",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "분양가상한제",
+    "region": "서울",
+    "summary": "한국부동산원 청약홈에 따르면 특별공급을 제외한 266가구 모집에 총 2,443건이 접수됐으며, 최고 경쟁률은 전용 59㎡A 타입으로 21.5대 1을 기록했다. 업계에서는 풍무역세권 마지막 공급 단지라는 희소성과 분양가상한제...",
+    "source_url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356323",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "분양가상한제가 적용되며 전체 공급 물량의 약 75%가 특별공급으로 배정된다. 생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 청약 기회를 넓게 가질 수 있다. 단지는 공항철도와 인천지하철 2호선...",
+    "source_url": "https://www.namdonews.com/news/articleView.html?idxno=917724",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "생애최초·신혼부부 등 무주택 실수요자에게 청약 기회가 확대되고, 신생아 특별공급 등 우선공급 혜택도 제공된다. 단지는 공항철도와 인천지하철 2호선이 만나는 검암역을 도보로 이용할 수 있는 더블역세권에...",
+    "source_url": "https://www.fntoday.co.kr/news/articleView.html?idxno=388653",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "경서동",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자의 청약 기회가 확대되고, 신생아 특별공급 물량도 민간분양보다 높은 비율로 배정된다. 단지가 들어서는 검암역세권 공공주택지구는 인천도시공사(IH)가 검암동과 경서동 일원...",
+    "source_url": "https://www.thepublic.kr/news/articleView.html?idxno=312252",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "호반산업",
+    "region": "김포",
+    "summary": "한국부동산원 청약홈에 따르면 지난 21일 진행된 '호반써밋 풍무Ⅲ' 1순위 청약에는 특별공급을 제외한 266가구 모집에 총 2443건이 접수돼 평균 9.2대 1의 경쟁률을 나타냈다. 이번 청약은 김포 풍무역세권의 마지막...",
+    "source_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451365",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "분양",
+    "region": "확인 필요",
+    "summary": "분양가상한제가 적용되고 전체 물량의 약 75%가 특별공급으로 배정돼 생애최초, 신혼부부 등 무주택 실수요자의 청약 기회가 넓다. 신생아 특별공급 배정과 우선공급 혜택도 적용돼 30~40대 수요자들의 관심이 높을...",
+    "source_url": "https://www.pressman.kr/news/articleView.html?idxno=102845",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "DL이앤씨",
+    "region": "분당",
+    "summary": "한국부동산원 청약홈에 따르면 지난 21일 진행된 '호반써밋 풍무Ⅲ' 1순위 청약에는 특별공급을 제외한 266가구 모집에 총 2443건이 접수돼 평균 9.2대 1의 경쟁률을 나타냈다. 당첨자는 오는 28일 발표한다. 당첨자...",
+    "source_url": "http://www.wsobi.com/news/articleView.html?idxno=315599",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "LH 세종특별본부",
+    "region": "확인 필요",
+    "summary": "LH 세종특별본부는 금회 공급으로 어려움을 겪고 있는 자영업자, 예비 창업자분들께 힘이 되고 지역경제가 활성화되는 계기가 되길 바란다고 밝혔다. 일반형 입찰은 8월 3일에 LH 청약플러스 전자입찰로 이뤄지며...",
+    "source_url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1089608",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "전체 공급 물량의 약 75%가 특별공급으로 배정되며, 생애최초·신혼부부 등 무주택 실수요자가 청약을 넣을 수 있는 기회가 민간분양보다 넓다. 특히 신생아 특별공급 배정 비율이 민간분양 대비 10%포인트 높고 우선공급...",
+    "source_url": "http://www.beyondpost.co.kr/view.php?ud=20260722153502373205868f676_30",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "분양가상한제",
+    "region": "확인 필요",
+    "summary": "22일 한국부동산원 청약홈에 따르면 지난 21일 진행된 '호반써밋 풍무Ⅲ' 1순위 청약에서는 특별공급을 제외한 266가구 모집에 2443명이 신청해 평균 9.2대 1의 경쟁률을 기록했다. 전용면적별로는 ▲59㎡A 21.5대 1 ▲84㎡A...",
+    "source_url": "https://www.smartbizn.com/news/articleView.html?idxno=149133",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "민간참여 공공분양 단지인 만큼 분양가상한제가 적용되며, 전체 공급 물량의 약 75%가 특별공급으로 배정된다. 생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 청약 기회를 넓게 가질 수 있다....",
+    "source_url": "https://www.kgnews.co.kr/news/article.html?no=904788",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "쌍용건설",
+    "region": "확인 필요",
+    "summary": "한국부동산원 청약홈에 따르면 지난 21일 진행된 '호반써밋 풍무Ⅲ' 1순위 청약에는 특별공급을 제외한 266가구 모집에 총 2443건이 접수돼 평균 9.2대 1의 경쟁률을 나타냈다. 당첨자는 오는 28일 발표한다. 당첨자...",
+    "source_url": "http://www.wsobi.com/news/articleView.html?idxno=315592",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "서울 새출발 중흥그룹",
+    "region": "노원구",
+    "summary": "한국부동산원 청약홈에 따르면 이달 7일 부산 '에코델타시티 중흥S-클래스 리버시티' 청약 결과 특별공급 325가구 모집에 17명, 1순위 484가구 모집에 38명 신청으로 흥행이 부진했다. 서울에선 이달 말 노원구 '월계 중흥S...",
+    "source_url": "https://www.topdaily.kr/articles/111081",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 청약 기회를 넓게 가질 수 있으며, 신생아 특별공급 물량도 민간분양보다 10% 확대 적용된다. 단지는 공항철도와 인천2호선 환승역인 검암역을 도보로 이용할 수...",
+    "source_url": "https://www.asiaa.co.kr/news/articleView.html?idxno=256001",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "특히 신혼부부와 생애최초 가구 등을 위한 특별공급 비중이 전체의 약 75%에 달하며, 신생아 특별공급 물량 역시 일반적인 민간 분양보다 10% 넉넉하게 배정돼 가점제에서 불리했던 30~40대 청약 대기자들에게 유리한...",
+    "source_url": "http://www.newslock.co.kr/news/articleView.html?idxno=133293",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "남양주 진접 서한이다음",
+    "region": "남양주",
+    "summary": "[사진  = 스트레이트뉴스 박정은 기자] '진접 서한이다음'의 부진한 청약 성적은 특별공급에서 예고됐다. 이 단지는 특별공급 156가구 모집에 421건 접수로 경쟁률 2.70대 1, 주택형별 실제 소진율 96.8%를 기록했다. 지역...",
+    "source_url": "https://www.straightnews.co.kr/news/articleView.html?idxno=307436",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "생애최초·신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 넓은 청약 기회를 가질 수 있으며, 신생아 특별공급 배정과 우선공급 혜택도 민간분양보다 10% 높게 적용된다. 단지가 들어서는 검암역세권...",
+    "source_url": "https://www.viva100.com/article/20260722500863",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 청약 기회를 더 많이 가질 수 있다. 민간분양보다 10% 높은 신생아 특별공급 배정과 우선공급 등의 혜택도 적용된다. 민간분양 가점제에서 상대적으로 불리했던...",
+    "source_url": "https://www.smarttoday.co.kr/ko-kr/articles/109689",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "민간참여 공공분양 단지인 만큼 분양가상한제가 적용되며, 전체 공급 물량의 약 75%가 특별공급으로 배정된다. 이로 인해 무주택 실수요자는 민간분양보다 상대적으로 넓은 청약 기회를 가질 수 있다. 특히 민간분양...",
+    "source_url": "https://www.financialpost.co.kr/news/articleView.html?idxno=267442",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "LH",
+    "region": "확인 필요",
+    "summary": "지난 21일 진행된 1순위 청약에는 특별공급을 제외한 266가구 모집에 총 2443건이 접수됐다. 타입별 경쟁률은 △전용 59㎡A 21.5대 1 △59㎡B 11.8대 1 △84㎡A 12대 1 △84㎡B 4대 1 △84㎡C 3.9대 1 △84㎡D 3대…",
+    "source_url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202862",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "일신건영",
+    "region": "경기도",
+    "summary": "단지는 오는 27일 특별공급을 시작으로 28일 1순위, 29일 2순위 접수를 진행한다. 당첨자 발표는 다음달 4일이고, 정당계약은 18일부터 20일까지 3일간 진행된다. 1순위 청약자격은 입주자모집공고일 기준 경기도...",
+    "source_url": "https://www.mk.co.kr/article/12104173",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 청약 기회를 넓게 가질 수 있다. 특히 민간분양보다 10% 높은 신생아 특별공급 배정과 우선공급 등의 혜택도 적용된다. 민간분양 가점제에서...",
+    "source_url": "https://www.arunews.com/news/articleView.html?idxno=65153",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 청약 기회를 넓게 가질 수 있다. 특히 민간분양보다 10% 높은 신생아 특별공급 배정과 우선공급 등의 혜택도 적용된다. 민간분양 가점제에서...",
+    "source_url": "https://www.news1.kr/realestate/general/6235014",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 청약 기회를 넓게 가질 수 있다. 특히 민간분양보다 10% 높은 신생아 특별공급 배정과 우선공급 등의 혜택도 적용된다. 민간분양 가점제에서...",
+    "source_url": "https://www.kpinews.kr/newsView/1065576653028246",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "공급 물량의 약 75%가 특별공급으로 배정돼 무주택 신혼부부와 생애최초 주택구입자, 신생아 가구 등이 청약할 수 있다. 단지 주변에는 간재울초, 검암초, 검암중, 간재울중, 서인천고 등이 위치해 있다. 아라뱃길...",
+    "source_url": "https://www.bizwork.co.kr/news/articleView.html?idxno=417514",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "서해구",
+    "summary": "민간참여 공공분양 아파트로 분양가상한제가 적용되며 전체 공급 물량의 약 75%가 특별공급으로 배정되어 무주택 실수요자 및 신혼부부 등에게 청약 기회가 상대적으로 넓게 주어지기 때문입니다. Q3. 단지 주변의...",
+    "source_url": "https://www.newspim.com/news/view/20260722000359",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 청약 기회를 넓게 가질 수 있다. 특히 민간분양보다 10% 높은 신생아 특별공급 배정과 우선공급 등의 혜택도 적용된다. 단지가 들어서는 인천...",
+    "source_url": "https://www.mt.co.kr/estate/2026/07/22/2026072209465567956",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "호반산업",
+    "region": "김포",
+    "summary": "한국부동산원 청약홈에 따르면 지난 21일 진행된 1순위 청약에서 특별공급을 제외한 266가구 모집에 총 2443건이 접수돼 평균 9.2대 1의 경쟁률을 나타냈다. 주택형별로는 전용 59㎡A가 21.5대 1로 가장 높았으며 59㎡B 11....",
+    "source_url": "https://www.discoverynews.kr/news/articleView.html?idxno=1096665",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "반드시",
+    "summary": "대우건설이 올해 처음 특별공급 비중이 높은 공공분양 단지의 공급 소식을 알렸다. 특히, 분양가상한제가... 실제 청약 시에는 입주자모집공고의 자격·전매·거주 등을 반드시 확인해야 한다\"라고 조언했다. 한편...",
+    "source_url": "https://www.econovill.com/news/articleView.html?idxno=745779",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자들의 청약 기회를 넓혔으며, 특히 민간분양보다 10% 높은 신생아 특별공급 배정과 우선공급 등의 혜택도 적용된다. 대우건설 관계자는 \"검암역 푸르지오 프라베뉴는 더블역세권...",
+    "source_url": "https://daily.hankooki.com/news/articleView.html?idxno=1388030",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자를 대상으로 한 청약 물량 비중이 높다. 신생아 특별공급 물량도 민간분양보다 10% 높은 수준으로 배정되며 우선공급 제도도 적용된다. 단지가 들어서는 검암역세권...",
+    "source_url": "https://www.ziksir.com/news/articleView.html?idxno=140766",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "생애최초·신혼부부 등 무주택 수요층은 민간분양보다 넓은 청약 기회를 얻는다. 신생아 특별공급 배정 비율도 민간분양보다 10% 높게 적용되며, 가점제에서 불리했던 30~40대 실수요자 진입 문턱도 낮아진다. 교통망은...",
+    "source_url": "https://www.cstimes.com/news/articleView.html?idxno=714209",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "분양가상한제가 적용되며 전체 공급 물량의 약 75%가 특별공급으로 배정된다. 생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 청약 기회를 넓게 가질 수 있다. 단지는 공항철도와 인천지하철 2호선...",
+    "source_url": "https://www.widedaily.com/news/articleView.html?idxno=297939",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "전체 공급 물량의 약 75%는 특별공급으로 배정되며 생애최초·신혼부부 등 무주택 실수요자를 위한 청약 기회가 확대된다. 단지는 공항철도와 인천지하철 2호선 환승역인 검암역을 도보로 이용할 수 있는 더블역세권...",
+    "source_url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03384966645517144",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "생애최초·신혼부부 특별공급은 물론 신생아 특별공급 확대 등 정책 혜택도 적용돼 무주택 실수요자의 청약 기회가 상대적으로 넓다는 것이 특징이다. 단지가 들어서는 검암역세권 공공주택지구는 인천 서구 검암동과...",
+    "source_url": "https://www.g-enews.com/view.php?ud=202607220936306457ea13369bfa_1",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "서울",
+    "summary": "생애최초·신혼부부 등 무주택 실수요자는 민간분양 대비 청약 기회 확대를 기대할 수 있다. 특히 신생아 특별공급 비중이 민간분양보다 10% 높게 적용되고 우선공급 혜택도 마련돼 30~40대 실수요층의 관심이 예상된다....",
+    "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470388",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자는 일반 민간분양보다 청약 기회를 확보하기 쉬운 구조이며, 신생아 특별공급 확대 등 정부의 공공분양 제도도 적용된다. 단지가 들어서는 검암역세권 공공주택지구는 인천...",
+    "source_url": "https://www.handmk.com/news/articleView.html?idxno=41516",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 청약 기회를 넓게 가질 수 있다. 특히 민간분양보다 10% 높은 신생아 특별공급 배정과 우선공급 등의 혜택도 적용된다. 민간분양 가점제에서...",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=337913",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "호반산업",
+    "region": "확인 필요",
+    "summary": "한국부동산원 청약홈에 따르면 지난 21일 진행된 '호반써밋 풍무Ⅲ' 1순위 청약에는 특별공급을 제외한 266가구 모집에 총 2443건이 접수돼 평균 9.2대 1의 경쟁률을 나타냈다. 타입별 경쟁률은 ▲전용 59㎡A 21.5대 1...",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=337914",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자는 일반 민간분양보다 상대적으로 청약 기회를 넓힐 수 있다. 신생아 특별공급 물량도 민간분양보다 10% 높은 비율이 적용되고 우선공급 혜택도 제공된다. 업계에선 가점제...",
+    "source_url": "https://www.businessplus.kr/news/articleView.html?idxno=114409",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "분양가상한제가 적용되며 전체 공급 물량의 약 75%가 특별공급으로 배정된다. 생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 청약 기회를 넓게 가질 수 있다. 단지는 공항철도와 인천지하철 2호선...",
+    "source_url": "https://www.newsis.com/view/NISX20260722_0003718069",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "특히 신생아 특별공급 비중은 민간분양보다 10%포인트 높게 배정된다. 일반공급 물량도 가점제 중심의 민간분양과 달리 청약저축 납입액 등을 기준으로 당첨자를 선정해 30~40대 실수요자의 청약 기회가 상대적으로 넓다....",
+    "source_url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570907492580",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "서울",
+    "summary": "생애최초와 신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 청약 기회를 넓게 가질 수 있다. 신생아 특별공급 배정과 우선공급 등의 혜택도 적용돼 민간분양 가점제에서 상대적으로 불리했던 30~40대...",
+    "source_url": "https://biz.heraldcorp.com/article/10815813?ref=naver",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "서울 30분대",
+    "region": "서울",
+    "summary": "전체 공급 물량의 약 75%가 특별공급으로 배정되며, 생애최초와 신혼부부 등 무주택 실수요자는 일반 민간분양보다 청약 기회를 넓힐 수 있다. 신생아 특별공급 물량도 민간분양보다 확대 적용된다. 단지가 들어서는...",
+    "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717234",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "전체 공급 물량의 약 75%는 특별공급으로 배정되며, 생애최초와 신혼부부 등 무주택 실수요자는 민간분양과 비교해 특별공급을 통한 청약 기회를 확보할 수 있습니다. 신생아 특별공급 배정 비율은 민간분양보다 10% 높고...",
+    "source_url": "https://www.inthenews.co.kr/news/article.html?no=89575",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "반도체",
+    "region": "광주연구개발특구",
+    "summary": "호반건설은 광주연구개발특구 첨단3지구에 조성하는 ‘호반써밋 첨단3지구’의 무순위 청약을 21일 진행했다. 최근 전남광주통합특별시 반도체 클러스터 개발에 맞물려 반도체와 인공지능(AI) 산업 배후지인...",
+    "source_url": "https://www.seoul.co.kr/news/economy/estate/2026/07/22/20260722500087?wlog_tag3=naver",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "DL이앤씨",
+    "region": "분당",
+    "summary": "kr 더트래커 = 박민정 기자DL이앤씨가 공급한 ‘e편한세상 분당 퍼스트빌리지’가 신혼희망타운 본청약에... 당첨자 발표는 오는 31일이며, 서류 접수는 8월 7일부터 17일까지 진행된다. 정당계약은 11월 4일부터...",
+    "source_url": "https://thetracker.co.kr/View.aspx?No=4158109",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "직주근접",
+    "region": "분당",
+    "summary": "본청약에서 평균 35.3대 1의 경쟁률을 기록했다. 22일 한국토지주택공사(LH) 청약플러스에 따르면, 지난 20... 한편 당첨자 발표는 오는 31일이며, 당첨자 서류 접수는 8월 7일부터 17일까지 진행한다. 정당계약은 11월...",
+    "source_url": "http://www.00news.co.kr/news/articleView.html?idxno=105319",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "DL이앤씨",
+    "region": "분당",
+    "summary": "본청약에는 442가구 모집에 1만5597건이 접수됐다. 전용면적 59㎡T는 4가구 모집에 626명이 신청해 156.5대 1로 가장 높은 경쟁률을 기록했으며, 59㎡A와 55㎡A도 높은 경쟁률을 나타냈다. 당첨자는 7월 31일 발표되며 서류...",
+    "source_url": "https://www.polinews.co.kr/news/articleView.html?idxno=737675",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "오산헤리티지자이",
+    "region": "경기도",
+    "summary": "1순위 청약에서 1단지 0.39대1, 2단지 0.05대1의 경쟁률을 기록했다. 22일 한국부동산원 청약홈에... 당첨자 발표는 28일 진행되며, 정당계약은 내달 10일부터 12일까지다. 오산헤리티지자이는 경기도 오산시...",
+    "source_url": "https://www.newsis.com/view/NISX20260722_0003718229",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "DL이앤씨",
+    "region": "판교",
+    "summary": "[DL이앤씨]  판교·분당 생활권에 공급되는 신혼희망타운에 1만5000여명의 청약자가 몰렸다. DL이앤씨는... 당첨자는 오는 31일 발표한다. 서류 접수는 8월 7일부터 17일까지이며 정당계약은 11월 4일부터 13일까지...",
+    "source_url": "https://www.ziksir.com/news/articleView.html?idxno=140783",
+    "pub_date": "2026-07-22"
+  },
+  {
+    "housing_name": "일신건영",
+    "region": "이천",
+    "summary": "일신건영, ‘이천 휴먼빌 클래스원’ 27일 특별공급 시작으로 청약 개시  v.daum.net",
+    "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1rVUhvVC1waEZYRExXZjRjVFZWX3kzTHlDdkpMd3AzTWRBT0pRR3NuMmNSWlRtOElxWW5TWkNnNmw4d2E3a1E?oc=5",
+    "pub_date": "2026-07-22"
+  },
+  {
     "housing_name": "요동치는 집값",
     "region": "확인 필요",
     "summary": "‘조선일보 머니’ 업로드 일정 23~28일까지 조선일보 경제부가 만드는 유튜브 채널 ‘조선일보 머니’... 또 걸그룹 아이브의 멤버 안유진씨가 ‘디에이치 방배’ 아파트 청약 당첨으로 불거진 분양가 상한제와 100...",
