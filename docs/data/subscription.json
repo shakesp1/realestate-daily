@@ -1,5 +1,12 @@
 [
   {
+    "housing_name": "서울",
+    "region": "노원구",
+    "summary": "| 스마트비즈 = 최형호 기자 | 7월 마지막 주 전국 분양시장에서는 서울과 지방 주요 지역을 중심으로 2800여... 제외)의 청약 접수가 예정돼 있다. 다음 주 서울에서는 노원구 월계동 '월계 중흥S-클래스 리비에르'가 1순위...",
+    "source_url": "https://www.smartbizn.com/news/articleView.html?idxno=149390",
+    "pub_date": "2026-07-25"
+  },
+  {
     "housing_name": "한신공영",
     "region": "경남",
     "summary": "노후 아파트 비중이 높은 경남 창원시 마산회원구에 2000가구가 넘는 대단지가 공급된다. 한신공영은... 분양 일정에 들어간다고 이날 밝혔다. 이 단지는 창원특례시 마산회원구 회원2동 480-31번지 일원에 조성되며...",
@@ -18,6 +25,363 @@
     "region": "확인 필요",
     "summary": "‘창원 한신더휴 메가센텀’청약 일정은 오는 27일 특별공급을 시작으로 28일 1순위, 29일 2순위 청약 순으로 진행된다. 당첨자 발표일은 8월 4일이며 정당계약은 8월 18일~20일 3일간 진행된다. 일반공급의 경우 공고일...",
     "source_url": "https://biz.heraldcorp.com/article/10818637?ref=naver",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설이 공공지원 민간임대 아파트 '오산 세교 우미린 포레아시티' 주택홍보관을 24일 개관하고 청약 일정에 본격 돌입했다고 24일 밝혔다. 경기도 오산시 세교2지구 A-5블록 일원에 들어서는 '오산 세교 우미린...",
+    "source_url": "http://www.popcornnews.net/news/articleView.html?idxno=127639",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "우미건설이 경기 오산 세교2지구 A-5블록 일원에 조성하는 공공지원 민간임대 아파트 '오산 세교 우미린 포레아시티'가 24일 주택홍보관 문을 열고 청약 일정에 들어간다. 청약 접수는 오는 29일과 30일 이틀간...",
+    "source_url": "https://www.wikitree.co.kr/articles/1148302",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설이 경기도 오산시 세교2지구 A-5블록에 들어서는 공공지원 민간임대 아파트 '오산 세교 우미린... 청약 일정은 7월 29일부터 30일까지며, 당첨자는 8월 4일 발표한다. 계약은 8월 17일부터 20일까지다. 청약통장...",
+    "source_url": "https://www.polinews.co.kr/news/articleView.html?idxno=737953",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "민간임대 아파트를 공급한다. 내년 1월 입주 예정인 후분양 단지로, 청약통장 없이도 무주택자라면 신청할... 공급 일정에 나선다고 이날 밝혔다. 단지는 지하 2층~지상 29층, 10개 동, 전용면적 69·84㎡ 총 1050가구 규모로...",
+    "source_url": "https://www.sedaily.com/article/20071544?ref=naver",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설이 경기도 오산시 세교2지구 일원에 조성하는 공공지원 민간임대 아파트 '오산 세교 우미린 포레아시티'의 주택홍보관을 24일 오픈하고 청약 일정에 돌입한다. 이 단지는 지하 2층~지상 29층, 10개 동, 전용면적...",
+    "source_url": "https://www.getnews.co.kr/news/articleView.html?idxno=875980",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설은 경기도 오산시 세교2지구 A-5블록 일원에 조성하는 공공지원 민간임대 아파트 '오산 세교 우미린포레아시티'의 주택홍보관을 개관하고 본격적인 청약 일정에 돌입한다고 24일 밝혔다. 이 단지는 지하 2층...",
+    "source_url": "http://www.newsdream.kr/news/articleView.html?idxno=115038",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "한신공영",
+    "region": "확인 필요",
+    "summary": "분양 일정에 들어간다. 이 단지는 마산회원구에서 약 20년 만에 공급되는 2,000세대 이상 규모의 아파트다.... 청약은 7월 27일 특별공급을 시작으로 28일 1순위, 29일 2순위 순으로 진행된다. 당첨자 발표는 8월 4일...",
+    "source_url": "https://www.betanews.net/article/view/beta202607240022",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "민간임대 아파트 '오산 세교 우미린 포레아시티'의 주택홍보관을 열고 본격적인 입주자 모집에 나선다.... 개관하고 청약 일정을 시작한다. 단지는 지하 2층~지상 29층, 10개 동, 전용면적 69㎡·84㎡, 총 1,050가구 규모로...",
+    "source_url": "https://www.e-science.co.kr/news/articleView.html?idxno=132382",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "한신공영",
+    "region": "경남",
+    "summary": "뷰어스 문형민 기­자 mhyung13@viewers.co.kr 경남 창원 분양시장에서 희소성 높은 대단지 아파트가 공급된다.... 청약 일정은 오는 27일 특별공급을 시작으로 28일 1순위, 29일 2순위 순으로 진행된다. 당첨자는 8월 4일...",
+    "source_url": "https://theviewers.co.kr/View.aspx?No=4160766",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "GS건설",
+    "region": "확인 필요",
+    "summary": "부영그룹은 아파트 단지 내 관리동에 위치한 부영 사랑으로 어린이집의 임대료를 면제하고 있다. 이를 통해... 청약 일정은 오는 29일 특별공급, 30일 일반공급 순이다. 당첨자 발표는 다음달 4일이며 정당계약은 같은달...",
+    "source_url": "https://www.sisaon.co.kr/news/articleView.html?idxno=202946",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산시",
+    "summary": "오산=비욘드포스트 송인호 기자 우미건설이 오산시 세교2지구 A-5블록 일원에 조성하는 공공지원 민간임대 아파트 '오산 세교 우미린 포레아시티'의 주택홍보관을 24일 오픈하고 본격적인 청약 일정에 돌입한다. 단지는...",
+    "source_url": "http://www.beyondpost.co.kr/view.php?ud=202607240718175044c878f8fa1_30",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "민간임대 아파트 '오산 세교 우미린 포레아시티'의 주택홍보관을 24일 열고 본격적인 청약 일정에 돌입한다고 밝혔다. 이 단지는 지하 2층~지상 29층, 10개 동, 전용면적 69·84㎡, 총 1050가구 규모의 대단지로 조성된다....",
+    "source_url": "https://www.m-i.kr/news/articleView.html?idxno=1394847",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설이 경기도 오산시 세교2지구 A-5블록에 들어서는 공공지원 민간임대 아파트 '오산 세교 우미린... 청약 일정은 오는 29일부터 30일까지 이틀간 특별공급과 일반공급 접수를 실시한다. 당첨자 발표는 8월4일이며...",
+    "source_url": "https://www.sidae.com/article/2026072410134442437",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "한신공영",
+    "region": "창원시",
+    "summary": "분양 일정에 돌입한다. 이번 단지는 새 아파트 공급이 드물었던 창원시 마산회원구에서 무려 20년 만에... 청약 일정은 7월 27일 특별공급을 시작으로 28일 1순위, 29일 2순위 순으로 진행된다. 당첨자 발표는 8월 4일이며...",
+    "source_url": "https://www.thegolftimes.co.kr/news/articleView.html?idxno=81650",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설이 주거 안정성이 높은 공공지원 민간임대 아파트를 공급한다. 우미건설은 경기도 오산시 세교2지구 일원에 짓는 '오산 세교 우미린 포레아시티'의 주택홍보관을 24일 열고, 본격적인 청약 일정에 돌입한다고...",
+    "source_url": "https://www.econovill.com/news/articleView.html?idxno=746058",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "배산임수 갖춘 원스톱 생활권 아파트",
+    "region": "확인 필요",
+    "summary": "분양 일정에 돌입했다. 김해 최대 호수공원인 연지공원과 경운산을 가까이 두고, 교통·교육·쇼핑·문화·의료 인프라까지 두루 갖춘 '원스톱 생활권' 아파트로 수요자들의 관심이 쏠리고 있다. 특히 전용 84㎡ 저층(1~4층)...",
+    "source_url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61946",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "한신공영",
+    "region": "확인 필요",
+    "summary": "청약 일정은 7월 27일 특별공급을 시작으로 28일 1순위, 29일 2순위 순으로 진행된다. 당첨자 발표는 8월... 국토교통부 실거래가 공개시스템에 따르면 인근 준공 18년차 아파트인 ‘메트로시티 1단지’ 전용 84㎡는...",
+    "source_url": "https://biz.heraldcorp.com/article/10818846?ref=naver",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설이 경기도 오산시 세교2지구 A-5블록에 조성하는 공공지원 민간임대 아파트 ‘오산 세교 우미린 포레아시티’의 주택홍보관을 24일 열고 청약 일정에 돌입했다. 단지는 지하 2층~지상 29층, 10개동, 전용면적 69...",
+    "source_url": "http://www.lawissue.co.kr/view.php?ud=20260724100128721467191f6c6e_12",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산시",
+    "summary": "우미건설이 경기 오산시 세교2지구 A-5블록에 조성하는 공공지원 민간임대 아파트 ‘오산 세교 우미린 포레아시티’의 주택홍보관을 24일 열고 본격적인 청약일정에 나선다. 단지는 지하 2층~지상 29층, 10개 동, 전용면적...",
+    "source_url": "https://www.g-enews.com/view.php?ud=2026072409444845092aa6f4cdad_1",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설은 경기도 오산시 세교2지구 A-5블록 일원에 조성하는 공공지원 민간임대 아파트 '오산 세교 우미린 포레아시티'의 주택홍보관을 24일 오픈하고 본격적인 청약 일정에 돌입한다고 24일 밝혔다. 이 단지는 지하...",
+    "source_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452064",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "오는 2027년 1월 입주가 예정된 후분양 아파트로, 입주 시기가 상대적으로 빠픈 편이다. 청약 일정은 오는 29일부터 30일까지 이틀간 특별공급과 일반공급 접수를 동시에 실시한다. 당첨자 발표는 8월 4일이며, 정당...",
+    "source_url": "http://www.financialreview.co.kr/news/articleView.html?idxno=43745",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "한신공영",
+    "region": "확인 필요",
+    "summary": "분양 일정에 들어간다고 밝혔다. 새 아파트가 귀한 마산회원구에서 20년 만에 공급되는 2,000세대 이상... 청약 일정에 따르면 7월 27일(월) 특별공급을 시작으로 28일(화) 1순위, 29일(수) 2순위 청약 순으로 진행된다....",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=338049",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "민간임대 아파트 '오산 세교 우미린 포레아시티'의 모델하우스를 열고 본격적인 분양 일정에 들어간다고... 청약은 7월 29일부터 30일까지 특별공급과 일반공급으로 나눠 진행된다. 당첨자는 8월 4일 발표하며...",
+    "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471119",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "함께 청약 절차에 들어가면서, 장기 거주 안정성과 후분양 단지라는 점을 앞세워 실수요자들의 관심을 받을... 민간임대 아파트 '오산 세교 우미린 포레아시티'의 주택홍보관을 24일 개관하고 본격적인 공급 일정에...",
+    "source_url": "https://www.businessplus.kr/news/articleView.html?idxno=114545",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산시",
+    "summary": "우미건설은 경기 오산시 세교2지구 A-5블록에 들어서는 공공지원 민간임대 아파트 ‘오산 세교 우미린 포레아시티’의 주택홍보관을 24일 열고 청약 일정에 돌입한다고 밝혔다. 오산 세교 우미린 포레아시티는 지하...",
+    "source_url": "https://www.ddaily.co.kr/page/view/2026072409144408835",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설은 경기도 오산시 세교2지구 A-5블록에 공급하는 공공지원 민간임대 아파트 '오산 세교 우미린 포레아시티'의 주택홍보관을 24일 개관하고 청약 일정에 들어간다고 밝혔다. 단지는 지하 2층~지상 29층, 10개 동...",
+    "source_url": "https://www.fntimes.com/html/view.php?ud=202607240854192294048b718333_18",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설이 경기 오산 세교지구에서 공공지원 민간임대 아파트를 선보이며 본격적인 청약 일정에 돌입한다. 우미건설은 경기도 오산시 세교2지구 A-5블록에 조성하는 ‘오산 세교 우미린 포레아시티’의 주택홍보관을...",
+    "source_url": "https://www.newsis.com/view/NISX20260724_0003721480",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "민간임대 아파트 '오산 세교 우미린 포레아시티'의 주택홍보관을 열고 본격적인 분양 일정에 들어간다.... 청약은 오는 29일부터 30일까지 특별공급과 일반공급으로 나눠 진행된다. 당첨자는 8월 4일 발표하며...",
+    "source_url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065569866244955",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "경기도",
+    "summary": "우미건설이 경기도 오산시 세교2지구 A-5블록 일원에 조성하는 공공지원 민간임대 아파트 '오산 세교 우미린 포레아시티'의 주택홍보관을 오픈하고 본격적인 청약 일정에 돌입한다. 최장 10년간 장기 거주가 가능한...",
+    "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717601",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "2027년 1월 입주 예정인 후분양 단지다. 청약 접수는 7월 29일부터 30일까지 특별공급과 일반공급으로 진행되며, 당첨자는 8월 4일 발표한다. 정당계약은 8월 17일부터 20일까지다. 청약통장 가입 여부와 관계없이 만 19세...",
+    "source_url": "https://www.asiaa.co.kr/news/articleView.html?idxno=256313",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "동부건설",
+    "region": "확인 필요",
+    "summary": "분양 일정은 내달 3일 특별공급을 시작으로 4일 1순위, 5일 2순위 청약 접수 순으로 진행됩니다. 당첨자는 내달 11일 발표하며 정당계약은 내달 24일부터 26일까지 3일간 실시합니다. 청약 자격은 입주자 모집공고일을...",
+    "source_url": "https://www.inthenews.co.kr/news/article.html?no=89715",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "남광토건",
+    "region": "역곡지구",
+    "summary": "570가구 모집에 5608건 접수…전 주택형 청약 마감 55㎡A 최고 15.2대 1…당첨자 발표 8월 4일  남광토건이... 전용 55㎡ 570가구 규모로 조성되며 분양가상한제가 적용됐다. 당첨자는 오는 8월 4일 발표되며...",
+    "source_url": "https://www.tfmedia.co.kr/news/article.html?no=205980",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "후분양 방식으로 공급되며 입주는 2027년 1월 예정이다. 청약 접수는 29일부터 30일까지 특별공급과 일반공급을 대상으로 진행된다. 당첨자는 8월 4일 발표하며 정당계약은 같은 달 17일부터 20일까지 실시한다. 만 19세...",
+    "source_url": "https://www.ziksir.com/news/articleView.html?idxno=141055",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "송파구",
+    "summary": "2027년 1월 입주가 예정된 후분양 단지다. 단지는 7월 29일(수) 부터 30일(목)까지 이틀간 특별공급과 일반공급에 대해 청약 접수를 실시한다. 당첨자 발표는 8월 4일(화)이다. 정당 계약은 8월 17일(월)부터 20일(목)까지...",
+    "source_url": "http://www.wsobi.com/news/articleView.html?idxno=315696",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "동부건설",
+    "region": "확인 필요",
+    "summary": "특별공급은 8월 3일, 1순위 청약은 4일, 2순위 청약은 5일 진행된다. 당첨자는 8월 11일 발표하며 정당계약은 8월 24일부터 26일까지 3일간 진행될 예정이다. 청약은 입주자 모집공고일 기준 청약통장 가입 기간 6개월...",
+    "source_url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90468",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "중흥건설그룹 중흥토건",
+    "region": "확인 필요",
+    "summary": "청약 일정은 7월 27일 특별공급을 시작으로 28일 1순위 해당 지역, 29일 1순위 기타 지역, 30일 2순위 순으로 청약을 진행한다. 이어 8월 5일 당첨자가 발표되며, 정당계약은 8월 18일부터 20일까지 3일간 실시할...",
+    "source_url": "http://www.srtimes.kr/news/articleView.html?idxno=208301",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "전용면적 60~84㎡, 총 441가구 규모로 조성되며, 분양가상한제가 적용된다. 전체 물량의 약 75%는 특별공급으로 배정돼 생애최초·신혼부부 등 무주택 실수요자는 민간분양보다 상대적으로 넓은 청약 기회를 얻을 수 있다.",
+    "source_url": "https://www.viva100.com/article/20260724500699",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "동부건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 8월 3일 특별공급, 4일 1순위, 5일 2순위 순으로 진행되며, 당첨자 발표는 8월 11일, 정당계약은 8월 24~26일이다. 계약금은 통상 10%에서 5%로 낮추고 1차 계약금 500만원 정액제를 도입했으며, 중도금 대출...",
+    "source_url": "http://www.lawissue.co.kr/view.php?ud=20260724154134899867191f6c6e_12",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "동부건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 8월 3일 특별공급을 시작으로 4일 1순위, 5일 2순위 접수가 진행된다. 당첨자는 8월 11일 발표되며 정당계약은 8월 24일부터 26일까지 사흘간 실시될 예정이다. 청약은 입주자 모집공고일 기준 청약통장 가입...",
+    "source_url": "https://www.businessplus.kr/news/articleView.html?idxno=114588",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "동부건설",
+    "region": "확인 필요",
+    "summary": "청약은 8월 3일 특별공급을 시작으로 4일 1순위, 5일 2순위 순으로 진행된다. 당첨자 발표는 8월 11일이며 정당계약은 같은 달 24일부터 26일까지 예정돼 있다. 입주자 모집공고일을 기준으로 청약통장 가입 기간이 6개월...",
+    "source_url": "https://www.ziksir.com/news/articleView.html?idxno=141128",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "주택도시보증공사",
+    "region": "확인 필요",
+    "summary": "동일하게 신생아 자녀를 두고 '신생아 특별공급' 트랙에 맞춰 청약을 넣었고 당첨까지 되었음에도, 단지 우선공급 단계가 아닌 다음 단계에서 당첨되었다는 이유만으로 신생아 특례 대출 혜택을 박탈하겠다는 것이다....",
+    "source_url": "https://www.nbntv.kr/news/articleView.html?idxno=340508",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "동부건설",
+    "region": "확인 필요",
+    "summary": "청약은 다음 달 3일 특별공급을 시작으로 4일 1순위, 5일 2순위 접수를 진행한다. 당첨자는 8월 11일 발표하며 정당계약은 8월 24일부터 26일까지 사흘간 이뤄진다. 입주자 모집공고일 기준 청약통장 가입 기간이 6개월...",
+    "source_url": "https://realty.chosun.com/site/data/html_dir/2026/07/24/2026072401355.html",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "동부건설",
+    "region": "확인 필요",
+    "summary": "청약일정은 오는 8월 3일 특별공급, 4일 1순위, 5일 2순위 순으로 진행되며, 당첨자 발표는 같은 달 11일, 정당계약은 24~26일 각각 이뤄진다. 시행사인 한국토지신탁은 계약금 5%, 1차 계약금 500만 원 정액제, 중도금 대출...",
+    "source_url": "http://www.newsdream.kr/news/articleView.html?idxno=115027",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "한신공영",
+    "region": "경남",
+    "summary": "청약은 오는 27일 특별공급을 시작으로 28일 1순위, 29일 2순위 순으로 진행된다. 당첨자는 8월 4일 발표되며, 정당계약은 8월 18일부터 20일까지 사흘간 진행된다. 입주자 모집공고일을 기준으로 창원시 또는 경남...",
+    "source_url": "http://www.knnews.co.kr/news/articleView.php?idxno=1547161",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "청약은 오는 29일부터 30일까지 이틀간 특별공급·일반공급으로 나눠 접수한다. 당첨자 발표는 8월 4일이며, 정당 계약은 8월 17일부터 20일까지 나흘간 진행된다. 청약통장 보유 여부와 무관하게 만 19세 이상 무주택자나...",
+    "source_url": "https://www.cstimes.com/news/articleView.html?idxno=714519",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "IPARK현대산업개발",
+    "region": "경남",
+    "summary": "대한 무순위 청약을 진행한다. 무순위 청약은 청약통장이 필요 없고, 부산·경남지역에 거주하는 만 19세 이상의 무주택 세대 구성원이라면 누구나 신청할 수 있다. 24일 IPARK현대산업개발에 따르면 경남 김해시 신문동...",
+    "source_url": "https://www.mk.co.kr/article/12106442",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "남광토건",
+    "region": "역곡지구",
+    "summary": "상품성도 청약 흥행에 힘을 보탰다. 전 가구를 전용 55㎡로 구성하면서도 6개 평면을 마련했고, 4베이 판상형 구조와 드레스룸, 팬트리 등 수납공간을 강화했다. 당첨자는 오는 8월 4일 발표되며, 당첨자 서류...",
+    "source_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452155",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "남광토건",
+    "region": "역곡지구",
+    "summary": "이 가운데 공공분양 신혼희망타운은 976가구이며, 이번 본청약 대상은 사전 청약 당첨자 잔여 물량을... 당첨자는 오는 8월 4일 발표되며, 당첨자 서류 접수는 8월 17일부터 23일까지 진행된다. 정당계약은 11월...",
+    "source_url": "https://biz.chosun.com/real_estate/real_estate_general/2026/07/24/MZCBYDLQ6JCANMXSXOEOOXJC4E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "서울 집값 부담에 신혼희망타운 쏠림",
+    "region": "역곡지구",
+    "summary": "공공주택지구  지하 1층, 데크 2개층~지상 25층, 총 1464가구 규모로 조성된다. 이 가운데 신혼희망타운은 976가구이며 이번 본청약 대상은 사전청약 잔여물량을 포함한 570가구다. 당첨자는 다음달 4일 발표될 예정이다.",
+    "source_url": "https://www.smartbizn.com/news/articleView.html?idxno=149330",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "남광토건",
+    "region": "경기도",
+    "summary": "남광토건이 경기도 부천시 부천역곡지구 일원에 공급하는 신혼희망타운 '역곡지구 하우스토리'가 본청약... 당첨자는 오는 8월 4일 발표되며, 당첨자 서류 접수는 8월 17일부터 23일까지 진행된다. 정당계약은 11월...",
+    "source_url": "https://www.econovill.com/news/articleView.html?idxno=746061",
+    "pub_date": "2026-07-24"
+  },
+  {
+    "housing_name": "우미건설",
+    "region": "오산",
+    "summary": "우미건설, ‘오산 세교 우미린 포레아시티’ 분양…29일부터 청약 접수  핀포인트뉴스",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDOFJ0b1JVekxBQ3JqWVJ1TEotSVNPSTN4ZFowSHJQdFFSR2hhMjdrS0EwNnNIU1IwUjJhRWVkZ09CMk4zNTZpc3FRVTZpM3FSLWN4b0V0Q1g1ZUYwMU9tdUZsUFRrOVFuQ3ljTlVUa3hpWm_SAXdBVV95cUxPejJOa0NqWmkybDVwTy01dTluUGJnaFRXTXgtbjlpenpRMjZSYkd0SmtuQUVQRWFBaXA1UFk2MGFkVGlOWTJBeGFoS1pZSnBpZ3QwWWx3TUNDMFhxMGRJY09tbTNRMEl3bTN5dmFOVWlXSS11V3o4bw?oc=5",
     "pub_date": "2026-07-24"
   },
   {
