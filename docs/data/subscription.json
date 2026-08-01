@@ -1,5 +1,40 @@
 [
   {
+    "housing_name": "부산 남구",
+    "region": "부산",
+    "summary": "분양시장에서 역세권 단지의 인기는 꾸준하다. 일례로 지난 14일 1순위 청약을 받은 '동작 센트럴 동문 디이스트'의 경우 1순위 청약접수 결과 34가구(특별공급...",
+    "source_url": "https://www.apnews.kr/news/articleView.html?idxno=3050215",
+    "pub_date": "2026-08-01"
+  },
+  {
+    "housing_name": "대구",
+    "region": "경북",
+    "summary": "공급 대상은 특별공급과 1·2순위 청약 과정에서 발생한 부적격 당첨, 중복 당첨, 계약 포기 등에 따른 미계약 세대다. 다만 기존 특별공급이나 1·2순위 당첨 후 계약을 포기한 경우에는 다시 신청할 수 없다. 신청...",
+    "source_url": "https://www.kukinews.com/article/view/kuk202608010009",
+    "pub_date": "2026-08-01"
+  },
+  {
+    "housing_name": "두산위브",
+    "region": "부산광역시",
+    "summary": "향후 일정은 오는 10일 특별공급을 시작으로 11일 1순위, 12일 2순위 청약을 받는다. 당첨자 발표는 19일, 정당계약은 31일부터 9월 2일까지 체결한다. 청약은 입주자모집공고일 기준 만 19세 이상 부산광역시, 울산광역시 및...",
+    "source_url": "https://www.mk.co.kr/article/12113904",
+    "pub_date": "2026-08-01"
+  },
+  {
+    "housing_name": "두산위브",
+    "region": "울산",
+    "summary": "청약은 오는 8월10일 특별공급을 시작으로 11일 1순위, 12일 2순위 순으로 진행된다. 당첨자는 8월19일 발표하며 정당계약은 8월31일부터 9월2일까지 사흘간 실시한다. 입주자모집공고일 기준 만 19세 이상으로 부산과 울산...",
+    "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=537004",
+    "pub_date": "2026-08-01"
+  },
+  {
+    "housing_name": "두산위브",
+    "region": "확인 필요",
+    "summary": "청약 일정은 8월 10일 특별공급, 11일 1순위, 12일 2순위 접수로 진행된다. 당첨자 발표는 19일이며, 정당 계약은 8월 31일부터 9월 2일까지 진행될 예정이다. 청약 대상은 입주자 모집공고일 기준 만 19세 이상의...",
+    "source_url": "http://www.fnnews.com/news/202607311425168159",
+    "pub_date": "2026-08-01"
+  },
+  {
     "housing_name": "대형건설사",
     "region": "거제시",
     "summary": "동부건설은 ‘센트레빌 아스테리움 거제’의 분양절차에 돌입했다. 거제시 상동동 681-2번지 일원에 지하 3층~지상 29층, 10개 동, 전용면적 84㎡, 99㎡, 총 1307가구 규모로 내달 3일 특별공급과 4일 1순위 청약 접수에...",
@@ -200,6 +235,13 @@
     "region": "확인 필요",
     "summary": "인천중기청, 중소기업 장기근속자에 주택특별공급  v.daum.net",
     "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yNXBDZGoyRG5iYkREeHdUTGNzNUJIU3lrSmdBWk9NY1FpNUFUaWVwZG1VZjZraVptWFpuZFBQazlMOGtTWUhOaERWSzlzQmM?oc=5",
+    "pub_date": "2026-07-31"
+  },
+  {
+    "housing_name": "인천중기청",
+    "region": "확인 필요",
+    "summary": "인천중기청, 중소기업 장기근속자에 주택특별공급  v.daum.net",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oREk2bjBuQlJEdHZ2VDZsVkl2cllubkZLaEpiWVBwUkFyalRwbDdsenAtcjlYVlY1dUZmV3hIdlU4RkZBYUR2TFFaTQ?oc=5",
     "pub_date": "2026-07-31"
   },
   {
