@@ -1,5 +1,544 @@
 [
   {
+    "housing_name": "상동역롯데캐슬",
+    "region": "확인 필요",
+    "summary": "8월 넷째 주에는 전국에서 5430가구가 분양에 나선다. 22일 부동산114에 따르면 오는 24일부터 30일까지... 청약 접수는 오는 25일 진행된다. 단지는 지하철 7호선 상동역이 바로 앞에 있으며 인근...",
+    "source_url": "https://www.sentv.co.kr/article/view/sentv202608210198",
+    "pub_date": "2026-08-22"
+  },
+  {
+    "housing_name": "상동역롯데캐슬",
+    "region": "성남시",
+    "summary": "◇청약 단지(10곳) 부동산 정보업체 부동산114에 따르면 8월 넷째 주에는 전국 10개 단지 총 5430가구가 분양한다. 24일에는 경기 성남시 성남금토A4(행복주택)가 청약 접수를 진행한다. 25일에는 서울 서대문구...",
+    "source_url": "https://www.etoday.co.kr/news/view/2616826",
+    "pub_date": "2026-08-22"
+  },
+  {
+    "housing_name": "인천도시공사",
+    "region": "경서동",
+    "summary": "청약은 8월 31일 특별공급을 시작으로 9월 1~2일 일반공급을 진행하며 당첨자는 9월 8일 발표한다. 검암역세권 공공주택지구는 인천 서구 검암·경서동 일원 약 81만㎡에 공공주택과 상업·업무시설, 공원 등을 조성하는...",
+    "source_url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2274175",
+    "pub_date": "2026-08-22"
+  },
+  {
+    "housing_name": "두산위브더제니스 부천",
+    "region": "경기도",
+    "summary": "청약 당첨자 발표는 8월 28일이며, 정당계약은 9월 8일부터 10일까지 진행된다. 경기도 부천시는 비규제지역으로 분양받는 데 규제 문턱이 낮다. 별도의 거주의무가 없고, 전매제한 기간은 1년으로 입주 전 전매가...",
+    "source_url": "https://www.newspim.com/news/view/20260821000636",
+    "pub_date": "2026-08-22"
+  },
+  {
+    "housing_name": "인천도시공사",
+    "region": "인천시",
+    "summary": "뉴데일리 송원영 기자 = 인천시 서해구 검암역세권 공공주택지구에서 아파트가 첫 공급된다. 인천도시공사... 청약 일정은 21일 입주자 모집공고를 시작으로 31일 특별공급, 9월 1~2일 일반공급, 9월 8일 당첨자 발표, 11월...",
+    "source_url": "https://ic.newdaily.co.kr/site/data/html/2026/08/21/2026082100280.html",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "iH",
+    "region": "확인 필요",
+    "summary": "공공주택지구에서 아파트가 첫 공급된다. 인천도시공사(iH)는 21일 '검암역 푸르지오 프라베뉴(B-1블록)... 한국부동산원(청약홈)에서 무주택 세대구성원을 대상으로 접수하는 청약 일정은 31일 특별공급, 9월...",
+    "source_url": "http://www.incheonin.com/news/articleView.html?idxno=120213",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "금호건설",
+    "region": "확인 필요",
+    "summary": "GS건설, 목동12단지 재건축 신한은행과 금융 협력 GS건설은 신한은행과 목동12단지아파트 재건축 사업의... 청약 일정은 오는 31일 특별공급을 시작으로 다음달 1일 1순위, 2일 2순위 접수 순이다. 당첨자 발표는 다음달...",
+    "source_url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203710",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "서해구",
+    "summary": "‘그리너리 스튜디오’, 다목적실, 시니어클럽, 게스트하우스, 어린이집 등이 들어설 예정이다. 견본주택은 인천 서해구 어울로 75에 마련됐다. #검안역푸르지오, #아파트분양, #청약일정 이재수 글로벌이코노믹 기자",
+    "source_url": "https://www.g-enews.com/view.php?ud=2026082114581562172aa6f4cdad_1",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "GS건설",
+    "region": "확인 필요",
+    "summary": "GS건설은 신한은행과 목동12단지아파트 재건축정비사업의 사업 추진을 위한 금융 업무협약를... 입주 예정일은 개별 공지한다. 단지 배치도와 평면도, 상세 일정, 청약 방법 등은 SH 누리집에서 확인할 수 있다.",
+    "source_url": "http://www.wsobi.com/news/articleView.html?idxno=316817",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "상동역롯데캐슬",
+    "region": "성북구",
+    "summary": "등에서 청약을 진행한다. 모델하우스는 서울 성북구 하월곡동 '브라운스톤월곡센트럴', 경기 성남시... 롯데건설은 경기 부천시 상동 540-1번지에 주상복합 아파트 '상동역롯데캐슬시그니처'를 분양한다. 지하 8층...",
+    "source_url": "http://www.dtnews24.com/news/articleView.html?idxno=814454",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "청약통장 없어도 된다",
+    "region": "확인 필요",
+    "summary": "청약홈을 통해 진행된다. 27일에 당첨자를 발표하고, 28~29일 서류 접수, 9월 3일에 계약을 진행하는 일정이다.... ‘춘천 리버뷰 아이파크’가 공급되는 동면권역은 건설사의 브랜드 아파트가 밀집된 신흥 주거지로서...",
+    "source_url": "https://www.dt.co.kr/article/12079381?ref=naver",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "남양주",
+    "summary": "공공분양 아파트다. 대우건설은 지난해 경기 남양주 왕숙, 하남 교산, 화성 동탄 등에서 민간 참여 공공분양... 청약 접수는 오는 8월 31일 특별공급을 시작으로 9월 1일 1순위, 9월 2일 2순위 일정으로 진행된다. 당첨자...",
+    "source_url": "https://www.asiatime.co.kr/article/20260821500064",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "분양 일정에 돌입한다. 검암역푸르지오프라베뉴 조감도 [사진=대우건설] 21일 분양업계에 따르면 민간참여... 민간분양 아파트와 비교했을 때 이번 단지 청약 요건에서 눈에 띄는 차이점이나 장점은 무엇인가요? A. 전체...",
+    "source_url": "https://www.newspim.com/news/view/20260821000244",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "DL이앤씨",
+    "region": "확인 필요",
+    "summary": "전매가 가능하고 오피스텔 계약 이후에도 향후 아파트 청약 자격을 유지할 수 있다는 점도 공급 조건에... 다만 GTX 사업 일정과 주변 교통 환경은 향후 공사 진행 상황에 따라 달라질 수 있어 실제 입주 시점의 교통...",
+    "source_url": "https://www.inthenews.co.kr/news/article.html?no=90776",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천광역시",
+    "summary": "대우건설이 인천광역시 서해구 검암동 일원에 선보이는 민간참여 공공분양 아파트 '검암역 푸르지오 프라베뉴'의 견본주택을 21일 개관하고 본격적인 분양 일정에 돌입한다. ​청약 일정은 오는 31일 특별공급을...",
+    "source_url": "http://www.srtimes.kr/news/articleView.html?idxno=210547",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천광역시",
+    "summary": "/사진=대우건설 대우건설이 인천광역시 서해구 일원에 조성되는 민간참여 공공분양 아파트 '검암역 푸르지오 프라베뉴'의 견본주택을 21일 열고 본격적인 분양 일정에 돌입한다. 해당 단지의 청약은 오는 8월 31일...",
+    "source_url": "https://www.businessplus.kr/news/articleView.html?idxno=115737",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "롯데건설",
+    "region": "원미구",
+    "summary": "경기 부천 원미구 상동에서 공급되는 대단지 신축 아파트의 청약 일정이 시작되면서 실수요자들의 관심이 이어지고 있다. 특히 중대형 주택형의 추첨제 비중이 높고 초기 계약금 부담을 낮춘 조건이 적용돼 기존...",
+    "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479280",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대규모 공급 마친 김포",
+    "region": "김포시",
+    "summary": "경기 김포시 아파트 시장이 대규모 공급의 마무리 국면에 들어서고 있다. 최근 대규모 주택 공급이... 한강시네폴리스 내 막바지 주거 분양 물량으로, 청약 일정을 마치고 계약을 앞두고 있다. 김포의 한강벨트와...",
+    "source_url": "https://edu.donga.com/news/articleView.html?idxno=111093",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천광역시",
+    "summary": "공공분양 아파트를 공급한다. 대우건설은 21일 인천광역시 서해구 검암동 일원에 들어서는 '검암역 푸르지오 프라베뉴' 견본주택을 열고 분양 일정에 들어간다. 청약은 오는 31일 특별공급을 시작으로 다음 달 1일 1순위...",
+    "source_url": "https://www.ziksir.com/news/articleView.html?idxno=143829",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "롯데건설",
+    "region": "확인 필요",
+    "summary": "본격적인 청약 일정에 돌입한다. 청약 일정은 24일(월) 특별공급을 시작으로 25일(화) 1순위, 26일(수) 2순위... 기존 아파트에서 신축으로 이동하려는 '갈아타기 실수요'의 발길이 크게 늘었다. 분양 관계자는 \"오픈 직후...",
+    "source_url": "https://www.hankyung.com/article/202608213903i",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "경희궁 유보라",
+    "region": "서대문구",
+    "summary": "서울 서대문구 독립문로에 위치한 경희궁 유보라가 준공 이후 남은 아파트 펜트하우스 보류지 1가구를 공개... 가능하고 청약규제 적용 대상이 아니다. 이번 보류지 입찰은 청약통장이 필요하지 않으며, 주택 보유여부...",
+    "source_url": "https://www.hankyung.com/article/202608201943O",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "경희궁 유보라",
+    "region": "서대문구",
+    "summary": "일반적인 아파트 청약과 달리 청약통장은 필요하지 않다. 주택 보유 여부나 재당첨 제한과 관계없이 만 19세... 입찰 일정과 제출 서류, 입찰 기준가 등 자세한 사항은 조달청 누리장터 공고와 서울 서대문구 독립문로...",
+    "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=541477",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천광역시",
+    "summary": "대우건설은 인천광역시 서해구 검암동 일원에 조성하는 '검암역 푸르지오 프라베뉴'의 견본주택을 21일 개관하고 본격적인 분양에 나선다고 밝혔다. 청약 접수는 8월 31일 특별공급을 시작으로 9월 1일 1순위, 9월 2일...",
+    "source_url": "https://www.financialpost.co.kr/news/articleView.html?idxno=271412",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대연",
+    "region": "부천시",
+    "summary": "실제로 분양시장에서 더블생활권을 갖춘 단지가 연초부터 우수한 성적을 거뒀다. 지난 2월, 부천시 소사구 괴안동에서 공급에 나선 '쌍용 더 플래티넘 온수역'은 1순위 청약접수 결과 109가구 모집(특별공급 제외)에 1순위...",
+    "source_url": "https://www.getnews.co.kr/news/articleView.html?idxno=878506",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "iH",
+    "region": "공공주택지구",
+    "summary": "검암역 푸르지오 프라베뉴는 검암역세권 민간참여 공공분양사업으로 공공주택지구 내에 최초로 공급하는... 청약 일정은 이날 입주자모집공고를 시작으로 오는 31일 특별공급과 다음 달 1~2일 일반공급, 8일 당첨자...",
+    "source_url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032257",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천광역시",
+    "summary": "전체 물량 약 75% 특별공급 배정 대우건설은 21일 인천광역시 서해구 검암동 일원에 조성하는 '검암역 푸르지오 프라베뉴'의 견본주택을 개관하고 본격적인 분양에 나선다. 청약 접수는 오는 31일 특별공급을 시작으로...",
+    "source_url": "https://news.tf.co.kr/read/economy/2356562.htm",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천광역시",
+    "summary": "'검암역 푸르지오 프라베뉴' 투시도 / 대우건설 제공 대우건설은 인천광역시 서해구 검암동 일원에 조성하는 '검암역 푸르지오 프라베뉴'의 견본주택을 21일 개관하고 본격적인 분양에 나선다고 밝혔다. 청약 접수는 8월...",
+    "source_url": "https://www.fntoday.co.kr/news/articleView.html?idxno=391052",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "서해구",
+    "summary": "[사진 대우건설] 대우건설이 21일 인천 서해구 검암동 일원에 조성하는 '검암역 푸르지오 프라베뉴'의 견본주택을 개관하고 본격적인 분양에 나선다. 청약 접수는 오는 31일 특별공급을 시작으로 내달 1일 1순위·2일...",
+    "source_url": "https://www.catchnews.kr/news/articleView.html?idxno=127574",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "두산위브",
+    "region": "부천",
+    "summary": "아울러 최근 견본주택을 개관한 상동역 롯데캐슬 시그니처(1859가구)도 내주 청약 접수를 준비 중이다. 한 분양업계 관계자는 \"두산위브제니스 부천은 입지는 우수하지만 높은 분양가와 지역 공급집중이 흥행...",
+    "source_url": "https://www.asiatime.co.kr/article/20260821500122",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "본격적인 분양에 나선다. 민간참여 공공분양사업으로 전체 공급 물량의 약 75%가 특별공급 대상이다. 신생아... 청약 접수는 8월 31일 특별공급을 시작으로 9월 1일 1순위, 9월 2일 2순위 일정으로 진행된다. 1순위 청약...",
+    "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608210924255540809",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천광역시",
+    "summary": "우먼타임스 = 송현섭 기자 대우건설은 인천광역시 서해구 검암동 일원에 조성하는 '검암역 푸르지오 프라베뉴' 견본주택을 21일 오픈하고 본격적인 분양 일정을 개시한다. 청약 접수는 오는 31일 특별 공급을 시작으로...",
+    "source_url": "https://www.womentimes.co.kr/news/articleView.html?idxno=105477",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "대우건설에 따르면, 청약 접수는 오는 31일 특별공급을 시작으로 9월 1일 1순위, 9월 2일 2순위 일정으로... 사진=대우건설 민간참여 공공분양 단지인 검암역 푸르지오 프라베뉴는 전체 공급 물량의 약 75%를 특별공급으로...",
+    "source_url": "https://www.kfenews.co.kr/news/articleView.html?idxno=662841",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "공급 일정이 단계별로 이어지는 만큼 청약 유형과 접수일을 구분해 확인해야 합니다. 검암역 푸르지오 프라베뉴는 민간참여 방식의 공공분양 단지입니다. 전체 공급 물량 가운데 약 75퍼센트를 특별공급으로 배정해...",
+    "source_url": "https://www.inthenews.co.kr/news/article.html?no=90775",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천광역시",
+    "summary": "대우건설이 인천광역시 서해구 검암동 일원에 들어서는 '검암역 푸르지오 프라베뉴'의 견본주택을 오늘 개관하고 본격적인 분양 일정에 돌입했습니다. 청약 접수는 오는 31일 특별공급을 시작으로 다음 달 1일 1순위, 2일...",
+    "source_url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4101926",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 공공기관 사전 안내를 통해서도 확인됐다. 검암역 푸르지오 프라베뉴는 민간참여 공공분양... 단, 동일 세대에서 중복 당첨될 경우 청약 접수 시간이 빠른 신청자를 당첨자로 인정하고 이후 접수 건은 무효...",
+    "source_url": "http://www.newslock.co.kr/news/articleView.html?idxno=134651",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "iH",
+    "region": "확인 필요",
+    "summary": "청약 일정은 8월 31일 특별공급을 시작으로 9월 1~2일 일반공급, 9월 8일 당첨자 발표, 11월 계약 체결 순으로 진행한다. 세부 모집 조건과 신청 방법은 한국부동산원 청약홈, iH 및 단지 공식 홈페이지를 통해 확인할 수...",
+    "source_url": "https://www.tournews21.com/news/articleView.html?idxno=141575",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 오는 8월 31일 특별공급을 시작으로 9월 1일 1순위, 2일 2순위 접수 예정이다. 당첨자 발표는 9월 8일, 정당계약은 11월 2일부터 4일까지 3일간 체결된다. '검암역 푸르지오 프라베뉴'는 민간참여 공공분양...",
+    "source_url": "http://www.popcornnews.net/news/articleView.html?idxno=130477",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "iH인천도시공사",
+    "region": "확인 필요",
+    "summary": "청약 일정은 ▲8월 21일 입주자 모집 공고 ▲8월 31일 특별공급 ▲9월 1~2일 일반공급 ▲9월 8일 당첨자 발표 ▲11월 계약 체결 순으로 진행된다. 자세한 사항은 한국부동산원 청약홈과 iH, 검암역 푸르지오 프라베뉴...",
+    "source_url": "https://www.incheontoday.com/news/articleView.html?idxno=322574",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "iH",
+    "region": "확인 필요",
+    "summary": "21일 iH에 따르면 검암역세권 B1블록에 들어서는 ‘검암역 푸르지오 프라베뉴’의 입주자 모집공고를 이날 내고 오는 31일 특별공급을 시작으로 9월 1~2일 일반공급 청약을 진행한다. 단지는 지하 2층~지상 25층, 3개 동...",
+    "source_url": "https://www.ajunews.com/view/20260821141603070",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "인천도시공사",
+    "region": "확인 필요",
+    "summary": "청약 일정은 21일 입주자 모집공고를 시작으로 31일 특별공급, 9월 1~2일 일반공급, 9월 8일 당첨자 발표, 11월 계약체결 순으로 진행되며, 자세한 사항은 한국부동산원 청약홈, iH 및 검암역 푸르지오 프라베뉴 홈페이지에...",
+    "source_url": "https://www.ngonews.kr/news/articleView.html?idxno=236007",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "청약은 이달 31일 특별공급을 시작으로 9월 1일 1순위, 2일 2순위 순으로 진행되며, 당첨자 발표는 8일, 정당계약은 11월 2~4일이다. 대우건설에 따르면 단지는 공항철도와 인천2호선 환승역인 검암역을 도보로 이용할 수...",
+    "source_url": "http://www.lawissue.co.kr/view.php?ud=20260821142025604867191f6c6e_12",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "iH",
+    "region": "확인 필요",
+    "summary": "청약은 31일 특별공급을 시작으로 진행된다. 일반공급은 9월 1일부터 2일까지이며 당첨자는 9월 8일 발표한다. 계약은 11월 진행될 예정이다. 이번 공급은 검암역세권의 첫 공공분양이라는 상징성과 철도 접근성...",
+    "source_url": "https://www.kmaeil.com/news/articleView.html?idxno=649252",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "인천도시공사",
+    "region": "확인 필요",
+    "summary": "청약 일정은 21일 입주자 모집공고를 시작으로 31일 특별공급, 9월 1~2일 일반공급이 진행된다. 당첨자는 9월 8일 발표되며 계약은 11월 체결할 예정이다. 자세한 청약 조건과 공급 일정은 한국부동산원 청약홈과 iH...",
+    "source_url": "http://www.fnnews.com/news/202608211347559022",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "인천도시공사",
+    "region": "확인 필요",
+    "summary": "청약 일정은 8월 21일 입주자 모집 공고를 시작으로 8월 31일 특별공급, 9월 1~2일 일반공급, 9월 8일 당첨자 발표, 11월 계약체결 순으로 진행된다. 자세한 청약 자격과 공급 조건은 한국부동산원 청약홈과 iH, 검암역...",
+    "source_url": "https://www.nocutnews.co.kr/news/6566060?utm_source=naver&utm_medium=article&utm_campaign=20260821013955",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "서울",
+    "summary": "부부 중복청약은 특별공급뿐 아니라 일반공급에서도 허용된다. 청약 자격은 꼼꼼히 따져봐야 한다. 1순위는 모집공고일 기준 인천과 서울·경기에 사는 무주택 세대구성원이어야 하고, 청약통장 가입 12개월·납입 12회...",
+    "source_url": "https://www.fetv.co.kr/news/articleView.html?idxno=308819",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천",
+    "summary": "청약은 8월 31일 특별공급을 시작으로 9월 1일 1순위, 9월 2일 2순위 순으로 진행된다. 당첨자 발표는 9월 8일이며, 정당계약은 11월 2일부터 4일까지다. 검암역 푸르지오...",
+    "source_url": "http://www.breaknews.com/1230576",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 오는 31일 특별공급을 시작으로 9월 1일 1순위, 2일 2순위 순으로 진행된다. 당첨자는 9월 8일 발표하며 정당계약은 11월 2일부터 4일까지 3일간 진행할 예정이다. ‘검암역 푸르지오 프라베뉴’는 민간참여...",
+    "source_url": "http://www.beyondpost.co.kr/view.php?ud=20260821122159856205868f676_30",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "기간은 당첨자 발표일로부터 3년이며 실거주의무는 적용되지 않는다. 청약은 8월 31일 특별공급을 시작으로 9월 1일 1순위, 2일 2순위 순으로 진행된다. 당첨자 발표는 9월 8일이며 정당계약은 11월 2일부터 4일까지다.",
+    "source_url": "https://www.asiaa.co.kr/news/articleView.html?idxno=259474",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 오는 31일 특별공급을 시작으로 다음 달 1일 1순위, 9월 2일 2순위 접수를 받는다. 당첨자 발표는 8일이며, 정당 계약은 11월 2일부터 4일까지 3일간 진행된다. 민간참여 공공분양 단지인 이 단지는 전체 공급...",
+    "source_url": "https://www.widedaily.com/news/articleView.html?idxno=299780",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "인천광역시",
+    "summary": "특별공급에 한해 부부 중복청약이 허용되는 민영주택과 달리 일반공급에서도 부부 중복청약이 가능하다. 1순위 청약 자격은 입주자 모집공고일 기준 인천광역시 및 수도권(서울·경기)에 거주하는 무주택 세대...",
+    "source_url": "https://www.mt.co.kr/estate/2026/08/21/2026082110132148068",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "상동역 롯데캐슬 시그니처",
+    "region": "확인 필요",
+    "summary": "21일 롯데건설에 따르면 청약은 24일 특별공급을 시작으로 25일 1순위, 26일 2순위 순으로 진행한다. 당첨자 발표는 9월 1일이며, 정당계약은 9월 14~17일 진행한다. 단지는 지하 8층~지상 49층, 7개 동으로 조성된다....",
+    "source_url": "http://www.fnnews.com/news/202608210933148561",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "구리역 롯데캐슬 시그니처",
+    "region": "당첨시",
+    "summary": "구리역 롯데캐슬 시그니처는 2023년 1순위 청약 당시 특별공급을 제외한 371가구 모집에 2690명이 신청해 평균 7.25대 1의 경쟁률을 기록했다. 당시 이번 재공급 물량과...",
+    "source_url": "http://www.breaknews.com/1230501",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "롯데건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 오는 24일 특별공급을 시작으로 25일 1순위, 26일 2순위 접수 순으로 진행된다. 당첨자는 내달 1일 발표한다. 정당계약은 내달 14일부터 17일까지 진행된다. 단지는 지하 8층∼지상 49층, 7개 동, 전용면적 84...",
+    "source_url": "https://www.widedaily.com/news/articleView.html?idxno=299759",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약은 31일 특별공급을 시작으로 9월 1일 1순위, 9월 2일 2순위 접수가 진행된다. 당첨자 발표는 9월 8일이며, 정당계약은 11월 2일부터 4일까지다. 민간참여 공공분양 단지인 이 단지는 전체 공급 물량의 약 75%가...",
+    "source_url": "https://thetracker.co.kr/View.aspx?No=4193899",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약은 8월 31일 특별공급을 시작으로 9월 1일 1순위, 9월 2일 2순위 접수가 진행된다. 당첨자 발표는 9월 8일이며 정당계약은 11월 2일부터 4일까지다. 민간참여 공공분양 방식인 이 단지는 전체 공급 물량의 약 75%를...",
+    "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479284",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약은 8월 31일 특별공급을 시작으로 9월 1일 1순위, 9월 2일 2순위 순으로 진행된다. 당첨자 발표는 9월 8일이며, 정당계약은 11월 2일부터 4일까지다. 민간참여 공공분양 단지인 검암역 푸르지오 프라베뉴는 전체 공급...",
+    "source_url": "https://www.ngonews.kr/news/articleView.html?idxno=235979",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약은 오는 31일 특별공급을 시작으로 9월 1일 1순위, 2일 2순위 순으로 진행된다. 당첨자 발표는 9월 8일이며 정당계약은 11월 2일부터 4일까지 사흘간 실시된다. 검암역 푸르지오 프라베뉴는 민간참여 공공분양...",
+    "source_url": "https://www.handmk.com/news/articleView.html?idxno=42354",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "롯데건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 오는 24일 특별공급을 시작으로 25일 1순위, 26일 2순위 접수 순으로 진행된다. 당첨자는 내달 1일 발표한다. 정당계약은 내달 14일부터 17일까지 진행된다. 단지는 지하 8층∼지상 49층, 7개 동, 전용면적 84...",
+    "source_url": "https://www.newsis.com/view/NISX20260821_0003757114",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약은 오는 31일 특별공급을 시작으로 9월 1일 1순위, 9월 2일 2순위 순으로 진행된다. 당첨자 발표는 9월 8일이며, 계약은 11월 2~4일 사흘간 이뤄진다. 특별공급에서 신생아 배정 비율은 20%로, 민간분양보다 10%포인트...",
+    "source_url": "https://www.cstimes.com/news/articleView.html?idxno=717541",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "롯데건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 24일 특별공급에 이어 25일 1순위, 26일 2순위 접수 순으로 진행된다. 당첨자는 다음 달 1일 발표하며 정당계약은 9월 14일부터 17일까지 나흘간 실시한다. 상동역 롯데캐슬 시그니처는 지하 8층~지상 49층...",
+    "source_url": "http://www.newslock.co.kr/news/articleView.html?idxno=134644",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "롯데건설",
+    "region": "확인 필요",
+    "summary": "청약은 24일 특별공급을 시작으로 25일 1순위, 26일 2순위 접수로 이어진다. 당 첨자 발표는 9월 1일이며, 정당계약은 9월 14일부터 17일까지 4일간 실시된다. 상동역 롯데캐슬 시그니처는 입주자모집공고일인 8월 14일...",
+    "source_url": "https://www.hankyung.com/article/2026082138276",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 8월 31일 특별공급을 시작으로 9월 1일 1순위, 9월 2일 2순위 접수를 진행한다. 당첨자 발표는 9월 8일이며 정당 계약은 11월 2일부터 4일까지 3일간 실시한다. 1순위 자격은 수도권 거주 무주택 세대 구성원으로...",
+    "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275215",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "청약 일정은 오는 31일 특별공급을 시작으로 다음 달 1일 1순위, 9월 2일 2순위 접수를 받는다. 당첨자 발표는 8일이며, 정당 계약은 11월 2일부터 4일까지 3일간 진행된다. 민간참여 공공분양 단지인 이 단지는 전체 공급...",
+    "source_url": "https://www.newsis.com/view/NISX20260821_0003757029",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "서울만 뜨겁고 지방은 텅 비었다",
+    "region": "확인 필요",
+    "summary": "특히 대단지는 초기 청약 흥행에 실패할 경우 미계약 물량이 대거 발생할 수 있고, 이는 할인분양이나 무순위 청약 등 후속 판매 전략으로 이어질 가능성도 있다. 기존 미분양 문제도 부담이다. 6월 말 기준 전국...",
+    "source_url": "https://www.smartbizn.com/news/articleView.html?idxno=151746",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "SH",
+    "region": "위례",
+    "summary": "서류 심사 대상자는 10월 12일 발표되며, 최종 당첨자 발표는 2027년 2월 15일이다. 실제 입주는 2027년 3월 이후부터 순차적으로 진행될 예정이다. 단지별 배치도와 평면도, 상세 청약 자격 등은 SH 누리집 공고문에서...",
+    "source_url": "http://www.bizwnews.com/news/articleView.html?idxno=143972",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "두산건설",
+    "region": "부천",
+    "summary": "청약 당첨자는 8월 28일 발표하며, 정당계약은 9월 8일부터 10일까지 3일간 진행된다. 입주자모집공고에 따르면 두산위브더제니스 부천은 비규제지역에 공급된다. 거주의무는 없고 전매제한은 당첨자 발표일로부터...",
+    "source_url": "https://biz.chosun.com/industry/business_info/2026/08/21/3TRCQGXKV5EOHO7GSSQG7YVETI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "SH",
+    "region": "마곡",
+    "summary": "SH는 20일 오후 4시 누리집을 통해 입주자 모집 공고를 내고, 오는 31일부터 SH인터넷청약시스템을 통해... 서류심사 대상자는 10월 12일, 최종 당첨자는 내년 2월 15일 발표하며, 입주는 내년 3월 이후 가능하다....",
+    "source_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285814",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "산곡역자이힐스테이트",
+    "region": "서울시",
+    "summary": "(새소식2026-83)(#인천)'산곡역자이힐스테이트&하늘채' 서울시 장애인 특별공급 기관추천 안내  분야별정보",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TWV9SNHI0VHBtc1Y4b21ab01mY2NKZU9GUE1FM2N5My1aSXQ5Z1U2RUVQcVE0SmFldFRNbEd3NFhMclhjdGJ3dTVFRElYQWxDdERsWjB3d251a3M5?oc=5",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "대우건설, '민참 공공분양' 검암역 푸르지오 프라베뉴 견본주택 개관 - 머니투데이  머니투데이",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FV3AyMmpkWVpPUXp1QkhVVHB4akU2VXBFRGd1eV9lUFd5TXhoSDV0NGE4VHRRaExEaE9BejF6OHhKcEk1ZGdhTjdRbVhpZ2VxeGF3ZGVhVmhLTFJTVFN5X1F0dWRhR2xoQ0gtcGQ2b9IBb0FVX3lxTE5FV3AyMmpkWVpPUXp1QkhVVHB4akU2VXBFRGd1eV9lUFd5TXhoSDV0NGE4VHRRaExEaE9BejF6OHhKcEk1ZGdhTjdRbVhpZ2VxeGF3ZGVhVmhLTFJTVFN5X1F0dWRhR2xoQ0gtcGQ2bw?oc=5",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "대우건설, 검암역세권 '검암역 푸르지오 프라베뉴' 분양 돌입  뉴스핌",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Vb0dSTW5OV3dPUU5XV0dCNnFXMzdjcS1KTm9xdW9RTEd4Wk5MekpqYlA1WGNFV2pSczNtM001bVhVS2t4S2ZvenUtNmNsTjVBNDBIX2tjWHZfT0l0?oc=5",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "대우건설, ‘검암역 푸르지오 프라베뉴’ 21일 견본주택 개관  파이낸셜포스트",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXc1dYSThQdTJYem4xSkxqVWhQcTJMX05zN181ay1QQS1LVzNvTmtUb1FrWFlhYzNDOFdRSUY4MlItR3E5VEVlYUZXSDhhQ1kwdVV4Smw2d0tZdzBBSHl6R0twM1h0SFpxQ3phMEpjU05HWGFS?oc=5",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "대우건설, 검암역 푸르지오 프라베뉴 견본주택 개관…특별공급 75퍼센트  인더뉴스",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EbEx1NGxvaGlLWW5FQzloYmNueVpUV1RQME5Ka2FtM2x2bWJWbGd4b09sanlQOV91c2tWZVg4bjNkdDlwTU84S3ZGSFg1ZXBNcHJQbFpQU1IwZlVFWXFQRFJWOWc?oc=5",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "대우건설, '검암역 푸르지오 프라베뉴' 견본주택 개관  뉴시스",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SUEJaVnNTZVljMnBnMFVUMVpla1ZtYVFKLTdPWjU3TlVJMmpKb2xIN21mcW9JZ0RvckNUclFrR1ZHRmhJdWhSSWxIT3hYa1ZzaDZYdGJEbGszMmpNanhOcVRNcWVwQjB2UW5HaXVfd3hXcUMwbF9qQdIBeEFVX3lxTE5SUEJaVnNTZVljMnBnMFVUMVpla1ZtYVFKLTdPWjU3TlVJMmpKb2xIN21mcW9JZ0RvckNUclFrR1ZHRmhJdWhSSWxIT3hYa1ZzaDZYdGJEbGszMmpNanhOcVRNcWVwQjB2UW5HaXVfd3hXcUMwbF9qQQ?oc=5",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "대우건설, '검암역 푸르지오 프라베뉴' 21일 견본주택 개관  비즈니스플러스",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qZ2l5M1N5cXJQMkpvSUx4dmc5X29NbUlFYU02dzlLZkktZmt6WlVjQzU2OWxFMUpkYUpKYlpKMzhnMl9hSEx0RERtZTIzVVFyTjVpdTZRSWgtSmNpZjZRSk53eVpMd0RrNy00QTF3dw?oc=5",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "대우건설, ‘검암역 푸르지오 프라베뉴’ 분양…특공 물량 75% 배정  뉴스락",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lYzRjTkJVYTV2aUZ2cjdDbHp3OWU3YUpkUFRudEFYMDZMRkNVTkdoU3VVUTRIeDR5Nkl0VDNrVFYtVlo1Tk16V2xNaUM0UVNwcGVmaW5JREdjSW9BTGNDUnhoNVlGaUFOc2ZpcQ?oc=5",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "대우건설",
+    "region": "확인 필요",
+    "summary": "대우건설, '검암역 푸르지오 프라베뉴' 31일 청약 돌입  핀포인트뉴스",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BZmFvaGMxRjlTaENHckpsOHBOd1pfZVlWNTJyMlRpOGIwNWJmZ2RQVTZjVVBtVUh0M1kwTlByREw1aGVacHVTVDNrc01jTksyZ1UxalMzbVZwc3JPODNFUGZTckZkY0lpWFNESVoxdWgweXfSAXdBVV95cUxNQmljSmpGLUl0NmJCUmFUOXFzSG5TbXRrbmlHVEJ0M1lGNVJ6aFBkRlRVU2loWWUydjNkeUVzWXhiVGtCd1RMX1c4azg2QzNxU3FyWGpVem91X1JVWk9QT0laaXlybDhqaWt3OVFLUlktZnhTUjJPdw?oc=5",
+    "pub_date": "2026-08-21"
+  },
+  {
+    "housing_name": "롯데건설",
+    "region": "확인 필요",
+    "summary": "롯데건설, ‘상동역 롯데캐슬 시그니처’ 25일 1순위 청약 나서  한국경제",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkcVFMV2dObjNYXzI0Q3h4UFpWRzBNYVB6NmZUX0tPbXlvVlh4cFkwMWtuYnFtcmZvMjFlU3Y2alc2dXdCUWJhOUViVThEWlZubTJBRXRIRGRhZw?oc=5",
+    "pub_date": "2026-08-21"
+  },
+  {
     "housing_name": "2030세대",
     "region": "확인 필요",
     "summary": "일정 조건을 충족하면 빌라를 사도 청약에서 무주택으로 인정되지만, 제때 팔지 못하면 아파트로 갈아탈 자금과 대출 혜택을 활용하기 어려워서다. 금융위원회가 지난 13일 발표한 청년미래보금자리론은 만 39세 이하...",
