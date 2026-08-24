@@ -1,5 +1,37 @@
 [
   {
+    "zone_name": "북아현3구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "사업시행인가와 관리처분인가 등 핵심 인허가권을 이미 가진 구청과 조합 간 갈등으로 멈춘 사업장이 적지... 서대문구 북아현3구역에선 구청이 사업시행계획 변경인가 신청을 1년6개월간 검토한 끝에 반려했다. 조합이...",
+    "source_url": "https://www.mk.co.kr/article/12135356",
+    "pub_date": "2026-08-25"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "서울시는 정비구역 지정 권한이 각 자치구로 분산될 경우 광역 단위 도시계획의 일관성이 심각하게 훼손될... 이에 대해 서울시는 현재도 정비사업의 주요 9개 인허가 권한 가운데 조합설립·사업시행인가·관리처분 등...",
+    "source_url": "https://www.sedaily.com/article/20082755?ref=naver",
+    "pub_date": "2026-08-25"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "현행 도시정비법 체계에서 서울시 정비사업은 정비계획 수립, 정비구역 지정, 조합설립 추진위원회 승인, 조합설립인가, 건축심의, 사업시행계획인가, 관리처분계획인가, 착공, 준공의 순서로 진행되며, 이 중...",
+    "source_url": "https://www.newspim.com/news/view/20260824001052",
+    "pub_date": "2026-08-25"
+  },
+  {
+    "zone_name": "상계5구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "제명 처분을 확정했다. 친한(친한동훈)계를 중심으로 즉각 반발이 터져 나왔다. 현역 의원들이 장 대표와... 서울 노원구 상계동 109-43번지의 상계5구역은 재개발을 통해 지하 3층~지상 39층 14개동, 2016가구 및...",
+    "source_url": "https://www.newspim.com/news/view/20260824001038",
+    "pub_date": "2026-08-25"
+  },
+  {
     "zone_name": "정비구역",
     "region": "확인 필요",
     "stage": "관리처분계획인가",
@@ -13,6 +45,174 @@
     "stage": "관리처분계획인가",
     "summary": "특히 공공재개발은 관리처분계획 이후 세입자의 원활한 이주와 철거가 이루어져야 사업이 계획대로 조속히 추진될 수 있다\"고 주장했다. 이어 \"정부와 서울시가 불필요한 분쟁을 줄이고 무주택 세입자의 권익 보호와...",
     "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20260804010001186",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "북아현3구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "사업시행인가와 관리처분인가 등 핵심 인허가권을 이미 가진 구청과 조합 간 갈등으로 멈춘 사업장이 적지... 서대문구 북아현3구역에선 구청이 사업시행계획 변경인가 신청을 1년6개월간 검토한 끝에 반려했다. 조합이...",
+    "source_url": "https://www.mk.co.kr/article/12135011",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "정비구역 지정 이후 추진위원회 승인과 조합설립인가, 사업시행계획인가, 관리처분계획인가 등은 구청장이 담당한다. 제도 개선이 이뤄지면 500세대 이하 사업은 자치구가 정비계획 수립부터 정비구역 지정, 이후...",
+    "source_url": "https://www.businesspost.co.kr/BP?command=article_view&num=445444",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "정비사업은 정비계획 수립과 정비구역 지정, 조합설립, 사업시행인가, 관리처분인가 등을 거친다. 이 가운데 서울시가 정비구역 지정 심의와 통합심의를 맡고 있으며 상당수 후속 인허가는 자치구가 담당한다. 심형석...",
+    "source_url": "https://www.news1.kr/realestate/general/6267521",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "정비구역 지정 이후 사업시행계획인가와 관리처분계획인가 등 주요 사업 절차는 자치구가 담당한다. 정부와 여당은 서울시가 가진 권한 일부를 자치구와 더 나누면 정비사업 속도가 빨라질 것으로 보고 있다. 현재는...",
+    "source_url": "https://www.dailian.co.kr/news/view/1681645/?sc=Naver",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "금사1구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "시공자 선정이 원활하게 이뤄지면 2027년 사업시행인가를 추진하고, 2028년부터 2030년까지 관리처분인가와 이주 및 철거 등 후속 절차를 차례로 진행할 계획이다. 이후 2030년께 착공 및 분양에 나서는 것을 목표로 하고...",
+    "source_url": "http://www.areyou.co.kr/news/articleView.html?idxno=94997",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "도시계획과 기반시설을 종합적으로 검토해야 하는 만큼 구역지정 권한을 일괄 이양하는 것은 적절하지 않다... 이에 대해 서울시는, 정비사업 관련 9개 인허가 권한 가운데 조합설립·사업시행인가·관리처분 등 7개는...",
+    "source_url": "http://www.inews24.com/view/1997675",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "김동구 서울시 건축기획관은 24일 브리핑에서 “자치구에서 도시계획위원회나 통합심의를 경험해본 직원은... 김 기획관은 “정비사업 전체 9개 인허가 권한 가운데 조합설립, 사업시행인가, 관리처분 등 7개 권한은 이미...",
+    "source_url": "https://www.dailian.co.kr/news/view/1681577/?sc=Naver",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "문현1구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "문현1구역 재개발조합 관계자는 \"올해 안에 사업시행인가 고시를 받고 내년 상반기에 감정평가, 분양신청 등 업무를 처리할 예정\"이라며 \"다음으로 시공자인 GS건설과의 본계약 협상을 마치고 관리처분계획 수립...",
+    "source_url": "https://www.arunews.com/news/articleView.html?idxno=66285",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "반면 정비구역 지정 이후 조합설립인가와 사업시행계획인가, 관리처분계획인가 등 상당수 절차는 이미 구청장이 담당하고 있다. 제도 개편이 이뤄지면 500가구 이하 사업의 경우 초기 단계인 정비구역 지정부터 이후 주요...",
+    "source_url": "https://www.thepublic.kr/news/articleView.html?idxno=315902",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "투기과열지구",
+    "stage": "관리처분계획인가",
+    "summary": "조합원의 자격은 재산권과 분양권에 직접 영향을 미치고, 총회 의결권과 분양신청, 관리처분계획에도 연쇄적인 영향을 미친다. 따라서 조합은 소유권 변동이 조합설립인가 전후의 경계에서 이뤄진다면 인가처분일...",
+    "source_url": "http://www.areyou.co.kr/news/articleView.html?idxno=94990",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "재개발구역",
+    "region": "자치구",
+    "stage": "관리처분계획인가",
+    "summary": "정부가 주택 공급 속도 개선을 위해 '500가구 이하 재개발·재건축 권한 기초단체장 이양' 카드를 꺼내 든... 서울시에 따르면 현재 정비사업 전체 9개 인허가 권한 중 조합설립·사업시행·관리처분 등 7개 권한은 자치구에...",
+    "source_url": "https://news.bizwatch.co.kr/article/real_estate/2026/08/24/0040",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "정부·여당이 추진하는 500가구 이하 재개발·재건축 정비구역 지정 권한의 자치구 이양이 현실화하면 이... 조합설립·사업시행·관리처분 등 7개 권한이 자치구에 있다고 강조했다. 최근 3년간 서울시 도시계획위원회의...",
+    "source_url": "https://www.mt.co.kr/estate/2026/08/25/2026082414234371353",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "서울시가 정부·여당이 추진하는 ‘500세대 이하 재개발·재건축 인허가 권한의 자치구 이양’ 방침에 대해... 조합설립·사업시행·관리처분 등 7개는 이미 자치구가 갖고 있다고 밝혔다. 서울시가 담당하는 것은 정비구역...",
+    "source_url": "https://news.tvchosun.com/site/data/html_dir/2026/08/24/2026082490154.html",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "서울시가 더불어민주당이 제시한 ‘500가구 이하 재개발·재건축 정비구역 지정 권한의 자치구 이양’ 방안에... 시에 따르면 정비사업의 9개 주요 인허가 가운데 조합설립과 사업시행, 관리처분 등 7개는 이미 자치구가...",
+    "source_url": "https://www.viva100.com/article/20260824501169",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "서울시가 정부·여당이 추진하는 ‘500가구 이하 재개발·재건축 권한의 자치구 이양’ 방안에 대해 “서울... 조합설립·사업시행·관리처분 등 7개 권한은 이미 자치구가 갖고 있고, 서울시 권한은 정비구역 지정을 위한...",
+    "source_url": "https://www.munhwa.com/article/11611583?ref=naver",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "이동훈 선임기자 = 정부와 여당이 500가구 이하 재개발·재건축 사업의 정비구역 지정 권한을 자치구에... 현재 정비사업의 9개 주요 인허가 권한 가운데 조합설립과 사업시행, 관리처분 등 7개는 자치구가 맡고 있으며...",
+    "source_url": "https://www.newspim.com/news/view/20260824000758",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "“서울시 심의 기간 전체 사업기간의 2.7% 불과” 서울시가 500세대 이하 재개발·재건축 사업의 정비구역... 현재 정비사업의 9개 주요 인허가 권한 가운데 조합설립과 사업시행, 관리처분 등 7개는 자치구가 맡고 있으며...",
+    "source_url": "https://biz.chosun.com/real_estate/real_estate_general/2026/08/24/GUJHPGJ4JBFP7BVCYRIEX35LBE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "이하 재개발·재건축 정비구역 지정 권한을 기초단체장에게 이양하는 방안에 대해 반대의사를 표명했다.... 조합설립, 사업시행, 관리처분 등 나머지 7개 권한은 자치구에 있다. 서울시는 “시 권한인 2가지 심의...",
+    "source_url": "https://www.mk.co.kr/article/12134677",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "서울시는 정부·여당이 500세대 이하 재개발·재건축 정비구역 지정 권한을 기초단체장에게 이양하는 방안에... 조합설립, 사업시행, 관리처분 등 나머지 7개 권한은 자치구에 있다. 서울시는 \"시 권한인 2가지 심의...",
+    "source_url": "https://www.mt.co.kr/estate/2026/08/24/2026082413031134053",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "복합사업지구",
+    "region": "신길동",
+    "stage": "관리처분계획인가",
+    "summary": "신길동 205-136번지 일대 신길2 도심 공공주택 복합사업지구는 면적이 6만704㎡로 과거 민간 재개발 추진이... 특히 현물보상 방식을 신규 도입해 기존 주민들에게 신축주택 등을 우선공급하고 조합설립·관리처분계획...",
+    "source_url": "https://www.arunews.com/news/articleView.html?idxno=66211",
+    "pub_date": "2026-08-24"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "500가구 이하 정비구역 구청장이 지정…개발 속도 날까  뉴시스",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKUGw1SjFWYmZ2dzdMZUVSbFgzQ2k2RENDTnNyZkJWdkxVNUNRY3ZYcFNWc3lDRkw4UGY5SmpkN3BwcFVhMVdZNnFhc0NCMEJwdnliY2otWGFNQkpVeFE4RW5DWms5c29qOVBIenFIWWNaLTdDNV8zZdIBeEFVX3lxTFBKUGw1SjFWYmZ2dzdMZUVSbFgzQ2k2RENDTnNyZkJWdkxVNUNRY3ZYcFNWc3lDRkw4UGY5SmpkN3BwcFVhMVdZNnFhc0NCMEJwdnliY2otWGFNQkpVeFE4RW5DWms5c29qOVBIenFIWWNaLTdDNV8zZQ?oc=5",
     "pub_date": "2026-08-24"
   },
   {
