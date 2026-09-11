@@ -1,5 +1,37 @@
 [
   {
+    "zone_name": "방배5구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "재건축사업은 조합설립인가 이전부터, 재개발사업은 관리처분인가 이전부터 종전 토지나 건축물을 계속... 개정법 시행 이후 관리처분계획을 수립하는 사업에만 적용할 경우 방배5구역처럼 입주나 이전고시를 앞둔...",
+    "source_url": "https://www.housingherald.co.kr/news/articleView.html?idxno=62825",
+    "pub_date": "2026-09-11"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "2011년 4월 사업시행인가, 2018년 7월 관리처분인가를 거쳐 2021년 7월 착공했다. 이후 2025년 6월... 유관 부서 협의 사항 등을 사전에 점검해 준공 단계에서 발생할 수 있는 행정 지연을 줄여나갈 계획이라고 밝혔다.",
+    "source_url": "https://www.rcast.co.kr/news/articleView.html?idxno=31602",
+    "pub_date": "2026-09-11"
+  },
+  {
+    "zone_name": "북아현2구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "실제 북아현2구역은 2008년 재정비촉진지구로 지정됐지만 약 18년이 지난 올해 들어서야 서대문구로부터 관리처분계획인가를 받았다. 인근 북아현3구역도 2011년 사업시행인가를 받은 이후 행정 절차가 계속 지연되고...",
+    "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609101439511740492",
+    "pub_date": "2026-09-11"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "토지거래허가구역과 재건축·재개발 일정도 처분을 어렵게 만드는 변수이다. 팔 의지가 있어도 거래 규제와... 투자 전략도 막연한 장기 보유에서 출구 관리로 바뀌어야 한다. 이번 변화의 본질은 집값 규제가 아니라 서울...",
+    "source_url": "https://www.nbntv.kr/news/articleView.html?idxno=340684",
+    "pub_date": "2026-09-11"
+  },
+  {
     "zone_name": "홍은13구역",
     "region": "서대문구",
     "stage": "관리처분계획인가",
@@ -37,6 +69,190 @@
     "stage": "관리처분계획인가",
     "summary": "홍은13구역은 2009년 3월 정비구역 지정과 같은 해 9월 조합설립인가를 시작으로 2011년 4월 사업시행인가, 2018년 7월 관리처분인가, 2021년 7월 착공, 2025년 6월 임시사용승인을 거쳐 이달 준공인가에 이르렀다....",
     "source_url": "https://www.munhwa.com/article/11615869?ref=naver",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "우동3구역",
+    "region": "해운대구",
+    "stage": "관리처분계획인가",
+    "summary": "부산 해운대구 우동3구역 재개발 사업이 최근 관리처분계획 인가를 받아 이주와 철거를 앞둔 가운데, 인접한 전통사찰 해운정사와 재개발조합 간의 갈등이 소송전으로 번지며 갈등이 심화하고 있다. 앞서 6년 전...",
+    "source_url": "https://www.busan.com/view/busan/view.php?code=2026091018175413853",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "7월 관리처분인가, 2021년 7월 착공, 2025년 6월 임시사용승인을 거쳐 2026년 9월 준공인가에 이르렀다.... 한편, 준공인가는 사업시행자가 사업시행계획인가를 받아 건축한 건축물이 인가 내용대로 이행되어 건축행정...",
+    "source_url": "https://www.cnbizm.com/news/articleView.html?idxno=314729",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은제13구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "이곳은 2009년 조합설립인가를 시작으로 2011년 사업시행인가, 2018년 관리처분인가, 2021년 착공을 거쳤다.... 점검할 계획이다. 박운기 구청장은 “정비사업의 완성은 아파트를 짓는 데 그치지 않고 주민이 이용할...",
+    "source_url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160287133499059",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "자양동",
+    "stage": "관리처분계획인가",
+    "summary": "투기과열지구 재개발은 관리처분계획인가 이후부터 지위 양도가 막히기 때문에, 사업시행계획인가와 관리처분인가가 남은 지금은 거래 자체는 가능하다. 뒤집어 말하면 관리처분인가가 나는 순간 매도 통로가...",
+    "source_url": "https://www.hankyung.com/article/202609107013i",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이후 2018년 7월 관리처분인가를 거쳐 2021년 7월 공사에 들어갔다. 2025년 6월 임시사용승인에 따라 입주가... 줄인다는 계획이다. 박운기 서대문구청장은 \"정비사업의 완성은 아파트를 짓는 데 그치지 않고 주민이...",
+    "source_url": "https://www.job-post.co.kr/news/articleView.html?idxno=227026",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "재건축사업구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "헌법재판소도 2020년 4월 23일 관리처분계획인가 이후 별도의 영업손실 보상 없이 재건축사업구역 내 임차인의 사용·수익을 중지하도록 한 도시정비법 조항에 대해 합헌 결정했다. 다만 임대차보증금 반환이나 조합...",
+    "source_url": "https://www.etoday.co.kr/news/view/2624101",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "홍은13구역은 2009년 정비구역 지정과 조합설립인가 이후 2011년 사업시행인가, 2018년 관리처분인가를... 줄일 계획이다. 박운기 서대문구청장은 “정비사업의 완성은 아파트를 짓는 데 그치지 않고 주민이 이용할...",
+    "source_url": "https://www.sedaily.com/article/20089380?ref=naver",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "투기과열지구",
+    "stage": "관리처분계획인가",
+    "summary": "그런데 투기과열지구 내 양수인의 토지등소유자 지위 제한(제15조 제2항)은 관리처분계획인가 이후에야 적용된다. 도심공공주택복합사업이 2021년 6월 29일을 소급 기준일로 삼아 논란을 빚었던 것과 정반대로...",
+    "source_url": "https://www.housingherald.co.kr/news/articleView.html?idxno=62820",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "2011년 4월 사업시행인가, 2018년 7월 관리처분인가를 거쳐 2021년 7월 착공했다. 지난해 6월 임시사용승인에... 줄일 계획이다. 박운기 서대문구청장은 “정비사업의 완성은 아파트를 짓는 데 그치지 않고 주민이...",
+    "source_url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576998375892",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "9일 관계기관에 따르면 국토부 신도시정비기획과는 지난달 안성택 서울주택도시공사(SH) 도시정비계획처장... 매뉴얼에는 정비구역 지정부터 조합설립, 사업시행인가, 관리처분, 이주, 그리고 착공 및 준공에 이르는...",
+    "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609081442436470143",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "제1구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "전에는 처분하기 어렵다는 입장이다. 이미 인가받은 도심 정비사업과 이후 추진된 국가철도계획이 한 땅을... 공단은 이 토지를 관리하고 있고, 현재는 철도 선로 주변 대지로 이용되고 있다. 신용산역 북측 제1구역은...",
+    "source_url": "https://www.ekn.kr/web/view.php?key=20260910024372952",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "사업은 2009년 정비구역 지정 이후 2011년 사업시행인가, 2018년 관리처분인가를 거쳐 2021년 착공했으며... 구는 준공을 앞둔 다른 정비사업장도 기반시설과 행정절차를 사전 점검해 준공 단계의 지연을 줄일 계획이다....",
+    "source_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291992",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "선도지구",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "1차 선도지구도 사업시행계획 인가를 거쳐 착공 시점이 일러야 2028년으로 밀린 상황이다. 1기 신도시... 성남시는 연차별 정비예정 물량 폐지를 국토교통부에 공식 건의했으며, 전문가들은 관리처분 단계에서...",
+    "source_url": "https://www.sedaily.com/article/20089257?ref=naver",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "홍은13구역은 2009년 3월 정비구역 지정과 같은 해 9월 조합설립인가를 시작으로 2011년 4월 사업시행인가, 2018년 7월 관리처분인가, 2021년 7월 착공, 지난해 6월 임시사용승인을 거쳐 이달 준공인가에 이르렀다. 구는...",
+    "source_url": "http://www.areyou.co.kr/news/articleView.html?idxno=95312",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "이어 △2011년 4월 사업시행인가 △2018년 7월 관리처분인가 △2021년 7월 착공 △2025년 6월 임시사용승인을 거쳐 정비구역 지정 17년(착공 후 5년) 만에 준공인가를 매듭지었다. 서대문구는 관내 준공을 앞둔 다른...",
+    "source_url": "https://www.housingherald.co.kr/news/articleView.html?idxno=62889",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이후 2018년 7월 관리처분인가, 2021년 7월 착공, 2025년 6월 임시사용승인을 거쳐 2026년 9월 준공인가에 이르렀다. 박운기 구청장은 \"정비사업의 완성은 아파트를 짓는 데 그치지 않고 주민이 이용할 도로와 공원...",
+    "source_url": "https://www.arunews.com/news/articleView.html?idxno=67058",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "통합재건축",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "개포주공5단지는 관리처분인가 후 1279가구 재건축을 추진 중이다. 총 2698가구 규모의 개포주공6·7단지 통합재건축과 2838가구 규모 구룡마을 도시개발사업도 진행되고 있다. 자연환경 기반의 상권 경쟁력도 갖췄다....",
+    "source_url": "https://www.edaily.co.kr/News/Read?newsId=03778566645578808&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "'홍은13구역'은 2009년 3월 정비구역 지정과 같은 해 9월 조합설립인가를 시작으로 2011년 4월 사업시행인가, 2018년 7월 관리처분인가, 2021년 7월 착공, 2025년 6월 임시사용승인을 거쳐 입주가 이뤄졌습니다. 이곳에는...",
+    "source_url": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3538254&seq_800=20531148",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "이후 2011년 사업시행인가, 2018년 관리처분인가, 2021년 착공, 지난해 6월 임시사용승인을 거쳐 이달 준공인가에 이르렀다. 정비구역 지정부터 착공까지 12년, 착공에서 준공인가까지 5년이 걸렸다. 준공인가에 따라...",
+    "source_url": "https://news.tf.co.kr/read/life/2364300.htm",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이어 2011년 4월 사업시행인가, 2018년 7월 관리처분인가, 2021년 7월 착공, 2025년 6월 임시사용승인을 거쳐 올해 9월 준공인가에 이르렀다. 구는 준공을 앞둔 다른 정비사업장에 대해서도 공정과 기반시설 조성 현황...",
+    "source_url": "https://www.mt.co.kr/estate/2026/09/10/2026091009100556660",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "홍은13구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "홍은13구역은 2009년 3월 정비구역 지정과 같은 해 9월 조합설립인가를 시작으로 2011년 4월 사업시행인가, 2018년 7월 관리처분인가, 2021년 7월 착공, 2025년 6월 임시사용승인을 거쳐 이달 준공인가에 이르렀다....",
+    "source_url": "https://www.m-i.kr/news/articleView.html?idxno=1412233",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "수영1구역",
+    "region": "주요공시",
+    "stage": "관리처분계획인가",
+    "summary": "첫 번째는 수영1구역 재개발정비사업이다. 계약금액은 6374억원이며, 최근 매출액 대비 5.12% 규모다.... 취득 목적은 효율적 지분구조 관리다. 이번 공시는 SKC의 동박 계열 해외 지분구조 정비와 연결되는...",
+    "source_url": "https://www.kdpress.co.kr/news/articleView.html?idxno=208518",
+    "pub_date": "2026-09-10"
+  },
+  {
+    "zone_name": "우동3구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "우동3구역-해운정사 맞소송전… 6년 만에 갈등 재격화  부산일보",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vd0drdGFCaGZpNk9HVjFkN1pRZVdWVWYwME9ob21OdjdscUdXZFpONnRmSkRpODNmUEJrZzlyQ21YYzlrZDZQeUMtcXdGYU03dUdkY2oyUHZWWEt5MGtVaUdHYzVHNkNFMDR5Q2xqaUZHVjJu?oc=5",
     "pub_date": "2026-09-10"
   },
   {
@@ -117,6 +333,14 @@
     "stage": "관리처분계획인가",
     "summary": "‘5억에 1+1’ 노량진4구역 내홍…“새 판 짜야” vs “확정 사항”  v.daum.net",
     "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKZk5MU0RmQnlEYWRNeW5fVmJJUHJ5T1NNM2dCVm9yWVlscHV1ZXVoNVcxbmxhYkd5MjdzQnBBOGJRTEZSQnc?oc=5",
+    "pub_date": "2026-09-09"
+  },
+  {
+    "zone_name": "노량진4구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "‘5억에 1+1’ 노량진4구역 내홍…“새 판 짜야” vs “확정 사항”  v.daum.net",
+    "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SczBmTnBJWWFTMnhKdEcxaEJWUDdxanpNQVNrYnZ6blQzVkt2cDd4RzNOWXF2amR5em43bkFlZFk5eU1TcGR1WGxpTQ?oc=5",
     "pub_date": "2026-09-09"
   },
   {
