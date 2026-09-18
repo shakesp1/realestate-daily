@@ -1,6 +1,70 @@
 [
   {
     "zone_name": "북가좌6구역",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "사업시행계획인가를 획득했다고 18일 밝혔다. 북가좌6구역 재건축은 지난 4월 정기총회에서... 한국토지신탁 관계자는 \"관리처분계획 수립과 감정평가 등 후속 절차를 속도감 있게 추진할 것\"이라며 \"서울 서북권을...",
+    "source_url": "https://www.news1.kr/realestate/general/6294871",
+    "pub_date": "2026-09-18"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "신탁방식 재건축을 추진 중인 서울 서대문구 북가좌6구역이 관할 구청으로부터 사업시행계획인가를... 감정평가와 관리처분계획 수립 등 후속 절차도 속도감 있게 추진해 서울 서북권 랜드마크로 조성하겠다”고...",
+    "source_url": "https://biz.heraldcorp.com/article/10877958?ref=naver",
+    "pub_date": "2026-09-18"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "한토신 관계자는 \"조합원들의 협조와 조합·신탁사 간 협업을 바탕으로 사업시행계획인가를 마쳤다\"며 \"향후 관리처분계획 수립과 감정평가 등 후속 절차도 속도감 있고 투명하게 추진하겠다\"고 말했다. /김미나 기자",
+    "source_url": "https://www.asiatime.co.kr/article/20260918500044",
+    "pub_date": "2026-09-18"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "한국토지신탁 관계자는 \"사업시행인가를 계기로 후속 절차도 차질 없이 진행할 수 있도록 조합과 협력하겠다\"며 \"감정평가와 관리처분계획 수립 등을 신속하고 투명하게 추진할 것\"이라고 말했다.",
+    "source_url": "https://www.newsis.com/view/NISX20260918_0003794962",
+    "pub_date": "2026-09-18"
+  },
+  {
+    "zone_name": "한남3구역",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "서울시는 이번 통합심의 이후 4개 정비구역이 사업시행계획인가와 관리처분계획인가 등 후속 절차를 신속하게 진행할 수 있도록 지원할 계획이라고 밝혔다. 시는 정비사업 단계별 지연 요인을 줄이기 위한...",
+    "source_url": "https://www.rcast.co.kr/news/articleView.html?idxno=31638",
+    "pub_date": "2026-09-18"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "투기과열지구",
+    "stage": "관리처분계획인가",
+    "summary": "투기과열지구 내에서 재건축할 경우 조합설립인가(재개발은 관리처분계획인가) 이후부터 이전고시일까지 조합원 지위 양도가 제한된다. 매입임대 아파트의 세제 혜택 적용 기간의 시점이 의무임대 종료일이나...",
+    "source_url": "https://www.kdpress.co.kr/news/articleView.html?idxno=208719",
+    "pub_date": "2026-09-18"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한된다. 이에 따라 매입임대 아파트 매도에 따른 세제혜택 적용이...",
+    "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=607706",
+    "pub_date": "2026-09-18"
+  },
+  {
+    "zone_name": "감만재개발",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "특히 정비사업의 경우 사업시행인가와 관리처분, 이주·철거 등 후속 절차가 지연되면 착공까지 상당한 시간이 걸릴 수 있어 수주잔액의 질을 따져볼 필요가 있다. 동부건설은 사업별로 정상화 가능성을 강조하고 있다....",
+    "source_url": "https://news.dealsitetv.com/articles/176033",
+    "pub_date": "2026-09-18"
+  },
+  {
+    "zone_name": "북가좌6구역",
     "region": "서대문구",
     "stage": "관리처분계획인가",
     "summary": "이번 인가로 건축계획과 기반시설 등 사업의 구체적인 밑그림이 확정돼 관리처분계획인가 등 후속 절차를 밟을 수 있게 됐다. 사업 규모는 구역면적 10만4656㎡에 지하 6층~지상 34층, 16개 동, 1953세대다. 특별건축구역...",
@@ -77,6 +141,406 @@
     "stage": "관리처분계획인가",
     "summary": "4·5구역은 사업시행인가를 마치고 관리처분인가를 앞뒀다. 사업속도가 가장 늦은 1구역은 정비구역 해제 후 신속통합기획으로 사업이 재추진된다. 정비사업이 모두 완료되면 한남뉴타운 일대는 1만3300여가구에...",
     "source_url": "https://www.mt.co.kr/estate/2026/09/17/2026091619570740794",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "사업시행계획인가로 건축계획과 기반시설 등 사업의 구체적인 밑그림이 확정되면서 향후 관리처분계획인가 등의 후속 절차로 넘어갈 수 있게 됐다. 사업 규모는 구역면적 10만4,656㎡에 지하 6층~지상 34층, 16개 동, 총 1...",
+    "source_url": "https://www.cnbizm.com/news/articleView.html?idxno=315571",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지허가구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없다. 매입임대 아파트(등록임대주택)는 의무 임대...",
+    "source_url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53021",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "투기과열지구",
+    "stage": "관리처분계획인가",
+    "summary": "투기과열지구 내에서 재건축할 경우 조합설립인가(재개발은 관리처분계획인가) 이후부터 이전고시일까지 조합원 지위 양도가 제한된다. 매입임대 아파트의 세제 혜택 적용 기간의 시점이 의무임대 종료일이나...",
+    "source_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148972092&call_from=naver_news",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "사업시행계획인가로 사업의 구체적인 밑그림이 확정되면서 향후 관리처분계획인가 등의 후속 절차로 넘어갈 수 있게 됐다. 사업 규모는 지하 6층~지상 34층, 16개 동, 총 1953가구다.",
+    "source_url": "https://www.mk.co.kr/article/12155639",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "이번 인가로 건축계획과 기반시설 등 사업의 밑그림이 확정되면서 관리처분계획 인가 등 후속 절차를 밟게 됐다. 북가좌6구역은 재건축을 통해 지하 6층~지상 34층, 16개 동, 총 1953가구로 조성된다. 특별건축구역으로...",
+    "source_url": "https://www.hankyung.com/article/2026091720181",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "투기과열지구",
+    "stage": "관리처분계획인가",
+    "summary": "투기과열지구 내에서 재건축할 경우 조합설립인가(재개발은 관리처분계획인가) 이후부터 이전고시일까지 조합원 지위 양도가 제한된다. 이에 따라 매입임대 아파트의 세제 혜택 적용 기간의 시점이 뒤로 조정되는...",
+    "source_url": "https://www.taxtimes.co.kr/news/article.html?no=276929",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이번 인가로 건축계획과 기반시설 등 사업의 구체적인 계획이 확정돼 관리처분계획인가 등 후속 절차를 밟을 수 있게 됐다. 건축계획에는 특별건축구역 지정을 통해 높이·외관·형태가 서로 다른 아파트 동을...",
+    "source_url": "https://www.newsis.com/view/NISX20260917_0003794419",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "전농구역",
+    "region": "동대문구",
+    "stage": "관리처분계획인가",
+    "summary": "관리처분계획인가와 이주, 철거 절차가 남아 있다. 대우건설은 현재 전농구역의 관리처분계획인가를 접수했다. 대우건설은 2027년 상반기 이주를 시작해 2028년 착공하는 것을 목표로 하고 있다고 밝혔다. 이번...",
+    "source_url": "https://www.fetv.co.kr/news/articleView.html?idxno=310399",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없다. 이 때문에 매입임대 아파트 매도에 따른...",
+    "source_url": "http://www.beyondpost.co.kr/view.php?ud=2026091716233965062aaae0046f_30",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위를 넘길 수 없다. 이전고시는 정비사업을 마친 뒤 새 주택의 소유권을 조합원에게...",
+    "source_url": "http://www.smedaily.co.kr/news/articleView.html?idxno=363432",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "한남3구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "한남4·5구역은 관리처분계획인가 신청을 준비하고 있으며, 2017년 정비구역에서 해제된 한남1구역은 신속통합기획 수립을 준비하는 단계다. 한남5구역도 설계변경과 후속 절차를 병행해 사업기간을 줄인다는 구상이다....",
+    "source_url": "https://www.ajunews.com/view/20260917153259618",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없습니다. 이 때문에 매입임대 아파트 매도에 따른...",
+    "source_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758525&plink=ORI&cooper=NAVER",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "상계2구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "2021년 1월 시공사로 선정된 상계2구역은 올해 관리처분인가를 앞두고 이달 초 2756억원 규모의 공동사업시행... 진입할 기회가 커진 만큼, 구로·중랑·강동 등을 중심으로 사업지를 계속 넓혀갈 계획\"이라고 말했다.",
+    "source_url": "https://www.newsway.co.kr/news/view?ud=2026091713200957506",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "사업시행계획 인가는 건축계획과 기반시설 등 사업의 구체적인 밑그림이 확정되면서향후 관리처분계획인가 등의 후속 절차로 넘어갈 수 있다는 뜻입니다. 북가좌6구역의 사업 규모는 구역 면적 10만 4,656㎡에 지하 6층...",
+    "source_url": "https://news.skbroadband.com/news/articleView.html?idxno=238197",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이에 따라 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래가 불가능하다. 이 때문에 매입임대 아파트의 세제 혜택 적용 시점이 의무임대 종료일이나...",
+    "source_url": "https://www.seoulfn.com/news/articleView.html?idxno=638223",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없다. 이 때문에 매입임대 아파트 매도에 따른...",
+    "source_url": "https://www.yna.co.kr/view/AKR20260917076651003?input=1195m",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없다. 이 때문에 매입임대 아파트 매도에 따른...",
+    "source_url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81217",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "사업은 앞으로 관리처분계획인가를 비롯한 후속 절차를 거쳐 이주·철거와 착공 단계로 진행된다. 북가좌6구역은 2020년 조합설립인가를 받은 뒤 지난해 11월 서울시 정비사업 통합심의위원회를 통과했다. 올해 5월에는...",
+    "source_url": "https://www.job-post.co.kr/news/articleView.html?idxno=227969",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없습니다. 이 때문에 매입임대 아파트 매도에 따른...",
+    "source_url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5219813",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "투기과열지구에서 재건축 주택은 조합설립인가 이후, 재개발 주택은 관리처분계획인가 이후부터 이전고시일까지 조합원 지위 양도가 제한되는 문제도 있다. 정부는 이 같은 거래 제한으로 매도 시점이 의무임대...",
+    "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=548869",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이번 인가로 건축계획과 기반 시설 등이 확정되면서 관리처분계획인가 등 후속 절차가 진행될 계획이다. 북가좌6구역에는 지하 6층~지상 34층, 16개 동, 1953가구가 조성된다. 특별건축구역으로 지정돼 건물의 높이와...",
+    "source_url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/17/N66VQRMEX5GDLLD7JOOCFG4E6A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없다. 이같은 이유에 매입임대 아파트 매도에 따른...",
+    "source_url": "https://www.getnews.co.kr/news/articleView.html?idxno=881077",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어, 재건축은 조합설립인가부터, 재개발은 관리처분계획인가부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없습니다. 이 때문에 매입임대 아파트에 대한 세제 혜택...",
+    "source_url": "https://www.tjb.co.kr/news05/bodo/view/id/103730",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "재건축은 조합설립인가 이후 재개발은 관리처분계획인가 이후부터 이전고시일까지 조합원 지위 양도가 제한돼 거래가 어려울 수 있다. 이에 따라 매입임대 아파트의 의무 임대기간이나 정비사업에 따른 거래 제한...",
+    "source_url": "https://www.newscj.com/news/articleView.html?idxno=3433465",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없다. 이 때문에 매입임대 아파트 매도에 따른 세제혜택...",
+    "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1724654",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "갱신시",
+    "stage": "관리처분계획인가",
+    "summary": "해당 지역은 투기과열지구로도 지정돼 있어 재건축은 조합설립인가 이후, 재개발은 관리처분계획인가 이후부터 이전고시 전까지 조합원 지위 양도가 제한된다. 이에 따라 매입임대 아파트의 세제혜택 적용 시점이...",
+    "source_url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266937",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "이전고시",
+    "stage": "관리처분계획인가",
+    "summary": "또 투기과열지구로도 지정돼 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한됩니다. 이에 따라 매입임대 아파트가 의무임대 종료나 이전고시 이후에야 매도가...",
+    "source_url": "https://www.ikbc.co.kr/article/view/kbc202609170036",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "투기과열지구",
+    "stage": "관리처분계획인가",
+    "summary": "투기과열지구 내에서 재건축할 경우 조합설립인가(재개발은 관리처분계획인가) 이후부터 이전고시일까지 조합원 지위 양도가 제한되는데, 매입임대 아파트의 세제 혜택 적용 기간의 시점이 뒤로 조정되는 경우...",
+    "source_url": "http://mcnews.co.kr/86657",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "투기과열지구로도 묶여 있는 이들 지역은 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없다. 이 때문에 매입임대 아파트 매도에 따른...",
+    "source_url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260917.99099005823",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "또 투기과열지구로 지정된 만큼 재건축은 조합설립인가 이후, 재개발은 관리처분계획인가 이후 이전고시일까지 조합원 지위 양도가 제한된다. 이에 따라 매입임대 아파트의 매도가 의무임대 종료일이나 이전고시일...",
+    "source_url": "https://www.kado.net/news/articleView.html?idxno=2073318",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없습니다. 이 때문에 매입임대 아파트 매도에 따른...",
+    "source_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757943&plink=ORI&cooper=NAVER",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위양도가 제한돼 거래를 할 수 없다. 이 때문에 매입임대 아파트 매도에 따른 세제혜택...",
+    "source_url": "http://www.seouleconews.com/news/articleView.html?idxno=93816",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "투기과열지구에서는 재건축은 조합을 세운 시점, 재개발은 관리처분계획을 인가받은 시점부터 이전고시가 날 때까지 조합원 지위를 넘길 수 없다. 이번 조치는 8·3 세제개편안의 후속 대응이다. 세제개편안에는...",
+    "source_url": "http://www.newskr.kr/news/articleView.html?idxno=106456",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "재건축은 조합설립인가 이후, 재개발은 관리처분계획인가 이후 이전고시일까지 조합원 지위 양도가 제한되기 때문에 정비사업이 진행 중인 주택의 경우 매도 시점이 뒤로 밀릴 수 있다. 정부는 이 같은 거래 제한으로...",
+    "source_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2471626",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "이전고시",
+    "stage": "관리처분계획인가",
+    "summary": "또 이들 지역은 투기과열지구이기도 해 재건축은 조합설립인가 이후, 재개발은 관리처분계획인가 이후부터 이전고시 때까지 원칙적으로 조합원 지위 양도가 제한된다. 이에 따라 의무임대기간 종료나 이전고시 등으로...",
+    "source_url": "https://www.imaeil.com/page/view/2026091711123390486",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이번 인가로 건축계획과 기반시설 등 사업의 밑그림이 확정되면서 관리처분계획인가 등 후속 절차를 밟게 됐다. 북가좌6구역에는 지하 6층~지상 34층, 16개 동, 1953가구가 들어선다. 특별건축구역으로 지정돼 건물의...",
+    "source_url": "https://www.hankyung.com/article/202609170811i",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "또 해당 지역은 투기과열지구로도 지정돼 있어 재건축은 조합설립인가 이후, 재개발은 관리처분계획인가 이후 이전고시일까지 조합원 지위 양도가 제한된다. 이에 따라 매입임대 아파트의 의무임대 종료일이나...",
+    "source_url": "https://www.youthdaily.co.kr/news/article.html?no=227231",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토허구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없다. 이 때문에 매입임대 아파트 매도에 따른 세제혜택...",
+    "source_url": "https://www.jnilbo.com/news/articleView.html?idxno=90000066427",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없다. 이 때문에 매입임대 아파트 매도에 따른 세제혜택...",
+    "source_url": "https://www.mk.co.kr/article/12155200",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "투기과열지구",
+    "stage": "관리처분계획인가",
+    "summary": "투기과열지구 내 재건축의 경우, 조합설립인가와 관리처분계획인가 이후부터 이전 고시일까지 조합원 지위 양도가 제한될 방침이다. 이러한 사유로 인해 세제 혜택 적용 기간이 당초보다 뒤로 조정된다면 실거주 유예...",
+    "source_url": "https://www.fnnews.com/news/202609170732019137",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "토지거래허가구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이들 지역은 투기과열지구로도 묶여 있어 재건축은 조합설립인가, 재개발은 관리처분계획인가 시점부터 이전고시일까지 조합원 지위 양도가 제한돼 거래를 할 수 없다. 이 때문에 매입임대 아파트 매도에 따른 세제혜택...",
+    "source_url": "https://www.yna.co.kr/view/AKR20260917076600003?input=1195m",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "사업시행계획인가로 건축계획과 기반시설 등 사업의 구체적인 밑그림이 확정되면서 향후 관리처분계획인가 등의 후속 절차로 넘어갈 수 있게 됐다. 사업 규모는 구역면적 10만4656㎡에 지하 6층~지상 34층, 16개 동, 총...",
+    "source_url": "https://www.mk.co.kr/article/12155182",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "사업시행계획인가로 건축계획과 기반시설 등 사업의 구체적인 밑그림이 확정되면서 앞으로 관리처분계획인가 등 후속 절차를 밟게 된다. 사업 규모는 구역면적 10만 4656㎡에 지하 6층~지상 34층, 16개 동, 총 1953가구다....",
+    "source_url": "https://www.seoul.co.kr/news/publicnews/2026/09/17/20260917500081?wlog_tag3=naver",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이번 인가에 따라 향후 관리처분계획인가 등 후속 절차를 밟게 된다. 사업 대상지는 10만4656㎡ 규모다. 지하 6층~지상 34층, 16개 동, 총 1953가구가 들어선다. 특별건축구역 지정을 통해 건축물의 높이와 입면, 주동...",
+    "source_url": "https://www.mt.co.kr/estate/2026/09/17/2026091710234899001",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "사업시행계획인가로 주택 건립과 기반시설 조성 등 구체적인 사업계획이 확정되면서 향후 관리처분계획인가 등 후속 절차를 추진할 수 있는 기반도 마련됐다. 재건축 대상지는 10만4천656㎡ 규모로, 지하 6층~지상 34층...",
+    "source_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294310",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "방화2구역",
+    "region": "관악구",
+    "stage": "관리처분계획인가",
+    "summary": "한국토지신탁이 사업대행을 맡은 관악구 신림미성아파트 재건축은 평당 750만원 수준의 공사비로 관리처분인가 절차를 진행하고 있다. 업계에서는 같은 지역 정비사업이라도 사업 관리 주체의 원가관리 역량에 따라...",
+    "source_url": "https://www.dt.co.kr/article/12084524?ref=naver",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "12년 만에 인가받은 북가좌6구역…34층·1953가구로  뉴시스",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43b0JmZGtkOU1wQThkNWNVRGlmeVJZQTBvR1VUc2EtVFVxSnJ0RnJITVQ3V1dJUzM5QzVBR3JUT1pwQ2lLU0hqR2t6cUNqaEZuZ2dXQmRJMXNYMDBheXVtdmNUTm9hS3NQYlY4WDMxLWphYlU4ZGlJR9IBeEFVX3lxTE43b0JmZGtkOU1wQThkNWNVRGlmeVJZQTBvR1VUc2EtVFVxSnJ0RnJITVQ3V1dJUzM5QzVBR3JUT1pwQ2lLU0hqR2t6cUNqaEZuZ2dXQmRJMXNYMDBheXVtdmNUTm9hS3NQYlY4WDMxLWphYlU4ZGlJRw?oc=5",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "서대문구 북가좌6구역 12년 만에 사업시행인가…1천953세대  연합뉴스",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HdWtFdzU2M056ZGVJazJQLWJoUzY5UWUwcTVkX25MSHptc0w0WGJTWVJ0TTVmMGl3SFFJVGNHblZ5TnVtUmpqWmI4bzBVNnZrckxBdDZLb0I5Z1l0Y3BQUtIBYEFVX3lxTE9HdWtFdzU2M056ZGVJazJQLWJoUzY5UWUwcTVkX25MSHptc0w0WGJTWVJ0TTVmMGl3SFFJVGNHblZ5TnVtUmpqWmI4bzBVNnZrckxBdDZLb0I5Z1l0Y3BQUg?oc=5",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "북가좌6구역 사업시행계획 인가…DMC역 생활권 대단지로 재편  한국철도일보",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YNl9mWTh2N3pnMThPeWduMkQxVW5SYVZfR2t3WEt4Zld6WWx3LVhwU3lkM1ZveUZiU1k3RDBsU0JnWkRDUzQtaHRoTzlOeGhTQ0dPQUphUDJ0d2NOQV9YU3hzWkRmc0F4RHlkaTRPQnc?oc=5",
+    "pub_date": "2026-09-17"
+  },
+  {
+    "zone_name": "북가좌6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "DMC 트리플역세권 '북가좌6구역' 12년 만에 결실… 최고 34층·1953가구 대단지 들어선다  대한청년일보",
+    "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1zWFR3Tjh0T21SN3NRaE54RXIyclJhQUxjUThnQVRuU3hxeTZicFZMcVZaYzZYcTlMc252TEZpazBwRU0?oc=5",
     "pub_date": "2026-09-17"
   },
   {
