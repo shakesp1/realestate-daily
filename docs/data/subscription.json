@@ -1,5 +1,47 @@
 [
   {
+    "housing_name": "공사비",
+    "region": "확인 필요",
+    "summary": "사업 일정에 직접적인 영향을 미치고 있어서다. 실제 분양가 상승세도 가파르다. 지난달 수도권 아파트 평균... 리얼하우스가 한국부동산원 청약홈 자료를 분석한 결과, 지난달 수도권 평균 분양가는 ㎡당 1505만원으로...",
+    "source_url": "https://www.newsis.com/view/NISX20260929_0003807058",
+    "pub_date": "2026-09-30"
+  },
+  {
+    "housing_name": "제일건설",
+    "region": "확인 필요",
+    "summary": "특별공급 전용 59㎡ 타입의 월 임대료는 4만9000원~40만9000원, 일반공급 전용 59㎡ 타입은 6만9000원... 앞서 지난 7~8일 진행된 청약에는 2000건 이상의 신청이 접수됐으며 평균 경쟁률은 2.1대 1을 기록했다. 전용 84...",
+    "source_url": "https://www.asiaa.co.kr/news/articleView.html?idxno=264572",
+    "pub_date": "2026-09-30"
+  },
+  {
+    "housing_name": "경기주택도시공사",
+    "region": "확인 필요",
+    "summary": "금융·세제·청약 분야의 제도 개선을 추진했다. 금융위원회 법령해석을 통해 전용 대출상품 개발 기반을 마련하고 법인세와 보유세 부담 완화 방안을 마련했다. 청년과 신생아 가구를 특별공급 대상에 포함하는 등...",
+    "source_url": "http://www.metroseoul.co.kr/article/20260929500468",
+    "pub_date": "2026-09-30"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "GH는 이 모델을 실현하기 위해 금융·세제·청약 등 전방위 제도 개선을 선도했다. 금융위원회 법령해석을 이끌어내 전용 대출상품 개발 기반을 마련했으며, 법인세 및 보유세 부담을 완화했다. 또 특별공급 대상에...",
+    "source_url": "https://www.sportsseoul.com/news/read/1638462?ref=naver",
+    "pub_date": "2026-09-30"
+  },
+  {
+    "housing_name": "미분양 쌓인 평택 고덕",
+    "region": "고덕국제신도시",
+    "summary": "3월에는 지난해 11월 청약에서 대거 미달된 브레인시티 비스타동원(1600가구)의 미분양 1493가구가 통계에... 프레스티지도 특별공급 이후 무순위·선착순 계약을 진행했다. 상권 공실도 아직 과제다. 고덕국제신도시...",
+    "source_url": "https://dealsite.co.kr/articles/169655",
+    "pub_date": "2026-09-30"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "금융·세제·청약 전반의 제도적 병목을 앞장서 해소했다. 금융위원회의 유권해석을 이끌어내 전용 모기지 대출 상품의 출시 근거를 마련했으며 법인세와 보유세 감면 혜택을 정비했다. 이어 특별공급 기준에 청년과...",
+    "source_url": "https://www.cstimes.com/news/articleView.html?idxno=722292",
+    "pub_date": "2026-09-30"
+  },
+  {
     "housing_name": "라비움 한강",
     "region": "확인 필요",
     "summary": "인근 아파트를 매입할 수 있을 정도로 높은 분양가격이 수요 감소에 영향을 미친 요인 중 하나로 분석했다. 청약 미달 이후에도 이어진 미분양…실제 계약률은 초기 청약 이후 미계약 물량이 실제 계약으로 얼마나...",
@@ -67,6 +109,216 @@
     "region": "판문지구",
     "summary": "29일 분양업계에 따르면 이 단지는 한국부동산원 청약홈을 통해 이날 1순위 신청을 접수하며, 당첨자는 오는 10월 8일 발표한다. 당첨자 서류는 다음 9일부터 16일까지 접수한다. 정당계약은 같은 달 19일부터...",
     "source_url": "http://www.finomy.com/news/articleView.html?idxno=262466",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "분상제 품고 고덕신도시 공략",
+    "region": "고덕신도시",
+    "summary": "분양가가 일정 기준에 따라 산정되는 만큼 고덕국제신도시 내 새 아파트를 찾는 실수요자들의 관심을... 특별공급은 21일, 1순위와 2순위 청약은 각각 22일과 23일 진행됐다. 당첨자 발표는 A12블록이 10월 1일, A65블록이...",
+    "source_url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259167",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "현대건설",
+    "region": "평택",
+    "summary": "대단지 아파트 ‘힐스테이트 고덕엘리스트’를 9월 분양할 예정이다. 삼성전자 평택캠퍼스 인근 입지와... 실수요자 선호가 높은 중형 면적 중심 공급이라는 점에서 청약 수요가 집중될 가능성이 있다는 평가가 나온다....",
+    "source_url": "https://www.hellot.net/news/article.html?no=115185",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "구리시",
+    "region": "구리시",
+    "summary": "이자의 일정 부분(또는 최대 수백만 원)을 지자체나 정부에서 지원받음으로써, 매달 빠져나가는 원리금 상환... 주거지(아파트, 주거용 오피스텔 등)를 선택할 수 있도록 돕는다. 주거 스트레스가 줄어들면서 결혼 초기...",
+    "source_url": "https://www.cnbnews.com/news/articleView.html?idxno=1017404",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "두산위브더제니스 부천",
+    "region": "부천",
+    "summary": "계약 뒤 229가구가 남아 다시 청약을 받았지만 신청자는 135명에 그쳤다. 소사역 역세권이라는 장점에도 높은 분양가와 2032년 입주 일정, 주변 소음 우려까지 겹치면서 5년 넘게 기다릴 만한 매력을 주지 못한 것으로...",
+    "source_url": "https://biz.newdaily.co.kr/site/data/html/2026/09/29/2026092900099.html",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "땅값 폭락",
+    "region": "확인 필요",
+    "summary": "- 주택 도시기금, 청약통장 가입 하락하며 저조, 주택거래 감소로 채권 발행도 저조..무슨 돈으로 집지을... 프랑스 파리처럼 중심은 굉장히 낮은 저층 주거지들이 많고 외곽 지역에 아파트들이 많은 구조거든요. ◆ 조태현...",
+    "source_url": "https://www.ytn.co.kr/_ln/0102_202609290838028533",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "현대건설",
+    "region": "확인 필요",
+    "summary": "힐스테이트 고덕엘리스트는 분양가상한제가 적용되는 단지다. 지난 9월 청약 접수를 진행했으며, 향후 당첨자 발표와 정당계약 절차를 거칠 예정이다. 분양 관계자는 \"힐스테이트 고덕엘리스트는 분양가 상한제라는...",
+    "source_url": "https://www.tfmedia.co.kr/news/article.html?no=207571",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "현대건설",
+    "region": "경기도",
+    "summary": "현대건설(000720, 대표 이한우)이 9월 경기도 평택시 고덕국제신도시에 '힐스테이트 고덕엘리스트'를 분양... 지난 23일 2순위 청약 접수를 마쳤으며, 당첨자는 A12블록 10월 1일, A65블록 10월 2일 각각 발표될 예정이다.",
+    "source_url": "http://www.koreastocknews.com/news/articleView.html?idxno=121491",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "GH는 이 모델을 실현하기 위해 금융·세제·청약 등 전방위 제도 개선을 선도했다. 금융위원회 법령해석을 이끌어내 전용 대출상품 개발 기반을 마련했으며, 법인세 및 보유세 부담을 완화했다. 또한, 특별공급 대상에...",
+    "source_url": "https://www.cnbnews.com/news/articleView.html?idxno=1017520",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "금융·세제·청약 등 전방위적으 제도 개선을 선도했다. 금융위원회 법령해석을 이끌어 내 전용 대출상품 개발 기반을 마련했을 뿐 아니라 법인세 및 보유세 부담을 완화했다. 나아가 특별공급 대상에 청년과 신생아...",
+    "source_url": "https://www.kmib.co.kr/article/view.asp?arcid=9000018359&cp=nv",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "GH는 이 모델을 실현하기 위해 금융·세제·청약 등 전방위 제도 개선을 선도했다. 금융위원회 법령해석을 이끌어내 전용 대출상품 개발 기반을 마련했고, 법인세와 보유세 부담을 완화했다. 특별공급 대상에 청년과...",
+    "source_url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65038",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "청약 기준도 실제 수요자 중심으로 손질했다. 특별공급 대상에 청년과 신생아 가구를 반영해 주거 취약 계층의 접근성을 높였다. 단순한 공급 확대를 넘어 제도적 기반까지 마련했다는 점에서 의미가 크다. 정부가 지난...",
+    "source_url": "https://www.sedaily.com/article/20096265?ref=naver",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "김용진 GH 사장",
+    "region": "확인 필요",
+    "summary": "GH는 이 모델을 실현하기 위해 금융·세제·청약 등 전방위 제도 개선을 선도했다. 금융위원회 법령해석을 이끌어내 전용 대출상품 개발 기반을 마련했으며, 법인세 및 보유세 부담을 완화했다. 또한 특별공급 대상에...",
+    "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609291749106290815",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "광교",
+    "summary": "GH는 실제 공급을 위해 금융과 세제, 청약 분야의 제도 개선을 함께 추진했다. 금융위원회 법령해석을 통해 전용 대출상품 개발 기반을 마련하고 법인세와 보유세 부담을 완화했다. 특별공급 대상에는 청년과 신생아...",
+    "source_url": "https://www.nspna.com/news/?mode=view&newsid=829985",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "청약제도에서는 지분적립형 주택 특별공급에 청년과 신생아 유형을 신설하고 특별공급 비율 확대를 건의하는 등 실제 수요층을 반영한 공급기준 마련을 추진했으며 세제 분야에서도 공공이 보유하는 잔여 지분으로...",
+    "source_url": "https://www.ajunews.com/view/20260929172627447",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "KT에스테이트",
+    "region": "확인 필요",
+    "summary": "이 중 특별공급 86가구와 일반공급 339가구 등 총 425가구가 청년과 신혼부부를 대상으로 공급된다. 청약은 10월 1일부터 4일까지 리마크빌 마포 공식 홈페이지에서 진행되며, 당첨자 발표와 계약을 거쳐 10월 말부터...",
+    "source_url": "https://www.ajunews.com/view/20260929171026383",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "GH는 이 모델을 실현하기 위해 금융·세제·청약 등 전방위 제도 개선을 선도했다. 금융위원회 법령해석을 이끌어 내 전용 대출상품 개발 기반을 마련했으며, 법인세·보유세 부담을 완화했다. 또 특별공급 대상에 청년과...",
+    "source_url": "https://www.kyeonggi.com/article/20260929580482",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "GH는 공급을 준비하며 금융·세제·청약 관련 제도 개선도 추진했다. 금융위원회 법령해석을 통해 전용 대출상품 개발의 기반을 마련하고, 세 부담 완화와 청년·신생아 가구 특별공급 기준 마련에도 힘썼다고 설명했다....",
+    "source_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475199",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH 지분적립형 주택",
+    "region": "확인 필요",
+    "summary": "청약제도에서는 특별공급 대상에 청년과 신생아 가구를 신설하는 등 실수요자 중심의 공급 기준 마련에 기여했다. 이 같은 제도 개선은 지분적립형 주택이 단순한 실험적 사업에 머무르지 않고 실제 공급 가능한 주택...",
+    "source_url": "https://www.smartbizn.com/news/articleView.html?idxno=155138",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "GH는 이 모델을 실현하기 위해 금융·세제·청약 등 전방위 제도 개선을 선도했다. 금융위원회 법령해석을 이끌어내 전용 대출상품 개발 기반을 마련했으며 법인세 및 보유세 부담을 완화했다. 또 특별공급 대상에 청년과...",
+    "source_url": "https://www.newspim.com/news/view/20260929001027",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "GH는 이 모델을 실현하기 위해 금융·세제·청약 등 전방위 제도 개선을 선도했다. 금융위원회 법령해석을 이끌어내 전용 대출상품 개발 기반을 마련했으며, 법인세 및 보유세 부담을 완화했다. 특별공급 대상에 청년과...",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=341475",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "GH는 이 모델을 실현하기 위해 금융·세제·청약 등 전방위 제도 개선을 선도했다. 금융위원회 법령해석을 이끌어내 전용 대출상품 개발 기반을 마련했으며, 법인세 및 보유세 부담을 완화했다. 또한 특별공급 대상에...",
+    "source_url": "https://view.asiae.co.kr/article/2026092916315357050",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "무주택 청년과 신혼부부의 초기 자금 부담을 낮추는 공공분양 모델을 개발하고 금융·세제·청약 등 관련... 가구 특별공급 등 제도 개선을 추진했다. 특히 정부가 지난 8월 발표한 '주택 신속공급 방안'에 지분적립형...",
+    "source_url": "https://www.news1.kr/local/gyeonggi/6304910",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "김용진 GH 사장",
+    "region": "광교",
+    "summary": "금융·세제·청약 제도 개선을 함께 추진했다. 금융위원회 법령해석을 통해 전용 대출상품 개발을 위한 기반을 마련하고 법인세와 보유세 부담을 낮추는 방안을 추진했다. 특별공급 대상에는 청년과 신생아 가구가...",
+    "source_url": "http://www.fieldnews.kr/news/articleView.html?idxno=31869",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "세제·청약 제도 개선으로 공급 기반 마련 GH는 지분적립형 주택의 실제 공급을 위해 금융위원회 법령해석을 이끌어 전용 대출상품 개발 기반을 마련했다. 법인세와 보유세 부담을 완화하고, 청년과 신생아 가구를 특별...",
+    "source_url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271283&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH 지분적립형 분양주택",
+    "region": "확인 필요",
+    "summary": "GH는 사업 도입 과정에서 금융과 세제, 청약 관련 제도 개선을 추진했다. 금융위원회 법령해석을 통해 관련 대출상품 개발 기반을 마련하고 법인세와 보유세 부담을 완화하는 한편 특별공급 대상에 청년과 신생아...",
+    "source_url": "https://www.discoverynews.kr/news/articleView.html?idxno=1102820",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "GH",
+    "region": "확인 필요",
+    "summary": "GH는 이 모델을 실현하기 위해 금융·세제·청약 등 전방위 제도 개선을 선도했다. 금융위원회 법령해석을 이끌어내 전용 대출상품 개발 기반을 마련했으며, 법인세 및 보유세 부담을 완화했다. 또한 특별공급 대상에...",
+    "source_url": "https://biz.heraldcorp.com/article/10887841?ref=naver",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "KT에스테이트",
+    "region": "확인 필요",
+    "summary": "청약은 오는 10월 1일부터 4일까지로, 리마크빌 마포 공식 홈페이지에서 신청할 수 있다. 공급 물량은 특별공급 86가구와 일반공급 339가구로 구성되며 청년과 신혼부부를 대상으로 공급된다. 유철호 KT에스테이트...",
+    "source_url": "https://www.dt.co.kr/article/12086410?ref=naver",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "KT에스테이트",
+    "region": "확인 필요",
+    "summary": "마포'의 청약 접수를 다음 달 1일부터 4일까지 나흘간 진행한다고 29일 밝혔다. 이번 공급은 총 499세대 규모로, 청년과 신혼부부를 대상으로 추진된다. 전체 세대 가운데 특별공급이 86세대, 일반공급이 339세대이며...",
+    "source_url": "https://www.g-enews.com/view.php?ud=202609291332303205a9fc143920_1",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "KT에스테이트",
+    "region": "확인 필요",
+    "summary": "공급 물량은 특별공급 86가구와 일반공급 339가구로 구성되며 청년과 신혼부부를 대상으로 한다. 청약은 리마크빌 마포 공식 홈페이지에서 접수할 수 있으며 당첨자 발표와 계약을 거쳐 10월 말부터 입주가 시작될...",
+    "source_url": "https://www.fnnews.com/news/202609291358375818",
+    "pub_date": "2026-09-29"
+  },
+  {
+    "housing_name": "현대건설",
+    "region": "고덕국제신도시",
+    "summary": "당첨자는 A12블록이 10월 1일, A65블록이 10월 2일 발표한다. 단지가 들어서는 고덕국제신도시는 삼성전자... 최근 청약에서 중대형 면적을 중심으로 수요가 몰렸다. 지난 14일 청약에서 전용 75~79㎡는 53실 모집에...",
+    "source_url": "https://www.viva100.com/article/20260929500868",
     "pub_date": "2026-09-29"
   },
   {
