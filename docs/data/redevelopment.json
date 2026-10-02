@@ -1,5 +1,21 @@
 [
   {
+    "zone_name": "청량리8구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "면목선 도시철도는 2026년 상반기 기본계획 수립 완료 후 2028년 착공을 목표로 추진 중이다. 세 노선이... 청량리8구역도 지상 29층 730세대로 재개발되며, 관리처분인가를 거쳐 통합심의 절차에 있다. 청량리6구역·7구역...",
+    "source_url": "https://www.mediafine.co.kr/news/articleView.html?idxno=91388",
+    "pub_date": "2026-10-02"
+  },
+  {
+    "zone_name": "선도지구",
+    "region": "분당",
+    "stage": "관리처분계획인가",
+    "summary": "이후 시공사 선정, 사업시행계획인가, 관리처분인가, 이주·철거, 착공 순으로 진행될 전망이다. 정부는 당초 1기 신도시 선도지구에 대해 ‘2027년 말 착공, 30년 입주’ 목표를 제시했다. 하지만 현장에선 빨라야 2~3년...",
+    "source_url": "https://www.joongang.co.kr/article/25466585",
+    "pub_date": "2026-10-02"
+  },
+  {
     "zone_name": "신길2지구",
     "region": "서울",
     "stage": "관리처분계획인가",
@@ -29,6 +45,62 @@
     "stage": "관리처분계획인가",
     "summary": "용두1구역 4지구 재개발 속도…감정평가법인 선정  동대문 이슈",
     "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NUlNSci1wZ1VybFJ3X3FTTUJmSzRmM1U5NEZ4QkNhSGtxZlhKTDBYLU1nNUpmYU5tckcyZXBhWmd6UjhjNVRUQjhQYVo0WnVZVXBtWVhWQXdUN1ZMQ2NFV253?oc=5",
+    "pub_date": "2026-10-01"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "정비사업은 통상 정비계획 수립과 정비구역 지정을 거쳐 추진위원회 구성, 조합설립, 사업시행계획인가, 관리처분계획인가 등의 순으로 진행된다. ■신통기획 타고 정비구역 지정까지 사업 초기 단계에서는...",
+    "source_url": "https://www.fnnews.com/news/202610011835055926",
+    "pub_date": "2026-10-01"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "정비구역 지정과 조합 구성·운영을 시작으로 사업시행계획인가, 관리처분계획인가, 이주·해산까지 사업 단계별로 교육한다. 이처럼 최근 자치구의 지원책은 단순한 행정절차 안내보다 사업별 현안 관리와 갈등 조정...",
+    "source_url": "https://www.fnnews.com/news/202610011835081369",
+    "pub_date": "2026-10-01"
+  },
+  {
+    "zone_name": "마포로4구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "신청을 접수한 뒤 관계부서 협의와 검토를 거쳐 이번 인가를 결정했습니다. 이에 따라 건축계획과 기반시설 조성 등 구체적인 사업계획이 확정됐으며 앞으로 관리처분계획인가 등 후속 절차를 거치게 됩니다.",
+    "source_url": "https://news.skbroadband.com/news/articleView.html?idxno=239159",
+    "pub_date": "2026-10-01"
+  },
+  {
+    "zone_name": "십정5구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "하지만 사업이 한 차례 변경되며 관리처분계획 변경 인가를 추진 중인데 지지부진한 상태입니다. 박시현 부평구의원은 여전히 상당 수의 지역 주민들이 머물고 있는 만큼 해당 지역에 대한 관리 대책을 부평구에서...",
+    "source_url": "http://news.lghellovision.net/news/articleView.html?idxno=556951",
+    "pub_date": "2026-10-01"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "지난 5월 시공사를 선정했으나 앞으로 통합심의와 사업시행계획인가, 관리처분계획 등의 절차가 남아 있다. 투기과열지구의 재건축은 원칙적으로 조합설립인가 이후 주택을 산 사람이 조합원 지위를 승계할 수...",
+    "source_url": "https://www.hankookilbo.com/news/article/A2026100111230002337?did=NA",
+    "pub_date": "2026-10-01"
+  },
+  {
+    "zone_name": "십정5구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "단지 주변에 홈플러스, 롯데백화점, 인천사랑병원 등이 있어 생활 인프라 역시 양호하다. 한편, 십정5구역은 2012년 6월 조합설립인가, 2020년 9월 사업시행인가, 2022년 11월 관리처분인가를 득한 후 오늘에 이르렀다.",
+    "source_url": "http://www.areyou.co.kr/news/articleView.html?idxno=95613",
+    "pub_date": "2026-10-01"
+  },
+  {
+    "zone_name": "신길2지구",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "[김명희/신길2지구 도심복합사업 추진위원장 : \"민간 재개발을 했을 때는 구역 지정이 되고, 관리 처분, 지금 저희 보상 단계까지 오려면 저는 최하 한 16년에서 18년 정도 예상하고 있고요. (저희는) 5년 만에 만들어...",
+    "source_url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675603&ref=A",
     "pub_date": "2026-10-01"
   },
   {
