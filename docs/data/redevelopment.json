@@ -1,5 +1,53 @@
 [
   {
+    "zone_name": "한남3구역",
+    "region": "용산구",
+    "stage": "관리처분계획인가",
+    "summary": "한남3구역 철거를 마무리하고 산호아파트 관리처분계획인가 기간을 3개월 단축했다. 공공디자인 대통령상과 재난대응 국제인증도 획득하며 구정 전반의 변화를 추진하고 있다. 용산구는 ‘미래를 여는 매력도시 용산’...",
+    "source_url": "https://www.fntimes.com/html/view.php?ud=202610150918001932b372994c95_18",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "zone_name": "상대원2구역",
+    "region": "성남",
+    "stage": "관리처분계획인가",
+    "summary": "한편, 상대원2구역 면적은 약 24만2000㎡에 달하며, 사업시행인가는 지난 2021년, 같은해 12월 31일 관리처분인가를 받았다. 현재 대부분 철거가 완료된 상황이며 도급계약 총회와 사업시행계획변경인가 등이 남은...",
+    "source_url": "https://www.econovill.com/news/articleView.html?idxno=753660",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "zone_name": "주택재건축",
+    "region": "청주시",
+    "stage": "관리처분계획인가",
+    "summary": "사창 2공구 B블록은 2022년 9월 사업 대상지 내 조합원 자산 비율을 따져 재건축 부동산으로 소유권을 배분하는 관리처분계획 인가 후 철거 및 공동주택 456세대 착공 전 단계에 있다. 나머지 A블록만 2007년 10월 조합...",
+    "source_url": "https://www.news1.kr/local/sejong-chungbuk/6320642",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "zone_name": "특별정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "앞으로 △2027년 1분기 특별정비계획 결정 및 특별정비구역 지정 △2027년 2분기 사업시행자 선정 △2028년 1분기 시공자 선정 △2029년 2분기 건축심의 및 사업시행계획인가 △2029년 4분기 관리처분계획인가...",
+    "source_url": "https://www.arunews.com/news/articleView.html?idxno=68010",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분계획인가 또는 사업시행인가를 앞둔 다른 정비사업구역으로도 지원을 확대할 계획이다. 이주 시기가 도래하는 8개 사업구역의 조합원과 세입자 약 1만명이 추가로 혜택을 받을 것으로 예상된다....",
+    "source_url": "https://www.segye.com/newsView/20261014526075?OutUrl=naver",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "상대원동",
+    "stage": "관리처분계획인가",
+    "summary": "2015년 정비구역 지정 이후 2023년 사업시행인가, 2024년 관리처분계획인가를 거쳐 현재 공사를 진행 중이다. 총 836가구 규모로 계획됐으며 조합원 분양분은 667가구, 일반분양은 162가구다. 시공권 갈등으로 사업이...",
+    "source_url": "https://www.etoday.co.kr/news/view/2635209",
+    "pub_date": "2026-10-15"
+  },
+  {
     "zone_name": "성수2구역",
     "region": "확인 필요",
     "stage": "관리처분계획인가",
@@ -93,6 +141,190 @@
     "stage": "관리처분계획인가",
     "summary": "\"3억에 서울 신축\" 상계동 최대 재개발 '상계2구역' 관리처분 초읽기  땅집고",
     "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XZW5rMkhIY1BiY2xBdDUzLVdja3FTa3h0U0JZdzE3UlV5NlJwUWJXVFlPbzROQVk1elFrLXRfcktQZ1BWNUNrMWZZMG9LVTkwTk5GTmtKMnhIcnB5M19pclVNWWF1aFpzNlEwUVZOWGtuMm_SAXNBVV95cUxNV2VuazJISGNQYmNsQXQ1My1XY2txU2t4dFNCWXcxN1JVeTZScFFiV1RZT280TkFZNXpRay10X3JLUGdQVjVDazFmWTBvS1U5ME5ORk5rSjJ4SHJweTNfaXJVTVlhdWhaczZRMFFWTlhrbjJv?oc=5",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분계획인가 또는 사업시행인가를 앞둔 다른 정비사업구역으로도 지원을 확대할 계획이다. 이주 시기가 도래하는 8개 사업구역의 조합원과 세입자 약 1만 명이 추가로 혜택을 받을 것으로 예상된다. 구는...",
+    "source_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480135",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "현행 제도에 따르면 투기과열지구에서 재건축은 조합설립인가 이후, 재개발은 관리처분계획인가 이후 조합원 지위 양도가 제한된다. 예외 요건을 충족하지 못하면 거래 후에도 조합원 지위를 승계할 수 없어 현금청산...",
+    "source_url": "https://www.hankyung.com/article/2026101422131",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "방배6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "서초구는 방배6구역 재건축 정비사업조합(조합장 조경순ㆍ이하 조합)이 신청한 관리처분계획 변경(안)을 「도시 및 주거환경정비법」 제78조에 따라 인가하고, 동법 제78조제4항 및 동법 시행규칙 제13조...",
+    "source_url": "http://www.areyou.co.kr/news/articleView.html?idxno=95797",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분계획인가 또는 사업시행인가를 앞둔 다른 정비사업구역으로도 지원을 확대할 계획이다. 이주 시기가 도래하는 8개 사업구역의 조합원과 세입자 약 1만 명이 추가로 혜택을 받을 것으로 예상된다. 구는...",
+    "source_url": "https://www.cnbizm.com/news/articleView.html?idxno=318005",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분계획인가 또는 사업시행인가를 앞둔 다른 정비사업구역으로도 지원을 확대할 계획이며 이주 시기가 도래하는 8개 사업구역의 조합원과 세입자 약 1만 명이 추가로 혜택을 받을 것으로 전망됩니다. 이번...",
+    "source_url": "https://news.skbroadband.com/news/articleView.html?idxno=240232",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분계획인가 또는 사업시행인가를 앞둔 다른 정비사업구역으로도 지원을 확대할 계획이다. 이주 시기가 도래하는 8개 사업구역의 조합원과 세입자 약 1만 명이 추가로 혜택을 받을 것으로 예상된다. 또...",
+    "source_url": "https://www.seoul.co.kr/news/publicnews/2026/10/14/20261014500190?wlog_tag3=naver",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "영통1구역",
+    "region": "수원시",
+    "stage": "관리처분계획인가",
+    "summary": "재개발은 정비구역 지정 이후 조합설립, 사업시행계획인가, 관리처분계획인가 등을 거쳐 이주·철거와 착공으로 이어진다. 영통1구역도 구역 지정부터 현재 철거 단계까지 여러 인가 절차를 밟아왔다. 수원시가 지난 9월...",
+    "source_url": "https://www.newsworks.co.kr/news/articleView.html?idxno=856486",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분계획인가 또는 사업시행인가를 앞둔 다른 정비사업구역으로도 지원을 확대할 계획이다. 이주 시기가 도래하는 8개 사업구역의 조합원과 세입자 약 1만 명이 추가로 혜택을 받을 것으로 예상된다. 앞서...",
+    "source_url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160288334178254",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 사업시행인가나 관리처분계획인가를 앞둔 8개 사업구역으로 지원 대상 범위를 넓혀 약 1만 명의 주민이 추가 혜택을 받도록 추진할 방침이다. 노원구는 이주 수요 증가에 대응해 지난 8월부터 감면 방안을 검토하고...",
+    "source_url": "http://www.babytimes.co.kr/news/articleView.html?idxno=74370",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분인가 또는 사업시행인가를 앞둔 다른 정비구역으로도 지원을 확대할 계획이다. 이주 시기가 다가오는 8개 사업구역의 조합원과 세입자 약 1만 명이 추가로 혜택을 받을 것으로 구는 예상했다. 감면을...",
+    "source_url": "http://www.areyou.co.kr/news/articleView.html?idxno=95801",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "구는 관리처분계획인가나 사업시행인가를 앞둔 다른 정비사업구역으로 지원을 확대하는 한편 참여 업소를 추가할 계획이다. 서준오 노원구청장은 “주민들 부담을 덜기 위해 협력해 준 한국공인중개사협회 노원구지회에...",
+    "source_url": "https://www.naeil.com/news/read/605075?ref=naver",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "향후에는 관리처분계획인가 또는 사업시행인가를 앞둔 8개 정비사업구역으로 확대해, 약 1만 명의 조합원과 세입자에게 추가로 감면 혜택을 제공할 방침이다. 구는 재개발·재건축 사업의 본격화에 따라 이주 수요가...",
+    "source_url": "https://www.hg-times.com/news/articleView.html?idxno=306039",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "사진=업무협약서에 서명하는 장면/노원구청 노원구는 향후 관리처분계획인가나 사업시행인가를 앞둔 다른 정비사업구역으로도 지원을 확대할 계획이다. 이주 시기가 도래하는 8개 사업구역의 조합원과 세입자 약 1만...",
+    "source_url": "https://www.gukjenews.com/news/articleView.html?idxno=3721095",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분계획인가 또는 사업시행인가를 앞둔 다른 정비사업구역으로도 지원을 확대할 계획이다. 이주 시기가 도래하는 8개 사업구역의 조합원과 세입자 약 1만명이 추가로 혜택을 받을 것으로 예상된다. 구는...",
+    "source_url": "https://www.arunews.com/news/articleView.html?idxno=68117",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분계획인가 또는 사업시행인가를 앞둔 다른 정비사업구역으로도 지원을 확대할 계획이다. 이주 시기가 도래하는 8개 사업구역의 조합원과 세입자 약 1만명이 추가로 혜택을 받을 것으로 구는 예상했다....",
+    "source_url": "https://www.newsis.com/view/NISX20261014_0003825408",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "투기과열지구",
+    "region": "투기과열지구",
+    "stage": "관리처분계획인가",
+    "summary": "도시정비법에 따르면 투기과열지구 내 재건축사업은 조합설립인가 이후, 재개발사업은 관리처분계획인가 이후 건축물이나 토지를 양수한 사람이 원칙적으로 조합원 지위를 승계할 수 없다. 주택 매매 자체가 금지되는...",
+    "source_url": "https://www.housingherald.co.kr/news/articleView.html?idxno=63103",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분계획인가나 사업시행인가를 앞둔 8개 사업구역으로 지원을 순차적으로 확대해, 추가로 약 1만 명의 주민이 주거비 경감효과를 누릴 수 있도록 할 방침이다. 구는 이주 수요 증가에 대비해 지난 8월부터...",
+    "source_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1301253",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "정비사업구역",
+    "region": "노원구",
+    "stage": "관리처분계획인가",
+    "summary": "구는 향후 관리처분계획인가 또는 사업시행인가를 앞둔 다른 정비사업구역으로도 지원을 확대할 계획이다. 구는 사업을 통해 이주 시기가 도래하는 8개 사업구역의 조합원과 세입자 약 1만명이 추가로 혜택을 받을...",
+    "source_url": "https://www.khan.co.kr/article/202610141026001",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "흑석3구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "실제로 흑석3구역 재개발 사례의 경우 조합설립인가와 관리처분인가 직후에는 주변 매매가가 올랐으나, 준공 이후에는 하락세로 돌아섰다. 서울시 25개 자치구 전역에서 정비사업이 시차를 두고 분산 진행되는 만큼...",
+    "source_url": "https://realty.chosun.com/site/data/html_dir/2026/10/14/2026101401890.html",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "중화3재정비촉진구역",
+    "region": "중랑구",
+    "stage": "관리처분계획인가",
+    "summary": "중랑구 중화3재정비촉진구역, 일반분양 113세대·26층 재개발…6년 만에 관리처분계획 변경 인가  데일리하우징",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OSmtfR1MtcGpLeHk5ZWZUMzN3ZEVuU2VJM1BsSTJPcVpzX2dlRmZkcmh4NmJfN1JfU2NDTVhQYkV1Vm9DMEh4N2cxeElLS3Zlemk1MTR4ZmxVdmVVdkd6d0Q1azczMjBfWmQ4?oc=5",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "상계2구역",
+    "region": "상계동",
+    "stage": "관리처분계획인가",
+    "summary": "\"3억에 서울 신축\" 상계동 최대 재개발 '상계2구역' 관리처분 초읽기  땅집고",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pWEw0TkFBM2VNU3pkMFJZeVVGcXpESjRkS2JnaU5KNExyeFUyZzRrYUp0aktqQ3VwQU5nYjQ3V0Q3cUhrc295WGNrNkhwSjZYYmJ0YkxuVXRtbTFOMWdLV3Z2LXdtV0VkWDc5aWtyVktlVXUtd3QtaktueXFNVU3SAXNBVV95cUxNV2VuazJISGNQYmNsQXQ1My1XY2txU2t4dFNCWXcxN1JVeTZScFFiV1RZT280TkFZNXpRay10X3JLUGdQVjVDazFmWTBvS1U5ME5ORk5rSjJ4SHJweTNfaXJVTVlhdWhaczZRMFFWTlhrbjJv?oc=5",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "방배6구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "[아유경제_재건축] 1097가구 추진 방배6구역 재건축, 관리처분 변경인가 ‘매듭’  아유경제",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrcGtQN19Lc3V3WEFVWVlOdG9Jc1NxSUhqVVRndGphVzJ5QlRUZWxremw0S3FrZHFUZ0h5Y3hBUlAzUXc3WVAtNDczRGpkbTA0TVFmSUY5MDF3TlZydlVJSXlyZ25oZmxP?oc=5",
+    "pub_date": "2026-10-14"
+  },
+  {
+    "zone_name": "대조1구역",
+    "region": "은평구",
+    "stage": "관리처분계획인가",
+    "summary": "은평구 대조1구역, 비례율 87.5%로 관리처분 변경…2451세대 재개발 사업비 1조3924억  데일리하우징",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtZ2pZN0FmZjNVbjJjT0Q2XzM5VXluX1ltemJqdUprRFpUeVBMaDJqczBHcE1fZ3dqVFhRSVBRanp0U1N0Z1FDQzg4cUt3SXFieWRPWXAzSG4yekZYTl9kVHFsWUNhTUZDc18w?oc=5",
     "pub_date": "2026-10-14"
   },
   {
