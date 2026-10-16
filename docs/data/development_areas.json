@@ -1,5 +1,621 @@
 [
   {
+    "region": "계양신도시",
+    "dev_type": "신도시",
+    "summary": "반도건설은 고양 장항에 이어 인천 계양신도시에서도 주거·상업시설을 결합한 복합 개발 상품을 선보일 계획이다. 오는 10월 분양 예정인 '계양신도시 카이브 유보라 & 시간(時間)'은 계양신도시 AC3블록 614가구와 AC4블록...",
+    "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495838",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "파주시",
+    "dev_type": "신도시",
+    "summary": "운정신도시의 도시 완성도를 높이겠다는 전략이다. 파주시(시장 손배찬)는 지난 15일 파주시청 접견실에서... 마련한다는 계획이다. 민간개발이 모두 완료될 때까지 기다리기보다 시민들이 이용할 수 있는 공공 공간을...",
+    "source_url": "https://www.wikitree.co.kr/articles/1166673",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "고덕국제신도시",
+    "dev_type": "신도시",
+    "summary": "고덕국제신도시, 브레인시티 등이 인접해 있다. 조형일 한국공인중개사협회 평택시지회장은 \"동탄은 이미 가격이 상당 부분 형성된 지역인 반면 평택지제역 일대는 교통과 산업 관련 개발 계획이 진행 중인 곳...",
+    "source_url": "https://www.gpkorea.com/news/articleView.html?idxno=147631",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "도심융합특구",
+    "dev_type": "산업단지",
+    "summary": "창원은 국가산업단지를 중심으로 기계·방위·원전산업이 집적돼 있고 대학과 연구기관도 자리 잡고 있다.... 방위·원전 산업의 연구·실증·산업 거점으로 조성한다는 구상이다. 김해 장유역 일원은 광역교통망을...",
+    "source_url": "https://www.ziksir.com/news/articleView.html?idxno=149598",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "서울",
+    "dev_type": "산업단지",
+    "summary": "미국 텍사스주에 조성 중인 산업단지를 기반으로 제조기업과 공급사, 물류기업을 연결하는 산업 생태계를 구축한다는 구상이다. 아이마켓코리아는 지난 14일부터 사흘간 서울 코엑스에서 열린 ‘제28회 반도체대전(SEDEX...",
+    "source_url": "https://www.hankyung.com/article/202610165763i",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "자족도시",
+    "dev_type": "산업단지",
+    "summary": "특히 3만 호 규모의 인공지능(AI) 스마트도시와 국가산업단지 조성을 통해 광주를 단순한 주거 중심 도시에서 벗어나 산업과 일자리가 함께 성장하는 자족도시로 육성하겠다는 구상을 제시했다. 용인 반도체...",
+    "source_url": "https://www.geconomy.co.kr/news/article.html?no=324396",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "경북",
+    "dev_type": "산업단지",
+    "summary": "3ha로 확대… 195농가 참여 노동력 절감·기후변화 대응 위한 평면과원 조성 확대 기후변화와 농촌 고령화에... 국가산업단지를 중심으로 한 경량소재·기계부품·방산 분야 등을 주요 투자유치 대상으로 제시했다. 소재...",
+    "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610160841468330827",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "울산",
+    "dev_type": "산업단지",
+    "summary": "단지는 지하 2층~지상 최고 24층, 5개 동, 전용 64·84·117㎡ 총 352세대 규모로 조성된다. 이 가운데 CR리츠를... 차량으로 약 20분 이내 거리에 매곡산업단지, 매곡2·3차산단, 중산·이화·문산·모듈화 일반산단 등 주요...",
+    "source_url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65891",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "신흥동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "단지 바로 옆 신흥동 옛 성남산업단지 제1공단 부지에는 수원지방법원 성남지원과 수원지방검찰청 성남지청이 이전하는 법조타운이 조성될 예정이다. 인근에는 이미 성남세무서가 위치해 있어, 향후 법원·검찰·세무서...",
+    "source_url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65889",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "창원시",
+    "dev_type": "산업단지",
+    "summary": "조성된 지 20년이 넘은 마천일반산단은 노후 도로와 주차장 등 기반시설 개선을 위해 국토교통부 재생사업 공모 참여를 검토하기로 했다. 산업단지 경쟁력 회복을 위한 국비 확보와 행정절차 협력도 주요 과제로 다뤄졌다....",
+    "source_url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87657",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "태백시",
+    "dev_type": "산업단지",
+    "summary": "내년도 주요 사업은 태백URL 건설, 태백교도소 신축, 산림·목재 클러스터 조성, 청정 스마트 축산산업단지 조성, 석탄경석 자원산업 육성 등이다. 태백선 직선화·고속화, 동서6축 고속도로 및 지선 고속도로, 평창...",
+    "source_url": "https://news.tf.co.kr/read/national/2376986.htm",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "화성",
+    "dev_type": "산업단지",
+    "summary": "분양 관계자는 “향남역 그로브 스위첸은 주요 산업단지와 가까운 직주근접성과 생활 인프라에 더해 신안산선 향남 연장, H-테크노밸리 조성 등 향남의 현재와 미래 가치를 동시에 품은 단지”라며 “향남권역에서...",
+    "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610160905396050829",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "부산",
+    "dev_type": "산업단지",
+    "summary": "논산고등학교를 비롯한 교육시설이 가깝고 논산국방산업단지 등 지역 개발사업도 예정돼 있다. 부산... 전용 59~74㎡ 총 602가구로 조성되며, 일반분양 물량은 116가구다. 단지 주변에서는 약 6000가구 규모의 정비사업이...",
+    "source_url": "https://www.mediapen.com/news/view/1130390",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "전남광주통합특별시",
+    "dev_type": "산업단지",
+    "summary": "홍지선 국토교통부 장관(오른쪽)이 어제(15일) 전남광주통합특별시 광주군공항을 찾아 '호남권 반도체 첨단 국가산단' 조성사업 현장을 점검하고 있다.(사진제공 : 국토부) 정부가 호남권 반도체 첨단 국가산업단지 조성에...",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=342329",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "전남광주통합특별시의 핵심 프로젝트인 '호남권 반도체 첨단 국가산업단지' 조성사업이 정부 부처와 민간 기업의 연쇄 현장 방문 속에 사업 추진에 거침없는...",
+    "source_url": "http://www.breaknews.com/1243416",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "전남광주특별시",
+    "dev_type": "산업단지",
+    "summary": "전남광주통합특별시가 정부의 반도체 메가프로젝트 전격전에 발맞추어 기업 투자 유치와 산업단지 조성을 위한 실행력을 대폭 끌어올리고 있다. 대통령의...",
+    "source_url": "http://www.breaknews.com/1243414",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "밀양시",
+    "dev_type": "산업단지",
+    "summary": "특히 밀양강 파크골프장 조성 사업은 2028년 완공을 목표로 추진하고 있다고 밝혔다. 산업·경제 분야에서는 나노융합국가산업단지의 기회발전특구 지정과 함께 관내 산업·농공단지에서 17개 기업과 총 4802억 원 규모의...",
+    "source_url": "https://www.mhns.co.kr/news/articleView.html?idxno=764559",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "충남",
+    "dev_type": "산업단지",
+    "summary": "충남도의 미래 성장 동력이 될 '천안 국가산업단지' 조성 사업이 당초 계획보다 1년 6개월 가량 앞당겨져 오는 2030년 상반기 준공을 목표로 급물살을 탄다. 그동안 주민 이견으로 제동이 걸렸던 전남 함평군으로의 종축장...",
+    "source_url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072439",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "전남",
+    "dev_type": "산업단지",
+    "summary": "천안 국가산업단지 조성의 선결 과제인 국립축산과학원 축산자원개발부의 전남 함평 이전 사업이 재개된다. 이전 완료 목표도 2031년 하반기에서 2030년 상반기로 1년 6개월 앞당기는 방안이 추진된다. 충남도 박수현...",
+    "source_url": "https://www.viva100.com/article/20261016500051",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "파주시",
+    "dev_type": "산업단지",
+    "summary": "파주는 산업단지와 개별 입지 공장이 함께 분포하는 지역인 만큼 기업별 입지와 업종에 따라 경영 애로의... 기업이 체감할 수 있는 지원 정책을 마련해 기업과 함께 성장하는 산업도시 조성에 힘쓰겠다\"고 말했다.",
+    "source_url": "https://www.kmaeil.com/news/articleView.html?idxno=654556",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "강원도",
+    "dev_type": "산업단지",
+    "summary": "김중남 강릉시장은 천연물 바이오 국가산업단지의 차질 없는 조성과 첨단 지능형교통체계(ITS) 기반의 스마트 모빌리티 선도도시 구축에 총력을 기울이고 있으며, 육동한 춘천시장은 수열에너지 융복합 클러스터...",
+    "source_url": "https://www.socialvalue.kr/news/view/1065570516819017",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "안병구",
+    "dev_type": "산업단지",
+    "summary": "안 시장은 나노융합국가산업단지의 기회발전특구 지정을 성사시킨 데 이어, 관내 산업·농공단지 전반에서... 안 시장은 2028년 완공을 목표로 차질 없이 진행 중인 '밀양강 파크골프장' 조성을 통한 체류형 관광 전환...",
+    "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261016010005097",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "국토교통부 장관이 15일 광주 군공항을 직접 찾아 호남권 반도체 첨단 국가산업단지 조성사업 추진 상황을 점검했다. 호남권 반도체 국가산단은 정부가 추진하는 3대 메가프로젝트 중 하나다. 지난 6월 29일 발표된 기업의...",
+    "source_url": "https://www.gokorea.kr/news/articleView.html?idxno=881575",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "밀양시",
+    "dev_type": "산업단지",
+    "summary": "특히 시민 관심도가 높은 밀양강 파크골프장 조성사업은 2028년 완공을 목표로 차질 없이 추진하고 있다고... '산업∙경제' 분야에서는 나노융합국가산업단지의 기회발전특구 지정과 함께, 관내 산업∙농공단지 전반에서...",
+    "source_url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714216",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "밀양시",
+    "dev_type": "산업단지",
+    "summary": "특히 밀양강 파크골프장 조성 사업은 2028년 완공을 목표로 추진하고 있다고 설명했다. 산업·경제 분야에서는 나노융합국가산업단지의 기회발전특구 지정과 함께 관내 산업·농공단지 입주 관련 17개 기업과 체결한 총...",
+    "source_url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072420",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "광주 군공항 부지는 약 250만평 규모의 대규모 평탄한 부지를 갖추고 있으며, 광주송정역 등 광역교통망과 인접해 있어 산업단지 조성과 기업 투자에 필요한 교통 접근성도 갖추고 있다는 게 통합특별시의 설명이다. 이...",
+    "source_url": "https://gj.newdaily.co.kr/site/data/html/2026/10/15/2026101500395.html",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "처인구",
+    "dev_type": "산업단지",
+    "summary": "임 의원은 SK 반도체클러스터 일반산업단지와 반도체 국가산업단지 조성 등 개발이 빠르게 진행되는 상황에서 주민 생활을 뒷받침할 기반시설 확충이 이에 맞춰 추진되고 있는지 점검해야 한다고 밝혔다. 특히 원삼...",
+    "source_url": "http://www.metroseoul.co.kr/article/20261015500638",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "연제구",
+    "dev_type": "산업단지",
+    "summary": "산업단지 등 개발 호재도 예고돼 있다. 부산 연제구 연산동에서는 BS한양이 10월 중 삼보아파트 가로주택정비사업을 통해 선보이는 '연산역 수자인 센트리오'가 공급 예정이다. 전용 59·74·84㎡ 총 335세대로 조성되며...",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=342320",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "정화활동",
+    "dev_type": "산업단지",
+    "summary": "쾌적한 산업단지 조성과 ESG 경영 실천 확산에 나섰다. 부산진해경제자유구역청(청장 박성호·이하 경자청)은 15일 지사산업단지 일원에서 입주기업 및 지역 봉사단체와 함께 ‘10월 줍깅데이 지사산단 ESG 줍깅 정화활동’...",
+    "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151714419200811",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "광주시",
+    "dev_type": "산업단지",
+    "summary": "시는 3만 호 규모 인공지능 스마트도시와 국가산업단지 조성을 통해 주거·교통·산업·일자리가 연계된 자족도시를 추진하고 있다. 지난 7일 열린 용인 반도체 산업단지 용수공급 지역상생협의체 첫 회의에서는 지역...",
+    "source_url": "https://www.jasm.co.kr/news/view/321724/?sc=Naver",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "구미시",
+    "dev_type": "산업단지",
+    "summary": "특히 50여 년간 산업 기반을 축적한 구미국가산단과 조성 중인 구미하이테크밸리의 입지 경쟁력을... 한편 구미시는 2023년 7월 반도체 분야 국가첨단전략산업 특화단지로 지정된 이후 소재·부품 산업 육성에 집중하고...",
+    "source_url": "http://www.metroseoul.co.kr/article/20261015500590",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "세종시",
+    "dev_type": "산업단지",
+    "summary": "시와 기업이 검토하는 시나리오는 SK트리켐이 산단과 맞닿은 외부 토지를 먼저 매입한 뒤, 세종시가 SK트리켐을 산단 조성 사업 시행자로 지정해 해당 부지를 산업단지로 편입하는 방식이다. 세종시 관계자는 \"산단으로...",
+    "source_url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65863",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "복합도시",
+    "dev_type": "산업단지",
+    "summary": "활성화구역은 진주시 상평동 192-1 일원 4만9599.1㎡ 규모로 조성되며, 산업단지의 기능을 회복하고, 산업·주거·생활편의 기능을 복합적으로 갖춘 새로운 도시공간으로 재편하는 것을 주요 내용으로 한다. 특히 이번...",
+    "source_url": "https://www.knnews.co.kr/news/articleView.php?idxno=1552958",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "나주시",
+    "dev_type": "산업단지",
+    "summary": "에너지국가산업단지는 본격적인 조성 단계에 들어갔다. 왕곡면 덕산리 일원 124만㎡ 부지에 총사업비 3519억 원을 투입해 신재생에너지, 스마트그리드, 전력기자재 분야 기업 집적을 추진한다. 한국에너지공과대학교...",
+    "source_url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=184144",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "세종시",
+    "dev_type": "산업단지",
+    "summary": "SK트리켐이 산단과 맞닿은 외부 토지를 매입하면 세종시가 회사를 산업단지 조성사업 시행자로 지정하고, 해당 부지를 산단으로 조성하는 방식이다. 명학산단은 세종시 동쪽에 자리 잡고 있으며, SK하이닉스...",
+    "source_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728050",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "동해시",
+    "dev_type": "산업단지",
+    "summary": "GS그룹은 강원 동해시 북평산업단지 일대에 최종 2.4GW(기가와트) 규모의 AI 데이터센터를 조성하는 계획을 추진하고 있다. GS건설과 데이터센터 시공 경험을 보유한 자회사 자이C&A의 참여 가능성도 주목된다. GS건설은...",
+    "source_url": "https://daily.hankooki.com/news/articleView.html?idxno=1415331",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "세종시",
+    "dev_type": "산업단지",
+    "summary": "반도체 소재 전문기업 SK트리켐이 세종시 명학일반산업단지 인근 외부 부지를 자체 매입해 공장을... SK트리켐이 외부 토지를 매입하면, 세종시가 SK트리켐을 산단조성 사업 시행자로 지정해 해당 부지를 산단으로...",
+    "source_url": "https://www.imaeil.com/page/view/2026101606390803291",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "충남",
+    "dev_type": "산업단지",
+    "summary": "종축장 함평 이전 1년 반 앞당겨 道, AI 등 첨단산업 유치 잰걸음 충남 천안 성환종축장 이전부지에 첨단산업 거점을 조성하는 국가산업단지 사업에 속도가 붙게 됐다. 전남광주 함평군 주민들과 이견으로 멈췄던...",
+    "source_url": "https://www.segye.com/newsView/20261015523662?OutUrl=naver",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "장성군",
+    "dev_type": "산업단지",
+    "summary": "법률 AI 서비스 '서울로봇'과 블록체인 기반 ESG 프로젝트 'BlockESG'를 총괄했고, 장성군 RE100 산업단지 및 AI 데이터센터 조성 타당성 분석 컨설팅을 수행했다. 아시아경제신문 뉴미디어본부 차장과 매경인터넷...",
+    "source_url": "https://it.chosun.com/news/articleView.html?idxno=2023092172133",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "자족도시",
+    "dev_type": "산업단지",
+    "summary": "13개소에서 산업단지 조성 등 아산이 대한민국의 새로운 성장 축으로 거듭나고 있다. 시는 배방읍 북수리 일원 삼성전자 온양캠퍼스에 고성능 인공지능(AI) 반도체 공장 건립 공사를 착공했다고 15일 밝혔다. 정부의...",
+    "source_url": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/10/16/20261016022002?wlog_tag3=naver",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "삼성전자는 용인 첨단시스템반도체 국가산업단지에 대형 반도체 공장 6기를 건설할 계획이다. 첫 번째... 광주 반도체 클러스터가 본격 조성되면 수도권과 함께 한국 반도체 산업을 이끄는 차세대 핵심축으로 자리...",
+    "source_url": "https://www.sidae.com/article/2026101211144627559",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "서울",
+    "dev_type": "산업단지",
+    "summary": "또 금천구와 구로구에 있는 서울디지털국가산업단지(G밸리) 발전을 지원해 일자리를 확보하고 지역경제를... 그러면서 “G밸리 근로자가 금천구에서 거주할 수 있는 환경을 조성하는 것도 중요하다”며 “청년·1인...",
+    "source_url": "https://www.donga.com/news/Society/article/all/20261015/134850995/2",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "대구시",
+    "dev_type": "기타개발",
+    "summary": "‘수성알파시티캠퍼스’ 조성을 위한 업무협약을 체결했다. 이번 협약은 비수도권 최대 AI·SW 산업 집적단지인 수성알파시티를 중심으로 AI 인재양성, 산업 AX 및 연구실증 기반을 강화하고, 주거 기능까지...",
+    "source_url": "https://www.pressian.com/pages/articles/2026101603523657879?utm_source=naver&utm_medium=search",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "공공주택지구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "시는 주거와 산업, 일자리가 연계된 자족도시를 목표로 광주역세권 주변 공공주택지구 지정과 첨단산업 국가산업단지 조성을 정부에 건의했다고 밝혔다. 용인 반도체 국가산업단지의 용수 공급 관로가 광주시를...",
+    "source_url": "https://www.asiatime.co.kr/article/20261016500001",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "홍지선 국토교통부 장관이 호남권 반도체 첨단 국가산업단지 조성 예정지인 광주 군공항을 찾아 기업 투자 일정에 맞춘 부지 공급과 교통·정주 기반시설 확충을 약속했다. 전남광주특별시는 홍지선 장관이 15일 광주...",
+    "source_url": "https://www.getnews.co.kr/news/articleView.html?idxno=883721",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "대전",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "랜드마크로 개발해 나갈 계획이다. 교통 여건으로는 대전도시철도 1호선 중앙로역까지는 약 700m 거리에 있다. 향후 대전도시철도 2호선 트램 보문산공원역(가칭)이 개통되면 더블역세권도 완성된다. KTX와 SRT 대전역...",
+    "source_url": "https://www.mk.co.kr/article/12177514",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "검단신도시",
+    "dev_type": "신도시",
+    "summary": "직통 역세권 '롯데캐슬 넥스티엘Ⅱ' '롯데캐슬 넥스티엘Ⅱ' 투시도. 사진제공=롯데건설. [국토일보 하종숙... 단지는 검단신도시 핵심 복합개발사업인 '넥스트 콤플렉스' 내에 자리한다. 넥스트 콤플렉스는 문화센터와...",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=342343",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "부산",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "대형 개발이 이어지는 수혜 지역이다. 향후 부산항선과 부산형 급행철도(BuTX) 등 광역 교통망 구축도 예정돼 있다. 단지는 부산도시철도 1호선 초량역을 도보로 이용할 수 있는 역세권이다. 초량역을 통해 서면, 남포...",
+    "source_url": "https://www.lawissue.co.kr/view.php?ud=20261016094532225667191f6c6e_12",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "부산",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "해당 단지는 초량3구역 주택재개발 정비사업을 통해 공급되는 단지로, 지하 3층~지상 24층, 5개 동, 총... 단지는 부산도시철도 1호선 초량역을 도보로 이용할 수 있는 역세권 입지다. 초량역을 이용하면 환승 없이 서면...",
+    "source_url": "https://view.asiae.co.kr/article/2026101609464094862",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "울산시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "‘북울산역세권 개발사업’의 최대 행정 난관 중 하나를 넘어서며 개발제한구역(GB) 해제 등 본궤도에 진입했다. 울산시는 10월 15일 오후 시청 프레스센터에서 기자회견을 열고, 농림축산식품부와의 농업적성도 협의를...",
+    "source_url": "https://www.geconomy.co.kr/news/article.html?no=324394",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "부산",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "부산도시철도 1호선 초량역 역세권에 들어서는 아파트로, 북항 재개발 등 주변 개발사업에 따른 수혜가 기대된다. 단지는 초량3구역 주택재개발 정비사업을 통해 지하 3층~지상 최고 24층, 5개 동, 총 432가구 규모로...",
+    "source_url": "https://www.hankyung.com/article/202610165711i",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "파주시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "손배찬 파주시장은 \"GTX 문화공원은 시민들이 문화를 누리고 소통하는 공간이자, 역세권에 새로운 활력을 불어넣을 핵심 거점\"이라며 \"LH와 긴밀히 협력해 공원 조성을 차질 없이 추진하고, 역세권 개발과 운정3지구...",
+    "source_url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65892",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "상봉동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "재개발해 나가고 있다. 포스코이앤씨 관계자는 “더샵 퍼스트월드 서울 오피스텔은 앞서 공급한 아파트 흥행을 통해 상봉터미널 부지의 입지와 브랜드 가치를 입증받은 단지”라며 “펜타역세권 교통망과 우수한 주거...",
+    "source_url": "https://economist.co.kr/article/view/ecn202610160004",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "광명시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "동양아파트와 광명6동행정복지센터·새마을시장, 광명센트럴아이파크, 광명역세권1단지 후문 등 4곳은... 설치 우선순위는 이용 현황과 유동인구, 개발 수요, 고령자 이용·계절 요인과 보도 폭 등 현장 여건을 분석해...",
+    "source_url": "https://www.kmaeil.com/news/articleView.html?idxno=654570",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "광주시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "박관열 광주시장은 이날 시민 대표들과의 현장 질의응답을 통해 교통과 일자리, 복지, 도시개발 등 지역의 주요 현안을 깊이 있게 논의했습니다. 광주시는 지난 100일 동안 주요 역세권과 시장에서 '직통시장실'을...",
+    "source_url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5225313",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "송중동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "신길4구역은 여의도 등 주요 업무지역과 가깝고, 녹번동은 불광역·녹번역을 이용할 수 있는 역세권 입지를... 반영한 개발계획을 마련할 방침이다. 아울러 민간사업자가 설계와 사업승인, 시공을 일괄 수행하는...",
+    "source_url": "https://www.bizwork.co.kr/news/articleView.html?idxno=419951",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "광주시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "박관열 광주시장은 이날 시민 대표들과의 현장 질의응답을 통해 교통과 일자리, 복지, 도시개발 등 지역의 주요 현안을 깊이 있게 논의했습니다. 광주시는 지난 100일 동안 주요 역세권과 시장에서 '직통시장실'을...",
+    "source_url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5225313",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "의정부",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "이 가운데 의정부역 초역세권 입지에 들어서는 '의정부역 펠리스타워 양우내안애'가 대표적인 수혜 단지로... 아울러 단지 인근 캠프라과디아 일대에는 문화·상업·공원 등 복합개발이 추진 중으로 미래가치 또한 높다....",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=342328",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "부산",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "'호반써밋 초량'은 초량3구역 주택재개발 정비사업을 통해 공급되는 단지다. 지하 3층~지상 24층, 5개동, 총... '호반써밋 초량'은 부산도시철도 1호선 초량역을 도보로 이용할 수 있는 역세권 입지에 들어선다. 초량역을...",
+    "source_url": "https://www.newsis.com/view/NISX20261016_0003828490",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "대흥동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "대흥동은 최근 재개발·재건축이 활발해지며 새로운 주거 타운으로 바뀌는 중이어서 시장의 관심이 높다.... 단지는 역세권이다. 지하철 1호선 중앙로역이 약 700m라 걸어서 이용할 수 있고, 대전도시철도 2호선 트램의...",
+    "source_url": "https://www.mediapen.com/news/view/1130386",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "종로구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "HL디앤아이한라는 서울 종로구 교남동 28번지 일원 돈의문2재정비촉진구역 도시정비형 재개발을 통해 짓는... 지하철 5호선 서대문역과 3호선 독립문역을 끼고 있는 더블 역세권 단지로 종로, 을지로, 여의도, 마포 등...",
+    "source_url": "https://www.fnnews.com/news/202610151604138916",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "서울시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "모아주택·모아타운은 사업 규모가 작아 재개발·재건축 추진이 어려운 노후 저층 주거지를 대상으로 하는 소규모 정비사업이다. 모아주택은 가로로 구분된 획지의 경우 2만㎡ 미만, 역세권과 준공업지역은 5000㎡ 미만을...",
+    "source_url": "https://www.newspim.com/news/view/20261015001232",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "강원도",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "대규모 역세권 개발과 글로벌 해양·체류형 관광 거점 인프라 확충에 행정력을 모으고 있다. 이번 K-브랜드지수 강원도 지자체장 부문은 오프라인 수치가 미반영된 온라인 인덱스 수치로, 개별 인덱스 정보와 세부...",
+    "source_url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570451601088",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "파주",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "손배찬 파주시장은 \"한국토지주택공사와 긴밀히 협력해 공원 조성을 차질 없이 추진하고 역세권 개발과 운정3지구 주요 사업이 유기적으로 연계될 수 있도록 최선을 다하겠다\"고 말했다.",
+    "source_url": "https://www.sidae.com/article/2026101608373038198",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "파주시",
+    "dev_type": "신도시",
+    "summary": "특히 운정중앙역 일대는 신도시 교통 거점으로서 역세권 개발이 추진되고 있지만, 건설경기 침체 등의 영향으로 일부 민간개발 사업이 지연되고 있다. 이런 상황에서 공공이 추진하는 문화공원은 민간 상업시설 조성...",
+    "source_url": "https://www.kmaeil.com/news/articleView.html?idxno=654554",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "송중동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "지하철 4호선 미아사거리역과 개통 예정인 동북선 창문여고역이 도보권에 있는 역세권 입지다. 특히 인근 장위12·미아16 도심복합사업지까지 개발이 완료되면 향후 약 3000가구 규모의 대단지 주거타운이 형성될...",
+    "source_url": "https://biz.heraldcorp.com/article/10904498?ref=naver",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "파주시",
+    "dev_type": "신도시",
+    "summary": "오는 11월 이후 본격적으로 시작해 2029년 상반기 준공을 목표로 추진된다. 손배찬 파주시장은 LH와 협력을 강화해 사업을 차질 없이 진행하고, 공원 조성과 역세권 개발을 연계해 운정신도시의 완성도를 높이겠다고 밝혔다.",
+    "source_url": "https://www.ppss.kr/news/articleView.html?idxno=315785",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "대전",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "더블 역세권 단지로 거듭나게 된다. KTX·SRT 대전역, 판암IC, 대전복합터미널 등이 가까워 전국 단위 이동이... 제공한다며 주변 개발사업 호재와 맞물려 홍보관을 찾는 고객들의 문의가 이어질 것으로 본다고 강조했다.",
+    "source_url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90860",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "가을야구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "북울산역세권 개발 그린벨트 해제 본격 돌입 ▲ 울산제일일보 = 백만의 손으로 만드는 '넥스트 가든' ▲ 광남일보 = KIA 2년만에 '가을야구'… 주말 광주가 들썩인다 ▲ 광주매일신문 = 호랑이군단 2년 만에 가을야구...",
+    "source_url": "https://www.yna.co.kr/view/AKR20261016010500011?input=1195m",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "창평동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산 북구 송정·창평동 일대에 6657억원을 투입하는 북울산역세권 개발사업이 속도를 내고 있다. 사업구역에는 어린이 치료에 특화된 200병상 규모의 울산의료원도 들어설 계획이다. 울산시는 15일 시청에서...",
+    "source_url": "https://www.mhns.co.kr/news/articleView.html?idxno=764539",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "울산",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산 출신 엄대섭 선생 삶 조명 #주요뉴스 #울산 #울산신문 #오늘_뉴스 #Today_News #TopNews_Top_News #HeadLine #MainNews #역세권_개발 #울산국제정원박람회 #의정비_인상 #간송_엄대섭 #새마을문고 편집...",
+    "source_url": "https://www.ulsanpress.net/news/articleView.html?idxno=584840",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "노원구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "수도권광역급행철도(GTX)-C노선이 통과하는 광운대 역세권 복합개발로 인근 단지의 일반분양 가격이 크게 오른 만큼 상품성을 높이는 방안도 구상하고 있다. 김 조합장이 강조한 재건축 성공의 원칙은 '인센티브는 열심히...",
+    "source_url": "https://view.asiae.co.kr/article/2026101511191454845",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "서울시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "김 의원은 도시철도망 구축 지연이 교통 불편뿐 아니라 역세권 개발과 주택 공급에도 영향을 줄 수 있다고 지적했다. 김 의원은 \"비록 서울시의 신청이 늦어졌지만, 도시철도망 구축계획에 대한 승인 권한을 가진...",
+    "source_url": "https://www.nocutnews.co.kr/news/6592226?utm_source=naver&utm_medium=article&utm_campaign=20261016070808",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "울산시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산시가 북울산역세권 개발사업과 관련한 농림축산식품부 농업적성도 협의를 마치고 개발제한구역(GB) 해제를 위한 후속 절차에 들어간다. 울산시는 지난 15일 시청 프레스센터에서 기자회견을 열고 이 같은 내용의...",
+    "source_url": "https://www.tournews21.com/news/articleView.html?idxno=145831",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "프라이버시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "한화가 개발 중인 서울역 북부역세권 복합개발 사업에도 2030년 개관을 목표로 총 128실 규모의 '만다린 오리엔탈 서울'이 들어설 예정이다. 글로벌 브랜드들이 단순 객실 공급보다 맞춤형 서비스와 프라이버시, 미식...",
+    "source_url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322477",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "삼척시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "각종 개발사업에 차질을 우려하고 있다. 태백시는 삼척시 도계읍 점리지역과 경계하는 곳에 320만 마리의... 이밖에 도계 역세권 도시재생사업이 추진되고 있다. 현 도계광업소 부지에 사업비 419억여원을 들여 대학과...",
+    "source_url": "https://www.kado.net/news/articleView.html?idxno=2078403",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "송정지구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산 북구 호계와 송정지구 사이에 추진 중인 북울산역세권 개발사업이 농림축산식품부의 농업적성도 협의를 마무리하면서 개발제한구역 해제를 위한 후속 절차에 들어간다. 울산시는 15일 시청 프레스센터에서...",
+    "source_url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069758",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "인천대입구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "상봉역은 인천대입구~마석을 잇는 GTX-B 정차역에 포함돼 있다. 생활편의시설로는 코스트코와 홈플러스, CGV 등이 있고 서울북부병원도 인근에 있다. 중랑천과 봉화산, 망우산 등 녹지 공간도 가깝다. ▲ ‘더샵...",
+    "source_url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573480921865",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "연수구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "특히 청학역이 들어서면 인천대입구역과 인천시청역 사이 약 10km 구간에 새로운 정차역이 마련돼 연수구 주민들의 GTX-B 이용 편의성이 크게 개선될 것으로 기대된다. 서울로 이동하는 출퇴근 교통수단의 선택지가...",
+    "source_url": "http://www.beyondpost.co.kr/view.php?ud=2026101608543177424c878f8fa1_30",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민 시장은 이날 홍 장관에게 무안 국가산단 조기 지정과 산정지구 등 주변 정주여건 조기 개발을 건의했다. 탄약고 이전 예정부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정도 요청했다. 호남권...",
+    "source_url": "https://www.etoday.co.kr/news/view/2636492",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 시장은 이날 현장에서 홍지선 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주여건 조기 개발 등을 건의했다. 이와 함께 탄약고 예정 부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정을...",
+    "source_url": "https://www.seoul.co.kr/news/economy/2026/10/16/20261016500021?wlog_tag3=naver",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 시장은 홍지선 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주여건 조기 개발 등을 건의했다. 더불어 탄약고 예정 부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정을 요청했다. 특히 민...",
+    "source_url": "https://www.ziksir.com/news/articleView.html?idxno=149585",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "세종시",
+    "dev_type": "산업단지",
+    "summary": "세종시 관계자는 \"산단으로 지정되고 안 되고는 하늘과 땅 차이\"라며 \"산단으로 지정되면 용적률이 최대 350... 연서면 국가산단에 하는 방안을 현재 논의 단계\"라고 언급했다. 세종시는 잔여 부지가 없는 만큼...",
+    "source_url": "https://www.financialpost.co.kr/news/articleView.html?idxno=280771",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "세종시",
+    "dev_type": "산업단지",
+    "summary": "명학산단에 집중…부지·인프라 확장 계획·산단 추가 지정 검토 삼성전기가 세종시 명학산단에 대규모... 연서면 국가산단에 하는 방안을 현재 논의하고 있다\"고 밝힌 바 있다. 잔여 부지가 없는 만큼 삼성전기는...",
+    "source_url": "https://www.yna.co.kr/view/AKR20261015156600063?input=1195m",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "계양신도시",
+    "dev_type": "신도시",
+    "summary": "한편, 반도건설은 고양 장항에 이어 3기 신도시 중 가장 빠른 사업 추진을 보이고 있는 계양신도시에 '계양신도시 카이브 유보라 & 시간(時間)'을 10월 분양할 예정이다. 올해 첫 공공분양 입주를 앞둔 계양신도시의 첫...",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=342323",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "서울",
+    "dev_type": "신도시",
+    "summary": "2026~2027년 수도권 입주 물량이 부족한 것은 사실이지만, 고금리나 3기 신도시 등 수요를 줄이는 요인이 맞물리면 시장은 전혀 예상치 못한 하락장으로 접어들 수 있다.” ―서울 아파트값이 10월 첫째 주 기준 87주 연속...",
+    "source_url": "https://www.segye.com/newsView/20261013518315?OutUrl=naver",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "논산시",
+    "dev_type": "산업단지",
+    "summary": "논산시, 회전익기(헬기) MRO 특화 산업단지 조성 본격화  SNS 타임즈",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnlBRUF0OXlFY1FZMVFqZUhUUlVQLWdHMVlyYkFJVWVWdS1FSGFaWWRSZVdqRS1ad1R0dXhXYXllUTU3M3M2VGFlajlGTGRJT2pnTllSODVmX2poMGlCekNtcTFFZGVMM2Q2VmVsWWllN1ZLVmloRXgyRW1va0lHWm8wUFZicm5fWlB5c1FJU2V6MUVsNGpRTWlZMHNCVE0?oc=5",
+    "pub_date": "2026-10-16"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "광주 반도체 국가산단 조성 속도전 돌입  공감신문",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iSzZCbkE4YmZjUHoydkE1YXJIcENDM09ZZVZ4VGxYcnR5ajZyNHJrUDRqTGlheHE4X3BDcGdzVDk0X0Q1S3E5V0F2eDFnbTZBemNZYm1JWUgxN3YtME8xRkUteTJoT190?oc=5",
+    "pub_date": "2026-10-16"
+  },
+  {
     "region": "명지국제신도시",
     "dev_type": "신도시",
     "summary": "◆ 부산진해경자청, 명지국제신도시 업무시설용지 사업자 공모 4만4595㎡ 규모… 용도 비율·사업기간 등... 개발계획과 사업수행능력, 입주기업 유치·관리계획 등을 종합 평가해 2027년 2월 우선협상대상자를 선정할...",
@@ -466,6 +1082,895 @@
     "dev_type": "기타개발",
     "summary": "[패트롤] 인천시-인천시교육청-인천경제청-인천문화재단-인천도시공사  에너지경제신문",
     "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmYTVkc1N3eWdKNUZncENlQ0F4RU0tLUJDR2l4Qk1Ud3NvWmdGUFZsTE5xNEtIN2dyMlZWcnVXaVA0ck5kYkh5U3R3dWJRY25valVNMEJ5RXVZV0Flc0lBWXh5RQ?oc=5",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "전남광주시",
+    "dev_type": "신도시",
+    "summary": "이 의원은 남악·오룡신도시 개발계획 변경 과정에 대해서도 문제를 제기했다. 남악신도시 개발계획이 27차례, 오룡지구 실시계획이 14차례 변경되면서 당초 내세웠던 '수변 생태도시' 구상이 훼손됐다는 지적이다. 이...",
+    "source_url": "https://www.ekn.kr/web/view.php?key=20261015029066801",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "오룡지구",
+    "dev_type": "신도시",
+    "summary": "이 의원은 14일 열린 제4회 임시회 시정질문에서 군공항 이전 지원책과 재원 확보 방안, 남악·오룡 신도시 개발계획과 오룡지구 AI 데이터센터 건립 문제를 질의했다. 이 의원은 군공항 이전 문제 해결의 핵심으로 행정의...",
+    "source_url": "https://www.etoday.co.kr/news/view/2636374",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "명지지구",
+    "dev_type": "신도시",
+    "summary": "계획 변경으로 사업성 대폭 개선 - 지식산업센터·오피스 등 첨단·핵심전략기업 유치 목표… 10월 21일 사업설명회 개최 지이코노미 정태율 기자 |부산진해경제자유구역청이 명지국제신도시 내 업무시설용지의 민간 개발...",
+    "source_url": "https://www.geconomy.co.kr/news/article.html?no=324338",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "형곡동",
+    "dev_type": "신도시",
+    "summary": "부산 명지국제신도시의 '명지 더샵 퍼스트월드'는 명지동에 최초로 들어선 더샵 브랜드 단지다. 부동산... 구미국가산업단지 조성과 지역 산업 발전에 맞춰 계획적으로 개발된 곳으로, 주거시설을 비롯해 교육·상업...",
+    "source_url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069672",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "강서구",
+    "dev_type": "신도시",
+    "summary": "사진/부산진해경제자유구역청 부산진해경제자유구역청은 부산 강서구 명지국제신도시 내 업무시설용지... 경자청은 개발계획과 사업 수행 능력, 입주 기업 유치·관리 계획 등을 종합 평가해 2027년 2월 중 우선협상...",
+    "source_url": "http://www.metroseoul.co.kr/article/20261014500544",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "오룡신도시",
+    "dev_type": "신도시",
+    "summary": "아시아투데이 이명남 기자 = 광주 군공항의 무안 이전에 따른 주민 지원 재원과 남악·오룡신도시 개발계획 변경 문제가 전남광주통합특별시의회 시정질문에서 도마에 올랐다. 오룡지구에 추진되는 200㎿급...",
+    "source_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261015010004705",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "노후계획도시",
+    "dev_type": "신도시",
+    "summary": "아울러 주거환경 개선과 대부도 개발도 병행한다. 안산 신도시 노후계획도시 재건축은 2027년까지 주민 의견 수렴과 관계기관 협의를 거쳐 기본계획을 수립하고 패스트트랙을 활용해 속도를 낸다. 대부도 글로벌...",
+    "source_url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65818",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "서울",
+    "dev_type": "신도시",
+    "summary": "아울러 3기 신도시와 신규 공공택지의 광역교통계획을 주변 개발사업과 연계해 수립하고, 주요 교통시설을 입주 시기에 맞춰 개통할 수 있도록 사업 추진에 속도를 내 달라고 요청했다. 도로 분야에서는 만성적인 서울...",
+    "source_url": "https://www.mhns.co.kr/news/articleView.html?idxno=764363",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "오룡신도시",
+    "dev_type": "신도시",
+    "summary": "남악·오룡신도시 개발계획 변경과 오룡지구 AI데이터센터 건립 문제를 집중적으로 제기했다. 이 의원은 14일 열린 시정질문에서 \"군공항 이전과 신도시 개발이라는 대형 과제 앞에서 필요한 것은 속도가 아닌 행정의...",
+    "source_url": "https://www.pressian.com/pages/articles/2026101510200334627?utm_source=naver&utm_medium=search",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "고덕신도시",
+    "dev_type": "신도시",
+    "summary": "평택시에 따르면, 고덕국제화계획지구는 개발계획 20차 변경 승인으로 계획인구가 최초 계획보다 1만9,148명(14.1%), 세대수는 1만4,431세대(26.6%) 늘었다. 고덕신도시 발전의 바탕이 될 기반시설 조성도 이어지고 있다....",
+    "source_url": "https://www.etnews.com/20261015000126",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "통합특별시",
+    "dev_type": "신도시",
+    "summary": "시장에서는 전남광주통합특별시 출범과 함께 추진되는 반도체 산업 관련 개발 계획을 주요 배경 중 하나로... 삼성전자 평택캠퍼스가 위치한 경기 평택에서는 고덕국제신도시와 지제역 일대를 중심으로 주거단지...",
+    "source_url": "https://biz.heraldcorp.com/article/10903370?ref=naver",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "충남",
+    "dev_type": "산업단지",
+    "summary": "[사진=충남도] 충남 천안 국가산업단지 조성의 선결 과제인 종축장 전남 함평 이전 사업이 주민 갈등을 해소하고 다시 추진된다. 당초 2031년 하반기로 예정됐던 이전 완료 시기를 2030년 상반기로 1년 6개월 앞당기는...",
+    "source_url": "https://www.ajunews.com/view/20261015145950452",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "구미시",
+    "dev_type": "산업단지",
+    "summary": "특히, 기존 구미국가산업단지와 조성 중인 구미하이테크밸리의 입지 경쟁력을 집중적으로 알리고 있다. 1969년 조성된 구미국가산업단지가 50여 년간 축적한 산업 경험과 기업 집적 기반을 갖추고 있다는 점을 내세워...",
+    "source_url": "https://www.polinews.co.kr/news/articleView.html?idxno=745888",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "홍성군",
+    "dev_type": "신도시",
+    "summary": "다만 박 군수는 KAIST 영재학교 설립과 내포신도시 미래신산업 국가산업단지 조성 사업이 답보 상태에 놓인 점을 아쉬운 과제로 꼽았다. 군 청사 이전 등 대형 사업에 따른 재정 부담도 인정하며 사업별 우선순위...",
+    "source_url": "http://www.metroseoul.co.kr/article/20261015500536",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "안성시",
+    "dev_type": "산업단지",
+    "summary": "시는 한국산업단지공단 안성사업단, 안성산업진흥원과 공동으로 홍보관을 운영하며 동신일반산업단지를 중심으로 추진 중인 반도체 소부장 특화단지 조성 사업을 소개했다. 한국폴리텍대학 반도체융합캠퍼스에 구축...",
+    "source_url": "http://www.metroseoul.co.kr/article/20261015500519",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "밀양시",
+    "dev_type": "산업단지",
+    "summary": "밀양 나노 융합 국가산업단지는 나노소재와 첨단부품을 중심으로 연구개발, 실증, 생산, 사업화가 연계되는 나노융합산업의 핵심 거점으로 조성되고 있다. 밀양시는 산업전 현장에 '밀양시 주제관'을 마련해 국가산단...",
+    "source_url": "http://www.gnmaeil.com/news/articleView.html?idxno=596713",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "처인구",
+    "dev_type": "산업단지",
+    "summary": "임 의원은 15일 열린 제307회 임시회 제2차 본회의 5분 자유발언에서 반도체 산업단지 조성과 대규모 개발에 맞춰 시민 생활을 뒷받침할 기반시설 확충이 이뤄져야 한다고 강조했다. 특히 원삼·백암·양지 일대에서 물...",
+    "source_url": "https://www.globalepic.co.kr/view.php?ud=2026101516074165305f69d33b22_29",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주시",
+    "dev_type": "산업단지",
+    "summary": "특히 광주시는 향후 3만 호 규모의 인공지능(AI) 스마트도시 조성과 국가산업단지 유치를 통해 주거, 교통, 산업, 일자리가 유기적으로 결합된 자족도시로 도약하겠다는 청사진을 밝혔다. 아울러 지난 7일 열린 ‘용인...",
+    "source_url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151714558810812",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "자족도시",
+    "dev_type": "산업단지",
+    "summary": "박 시장은 3만 호 규모의 인공지능(AI) 스마트도시와 국가산업단지 조성을 통해 주거와 교통·산업·일자리가 연계된 도시 기반을 마련한다는 구상이다. [사진=경기 광주시] 최근 열린 용인 반도체 산업단지 용수공급...",
+    "source_url": "https://www.ajunews.com/view/20261015214453581",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "여주시",
+    "dev_type": "산업단지",
+    "summary": "산업단지 조성을 위한 인허가와 용지 공급을 속도감 있게 추진해 기업의 투자 시점에 맞춰 산업용지를 공급한다는 방침이다. 특히, SK하이닉스 이천캠퍼스뿐 아니라 용인 반도체 클러스터와의 산업적 연계 가능성도...",
+    "source_url": "https://www.cnbnews.com/news/articleView.html?idxno=1019551",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "충남",
+    "dev_type": "산업단지",
+    "summary": "▲ 사진 논산시 제공 충남 논산시가 국방국가산업단지 조성에 이어 회전익기(헬기) MRO(유지·보수·정비·개조) 산업을 새로운 성장동력으로 육성하기 위한 준비에 나섰다. 시는 지난 14일 시청 회의실에서 국내 회전익기...",
+    "source_url": "http://www.cctimes.kr/news/articleView.html?idxno=932363",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "정원도시",
+    "dev_type": "산업단지",
+    "summary": "울산시민 모두가 정원사가 돼 박람회 조성과 관리에 직접 참여한다는 의미를 담았다. 조직위는 '생각하는... 십리대숲과 산업단지를 야간 경관으로 연결하는 '태화강 나이트가든', 산업근로자와 조경가가 함께...",
+    "source_url": "https://www.ulsanpress.net/news/articleView.html?idxno=584800",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "구미시",
+    "dev_type": "산업단지",
+    "summary": "특히 1969년 조성 이후 50여 년간 산업 기반을 축적해 온 구미국가산업단지와 조성 중인 구미하이테크밸리의 입지 경쟁력을 집중적으로 알린다. 전력·용수 등 산업 인프라와 물류 접근성, 인력 공급체계를 비롯해...",
+    "source_url": "https://www.idaegu.co.kr/news/articleView.html?idxno=562481",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "안성시",
+    "dev_type": "산업단지",
+    "summary": "안성시는 한국산업단지공단 안성사업단, 안성산업진흥원과 공동 홍보관을 운영하며 동신일반산업단지를 중심으로 추진 중인 반도체 소부장 특화단지 조성 사업을 소개했다. 한국폴리텍대학 반도체융합캠퍼스에 구축...",
+    "source_url": "https://www.globalepic.co.kr/view.php?ud=2026101515500943465f69d33b22_29",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "【 기자 】 국회 국방위원들이 반도체 국가산업단지 예정지인 광주 군 공항을 둘러봤습니다. 무안에 새로 군... 시설 조성 계획을 점검했습니다. 서남권 반도체 클러스터 조성 속도전에 기업과 정부, 국회까지 뛰어들면서...",
+    "source_url": "https://www.ikbc.co.kr/article/view/kbc202610150079",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "홍지선 국토교통부 장관이 호남권 반도체 첨단 국가산업단지 조성사업의 추진 상황을 점검했다. 홍지선 국토교통부 장관은 15일 전남광주통합특별시에 위치한 광주 군공항 제1전투비행단을 방문해 공항 시설과 부지...",
+    "source_url": "https://www.ppss.kr/news/articleView.html?idxno=315739",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "노후계획도시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "주요 사업에는 연수·선학 노후계획도시 재건축 추진, 원도심 행정복지센터 건립, GTX-B 조속 완공과 청학역 역세권 개발, 인천1호선 송도 8공구 연장, 송도 순환 트램 등이 포함됐다. 연수구는 주민 의견을 수렴해 오는...",
+    "source_url": "https://www.newscj.com/news/articleView.html?idxno=3440713",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "성동구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "서울 성동구 왕십리 역세권 개발을 주거시설 확충보다 업무·상업 기능을 강화하는 방향으로 추진해야 한다는 주장이 제기됐다. 왕십리의 교통거점 기능을 활용해 침체한 주변 상권에 활력을 불어넣고, 지역경제를 견인할...",
+    "source_url": "https://biz.heraldcorp.com/article/10904261?ref=naver",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "송정동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산시가 북구 송정동·창평동 일원에 6657억원을 투입하는 북울산역세권 개발사업을 추진한다. 농림축산식품부와의 농업적성도 협의를 마무리한 시는 개발제한구역 해제 등 후속 절차를 거쳐 2031년까지 북부권 성장...",
+    "source_url": "https://www.seoulfn.com/news/articleView.html?idxno=640200",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "여종구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "제3차 본회의 열어 홍보전산실·역세권개발추진단·경제환경산업국 주요업무보고 청취 금호·신녕시장 예산 편중 지적, AI 숏폼 정보취약계층 소외 방지 등 민생 대안 속출 아주경제=여종구 기자 yjkhero@ajunews.com 제255회...",
+    "source_url": "https://www.ajunews.com/view/20261015215131582",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "창평동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산시가 북울산역 주변을 새로운 주거·의료 중심지로 개발하기 위해 북구 송정동과 창평동 일대에 6천6백여억 원을 투입합니다. 울산시는 농림축산식품부와 협의를 마치고 개발이 제한된 땅을 개발할 수 있도록...",
+    "source_url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686991&ref=A",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "울산시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산 북부권의 새로운 성장거점으로 추진 중인 북울산역세권 개발사업이 농림축산식품부와의 농업적성도 협의를 마치면서 본격적인 개발제한구역(그린벨트) 해제 절차에 들어간다. 윤덕중 울산시 도시국장은 15일...",
+    "source_url": "https://www.ulsanpress.net/news/articleView.html?idxno=584799",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "지역구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "특히 진주갑은 평거지구와 진주역세권 등 택지개발로 외지인 유입이 늘면서 진보 성향 유권자층도 형성돼 있다. 4선 현역 의원에 대한 피로감이 정당과 인물 교체 여론으로 이어질지도 변수다. 반면 진주을은 전통적인...",
+    "source_url": "https://www.idomin.com/news/articleView.html?idxno=2017102",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "구리",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "또한 가칭 '갈매역세권1초등학교'의 설립 타당성 확보와 연계해 학교복합시설을 건립하는 방안도 검토했다. 이번 간담회에서는 대규모 개발 사업의 기반 시설 확보와 연계한 건립 방안, 교육부 학교복합시설 공모 사업...",
+    "source_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480495",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "창평동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산시가 북울산역 주변을 새로운 주거·의료 중심지로 개발하기 위해 북구 송정동과 창평동 일대에 6천6백여억 원을 투입합니다.",
+    "source_url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686819&ref=A",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "구리시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "이 후보자는 이 자리에서 2년 내에 아이타워 사업·구리역세권 복합개발사업(랜드마크사업)을 정상 추진하고, 조선역사테마특구조성을 위해 군부대 부지 협의와 개발제한구역 추가 해제를 약속했다. 구리도시공사 경영에...",
+    "source_url": "https://www.kyeongin.com/article/1772682",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "구리시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "한국토지공사 입사 후 36년간 도시개발 분야에 몸담아온 이승우 내정자는 이번 청문회에서 '아이타워' '구리역세권 개발 사업' 등 구리시 현안 사업의 조속한 정상화를 약속했다. 그러나 시의원들은 민감한 지역 현안에...",
+    "source_url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334247",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "판교",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "분당 재건축과 원도심 재개발에 속도를 내는 동시에 판교테크노밸리에서 오리역 제4테크노밸리로 이어지는... 성남시는 역세권이라는 입지와 교통 접근성을 활용해 오리역 일대를 인공지능(AI), 미래 모빌리티 등...",
+    "source_url": "https://www.mk.co.kr/article/12177126",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "공익활동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "한편 이날 수상작으로는 사회복지, 국제개발, 문화예술, 교육, 기부문화 활성화, 자원봉사 활성화 등 6개... 규모, 역세권 등을 중심으로 가격이 상승하며 서울 전체적으로 상승했다”고 설명했다. 자치구별로 보면...",
+    "source_url": "https://futurechosun.com/?p=163320",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "서울",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "단지가 들어서는 여주 남부권은 도시개발사업을 통해 주거 환경이 개편되는 지역으로, 기존 원도심과 여주역세권 생활권의 인프라를 함께 활용할 수 있다. 경강선 여주역을 이용해 판교 및 분당 등 수도권 주요...",
+    "source_url": "https://www.apnews.kr/news/articleView.html?idxno=3052127",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "창평동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "농업적성도 협의 완료…2027년까지 개발제한구역 해제 추진 송정·창평동 88만㎡ 개발…2029년 착공·2031년 준공 목표 울산시가 북울산역세권 개발사업을 위한 농업적성도 협의를 마무리하고 개발제한구역 해제를 위한...",
+    "source_url": "https://news.tf.co.kr/read/national/2376911.htm",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "서계동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "원문 링크 부동산 ▶16년 만에 첫 삽 뜬 ‘강북의 코엑스’…철길 건너 중림·만리·서계동 깨운다 서울역 북부역세권 개발사업이 본격화하면서 서울역 일대가 교통 중심지에서 업무·상업·국제회의 기능을 갖춘 복합...",
+    "source_url": "https://www.hankyung.com/article/202610154297i",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광천읍",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "홍주성과 전통시장, 역세권 개발을 연계하고 광천읍 르네상스 사업과 읍면별 특성화 사업을 추진해 지역별 경쟁력을 높인다는 구상이다. 농촌협약 사업을 통한 농촌 공간 재구조화와 농업 유통 기반 강화, 홍주촌의...",
+    "source_url": "http://www.newsprime.co.kr/news/article.html?no=751180",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "울산시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "6천657억원 들여 88만㎡ 개발, 2031년 준공 목표 울산시는 북울산역세권 개발사업을 위해 개발제한구역(GB) 해제 절차를 본격적으로 추진한다고 15일 밝혔다. 이 사업은 북구 송정동과 창평동 일원 88만3천86㎡에...",
+    "source_url": "https://www.yna.co.kr/view/AKR20261015163300057?input=1195m",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "울산",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산 북부권에 주거·상업·산업 기능과 공공의료시설을 갖추는 북울산역세권 개발사업이 농림축산식품부와의 농업적성도 협의를 마치면서 개발제한구역 해제를 위한 후속 절차에 들어간다. 울산시는 약 2년간...",
+    "source_url": "https://www.iusm.co.kr/news/articleView.html?idxno=1069186",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "군포",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "IPARK현대산업개발이 경기 군포 금정역세권1구역 재개발사업의 우선협상 대상자로 선정됐다. 회사는 단지명으로 ‘아이파크 원 어센트’를 제안했다. 15일 정비업계에 따르면 금정역세권1구역 재개발조합은 최근...",
+    "source_url": "https://www.hankyung.com/article/2026101546521",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "에너지특별시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "KTX 나주역 일원은 역세권 개발과 복합환승센터 구축을 추진해 전남광주 서남권의 교통·상권 거점으로 육성한다. 민선9기 출범 직후 시민 1인당 20만 원의 민생회복지원금을 지급한 나주시는 복지와 교육 인프라...",
+    "source_url": "https://www.namdonews.com/news/articleView.html?idxno=926281",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "울산시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "북구 창평동 일원 88만㎡에 복합역세권을 조성하고, 부지 내에 200병상 규모의 울산의료원 건립하는 사업이 본격 추진됩니다. 울산시는 개발제한구역 해제를 위한 핵심 선행 절차인 농림축산식품부와의 농업적성도...",
+    "source_url": "https://www.usmbc.co.kr/NewsArticle/867645",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "송정동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "뉴스토마토 = 하주화 기자 |  울산시가 북울산역세권 개발을 위한 농업적성도 협의를 마치고 개발제한구역 해제 절차에 나섭니다. 북구 송정동·창평동 일원에 6657억원을 투입해 북부권 성장 거점을 조성하는 사업으로...",
+    "source_url": "http://www.newstomato.com/ReadNews.aspx?no=1316889&inflow=N",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "반면 해당 역과 거리가 떨어진 비역세권 오피스텔 전용 84.80㎡의 경우 지난 8월 7억1480만 원에 거래되어... IPARK현대산업개발은 광주 도시철도 1호선 남광주역 인근에 '아이파크 무등산 스카이포레'를 10월 분양...",
+    "source_url": "https://www.apnews.kr/news/articleView.html?idxno=3052122",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "강동구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "서울 강동구 천호A1-2구역 재개발정비사업(천호A1-2구역) 조합이 시공사 선정 절차에 들어갔다. 한강 조망과 지하철 더블역세권이라는 입지적 강점에 건설사의 관심이 입찰까지 이어질지 주목된다. 15일 천호A1-2구역...",
+    "source_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193285",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "마곡",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "지하철 9호선 양천향교역, 5호선 발산역, 공항철도 마곡나루역을 모두 이용할 수 있는 트리플 역세권 입지를... 복합개발 및 CJ부지 개발 등 굵직한 호재가 집중돼 가치 상승 여력도 풍부하다. 아울러 인근에 여의도공원 약...",
+    "source_url": "https://view.asiae.co.kr/article/2026101516272601834",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "울산시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산 북부권 광역 신성장 거점으로 조성되는 '북울산역세권 개발사업'이 농림축산식품부 협의를 매듭짓고 개발제한구역(GB) 해제 등 후속 행정절차에 본격 돌입한다. 사업 부지에는 어린이 치료에 특화된 200 병상...",
+    "source_url": "https://www.busan.com/view/busan/view.php?code=2026101515074193597",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "송정동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산시가 농림축산식품부와 농업적성도 협의를 마치고 북울산역세권 개발제한구역 해제 절차를 추진한다. 시는 15일 시청에서 기자회견을 열고 북구 송정동·창평동 일원 88만3086㎡에 사업비 6657억원을 투입하는...",
+    "source_url": "https://www.joongangenews.com/news/articleView.html?idxno=555366",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "정경구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "서울 용산구 숙대입구역세권 재개발사업에서는 이달 초 진행된 1차 시공사 선정 입찰에 단독 참여했다. 공사비 약 5500억원 규모의 해당 사업 수주를 위해 삼성물산 리조트부문과 조경 특화를 위한 협업에도 나섰다....",
+    "source_url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=256611",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "충북",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "충북 청주시 오송역세권 도시개발사업지구 C-17블록에서 추진하는 '오송역 헬로우시티'도 업무대행사의 역할과 토지 확보 현황을 살펴볼 수 있는 사례로 거론된다. 오송역 헬로우시티는 지하 3층~지상 49층, 4개동 규모로...",
+    "source_url": "https://www.businessplus.kr/news/articleView.html?idxno=118242",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "유양동",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "정덕영 양주시장이 유양동 양주역세권 내 양주아트센터, 어울림센터 건립 포기와 이전 논란에 대해... 이어 2022년 10월 개발제한구역 해제 이후 4년 내에 착공하지 못했고, 법정 유예 사유에도 해당하지 않아 지난...",
+    "source_url": "https://www.kyeonggi.com/article/20261015580329",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "전남광주통합특별시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "실제로 부동산 시장에서는 지하철역을 걸어서 이용할 수 있는 역세권 단지가 상대적으로 높은 시세를... IPARK현대산업개발은 10월 전남광주통합특별시 동구 학동 633-3번지 일원에 '아이파크 무등산 스카이포레'를...",
+    "source_url": "https://edu.donga.com/news/articleView.html?idxno=112838",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "구리시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "참석자들은 대규모 개발 사업의 기반 시설 확보와 연계하는 방안, 교육부 학교복합시설 공모 사업에 참여해... 가칭 '갈매역세권1초등학교'의 설립 타당성 확보와 연계한 건립 방안도 함께 살폈다. 신동화 시장은...",
+    "source_url": "https://www.tournews21.com/news/articleView.html?idxno=145791",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "울산시",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "울산시가 북울산역세권 개발사업과 관련해 농림축산식품부와의 농업적성도 협의를 마치고, 개발제한구역(GB) 해제를 위한 후속 절차를 본격 추진한다. 울산시는 15일 시청 프레스센터에서 기자회견을 열고...",
+    "source_url": "https://www.nocutnews.co.kr/news/6592147?utm_source=naver&utm_medium=article&utm_campaign=20261015034700",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "노원구",
+    "dev_type": "교통망(GTX 등)",
+    "summary": "특히 서울 노원구 광운대역세권 개발사업인 '서울원 아이파크'는 회사의 중장기 실적을 좌우할 핵심 사업장으로 평가된다. 서울원 아이파크는 지하 5층~지상 최고 49층, 10개 동, 총 3032가구 규모로 조성되는 대규모...",
+    "source_url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873172",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민 시장은 홍 장관에게 무안 국가산단 조기 지정과 산정지구 등 주변 정주 여건의 빠른 개발을 건의했다. 아울러 탄약고 예정 부지의 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정을 요청했다. 민 시장은...",
+    "source_url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873346",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "함평군",
+    "dev_type": "산업단지",
+    "summary": "정부가 2018년 이전을 확정하고, 2023년 국가산단으로 지정했지만 사업은 답보상태에 머물러 왔습니다. 2019년 이전 대상지로 선정된 전남광주 함평군 주민들이 토지 보상과 생계 지원 등을 이유로 이전을 반대했기...",
+    "source_url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8687012&ref=A",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "밀양시",
+    "dev_type": "산업단지",
+    "summary": "밀양시는 현장에 '밀양시 주제관'을 운영해 국가산단 준공과 기회발전특구 지정에 따른 투자 혜택을 집중 홍보할 방침이다. 행사 기간에는 나노소재·소자, 전력반도체 등 첨단 기술 전시와 함께 말레이시아·태국·인도...",
+    "source_url": "https://www.ulsanpress.net/news/articleView.html?idxno=584755",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민 시장은 이날 무안 국가산단 조기 지정과 산정지구 등 주변 택지지구의 조속한 개발을 건의했다. 탄약고 예정부지 조기 착공과 호남권 반도체 국가산단 후보지 확대 지정도 요청했다. 전남광주통합특별시는 기업...",
+    "source_url": "https://www.ekn.kr/web/view.php?key=20261015029386897",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "지난 7월 광주 군공항 일대가 호남 반도체 첨단 국가산단 후보지로 지정되고 전력·용수 공급시설 구축사업이 예비타당성조사 면제 대상에 포함되는 등 제도적 기반은 마련되고 있다. 하지만 국가산단 개발계획 수립과...",
+    "source_url": "http://www.kjdaily.com/article.php?aid=1792062662689316274",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 시장은 이날 현장에서 홍 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주여건 조기 개발 등을 건의했다. 또 탄약고 예정 부지 조기 착공과 호남 반도체 첨단 국가산단 후보지 확대 지정을 요청했다. 민...",
+    "source_url": "http://www.kjdaily.com/article.php?aid=1792062217689309002",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "함평군",
+    "dev_type": "산업단지",
+    "summary": "정부가 2018년 이전을 확정하고, 2023년 국가산단으로 지정했지만 사업은 답보상태에 머물러 왔습니다. 2019년 이전 대상지로 선정된 전남광주 함평군 주민들이 토지 보상과 생계 지원 등을 이유로 이전을 반대했기...",
+    "source_url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686877&ref=A",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 시장은 홍 장관에게 무안 국가산단 조기 지정과 산정지구 등 주변 정주여건 조기 개발 등을 건의하는 한편 탄약고 예정 부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정을 요청했습니다. 앞서...",
+    "source_url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112630",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "인프라의 적기 공급을 위해 최선을 다하고 있으며, 이에 국토부도 적극 협력하겠다\"고 밝혔다. 민형배 시장은 이날 현장에서 홍지선 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주여건 조기 개발 등을 건의했다.",
+    "source_url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714174",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "무안읍",
+    "dev_type": "산업단지",
+    "summary": "무안군은 주민 지원사업으로 국가산업단지 지정, 무안읍 성동지구 택지 개발, 무안국제공항 반도체 수출... 지원, 국가산단 조성 등 ‘3대 선결조건’으로 제시하고, 지원사업별 주체와 재원, 착수·완료 시점의 명문화를...",
+    "source_url": "http://www.jndn.com/article.php?aid=1792058088441308001",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 시장은 현장에서 홍 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주여건 조기 개발 등을 건의했다. 더불어 탄약고 예정 부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정을 요청했다....",
+    "source_url": "http://www.jndn.com/article.php?aid=1792056510441285001",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 시장은 이날 현장에서 홍지선 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주여건 조기 개발 등을 건의했다. 더불어 탄약고 예정 부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정을...",
+    "source_url": "https://www.jnilbo.com/news/articleView.html?idxno=90000073857",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "이날 연합뉴스에 따르면, 올해 7월 말 국가산단 후보지 지정과 예비사업 시행자 지정을 거쳐 이달 1일부터 산업단지 계획 수립과 설계 작업이 진행 중이다. 홍지선 장관은 이날 전남광주통합특별시에 위치한 광주 군...",
+    "source_url": "https://www.the-today.com/news/articleView.html?idxno=91813",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "전남광주시",
+    "dev_type": "산업단지",
+    "summary": "지난 7월 29일에는 광주 군공항 부지 약 250만 평을 반도체 국가산단 후보지로 지정받았다. 이어 용수·전력 공급사업의 예비타당성조사 면제가 국무회의에서 의결되면서 기반시설 조성에도 속도를 낼 수 있게 됐다....",
+    "source_url": "https://www.discoverynews.kr/news/articleView.html?idxno=1104138",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "도심융합특구",
+    "dev_type": "산업단지",
+    "summary": "동시 지정해야 한다는 목소리가 경상남도의회에서 나왔다. 경남도의회 박해영(국민의힘, 창원3) 의원은... 특히 창원중앙역과 창원대학교 일원에 조성될 특구 후보지는 창원국가산단의 제조 역량과 연구개발 및 인재양성...",
+    "source_url": "http://www.gndomin.com/news/articleView.html?idxno=492923",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "밀양시",
+    "dev_type": "산업단지",
+    "summary": "밀양시는 산업전 현장에 '밀양시 주제관'을 마련해 국가산단 준공과 기회발전특구 지정을 바탕으로 투자 혜택과 기업 지원 기반을 집중 소개한다. 이를 통해 기업의 이전 및 신규 투자 수요를 발굴하고, 입주기업과...",
+    "source_url": "http://www.gndomin.com/news/articleView.html?idxno=492970",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "창원시",
+    "dev_type": "산업단지",
+    "summary": "경자청은 보배복합지구를 기회발전특구로 지정해 세제 감면과 규제 특례를 바탕으로 첨단제조·스마트물류 등 유망기업의 대규모 투자를 유치할 계획이다. □ 진해권 외국교육기관 유치 진해신항 개발과 창원국가산단...",
+    "source_url": "https://www.newsgn.com/news/articleView.html?idxno=579477",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 시장은 이날 현장에서 홍지선 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주 여건 조기 개발 등을 건의했다. 더불어 탄약고 예정 부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정을...",
+    "source_url": "https://www.cbci.co.kr/news/articleView.html?idxno=615937",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "지난 7월 말 국가산단 후보지 지정과 예비사업 시행자 지정을 거쳐 이달 1일부터 산업단지 계획 수립과 설계 작업이 진행되고 있습니다. 홍 장관은 이날 전남광주통합특별시에 위치한 광주 군 공항의 제1전투비행단을 찾아...",
+    "source_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008799830&plink=ORI&cooper=NAVER",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "이에 민형배 시장은 홍 장관에게 ▲무안 국가산단 조기 지정 ▲산정지구 등 주변 정주여건 조기 개발 ▲탄약고 예정 부지 조기 착공 ▲국가산단 후보지 확대 지정 등을 건의하며 통합시의 적극적인 협력 의지를...",
+    "source_url": "https://www.pressian.com/pages/articles/2026101517335245443?utm_source=naver&utm_medium=search",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 광주특별시장은 이날 현장에서 홍지선 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주 여건 조기 개발 등을 건의했다. 또 탄약고 예정 부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정을...",
+    "source_url": "https://www.fnnews.com/news/202610151722596485",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "천안시",
+    "dev_type": "산업단지",
+    "summary": "천안시 등은 2022년 5월 첨단국가산단 지정 연구용역에 착수했고, 2023년 3월 신규 국가산단 후보지로 선정됐다. 1조6000억원을 투입해 인공지능(AI), 반도체, 디스플레이, 2차전지, 미래 모빌리티 등 미래 첨단산업을 집중...",
+    "source_url": "https://biz.chosun.com/topics/topics_social/2026/10/15/QHAPLYBGPFBZVKTCSNVZIJ5FCA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민 시장은 홍 장관에게 무안 국가산단 조기 지정과 산정지구 등 주변 지역 조기 개발을 건의했다. 탄약고 이전 예정지 조기 착공과 호남권 반도체 국가산단 후보지 확대 지정도 요청했다. 민 시장은 \"정부 부처 장관들이...",
+    "source_url": "https://view.asiae.co.kr/article/2026101516550824486",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "이어 지난 7월 29일 광주 군공항 부지 약 250만 평이 국가산단 후보지로 지정됐다. 지난 8월과 9월에는 용수·전력 공급사업의 예비타당성조사 면제가 의결됐다. 부지 개발은 단계적으로 추진하는 것이 핵심이다. 전체 산단...",
+    "source_url": "https://www.m-i.kr/news/articleView.html?idxno=2006538",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "적기 공급을 위해 관계기관이 최선을 다하고 있으며, 이에 국토부도 적극 협력하겠다\"고 말했다. 민 시장은 이날 현장에서 홍 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주여건 조기 개발 등을 건의했다.",
+    "source_url": "https://www.mt.co.kr/policy/2026/10/15/2026101517160576974",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 시장도 이날 현장에서 홍 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주여건 조기 개발 등을 건의했다. 더불어 탄약고 예정 부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정을...",
+    "source_url": "https://www.kmib.co.kr/article/view.asp?arcid=9000022925&cp=nv",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "구미시",
+    "dev_type": "산업단지",
+    "summary": "1969년 조성된 구미국가산단의 산업 기반과 기업 집적도, 하이테크밸리의 신규 투자용지를 연계해 입지... 구미시는 2023년 7월 반도체 분야 국가첨단전략산업 특화단지로 지정된 이후 소재·부품 산업 육성에 집중해 왔다....",
+    "source_url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087385",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 전남광주시장은 이날 현장에서 홍 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주 여건 조기 개발 등을 건의했다. 또한 탄약고 예정 부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정을...",
+    "source_url": "https://news.tf.co.kr/read/national/2376882.htm",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "지난 7월 말 국가산단 후보지 지정과 예비사업 시행자 지정을 거쳐 이달 1일부터 산업단지 계획 수립과 설계 작업이 진행되고 있다. 홍 장관은 이날 전남광주통합특별시에 위치한 광주 군 공항의 제1전투비행단을 찾아...",
+    "source_url": "https://www.yna.co.kr/view/AKR20261015156100003?input=1195m",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "호남권 반도체 클러스터 조성 논의는 한층 구체화하는 모습이다. 다만 실제 사업 추진 속도는 부지 확보와 공급 일정, 기반시설 구축, 국가산단 지정 등 후속 절차가 얼마나 신속하게 진행되는지에 달릴 전망이다. 광주=",
+    "source_url": "https://www.viva100.com/article/20261015501246",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 시장은 이날 무안 국가산단 조기 지정과 산정지구 등 주변 정주여건 개발, 탄약고 이전 예정부지 조기 착공 및 반도체 국가산단 후보지 확대 지정을 건의했다. 통합특별시는 관계기관과 협력해 부지·전력·용수...",
+    "source_url": "https://www.m-i.kr/news/articleView.html?idxno=2006534",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민형배 시장은 이날 현장에서 홍지선 장관에게 무안 국가산단 조기 지정, 산정지구 등 주변 정주여건 조기 개발 등을 건의했다. 특히 민 시장은 탄약고 예정 부지 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대...",
+    "source_url": "https://www.news1.kr/local/gwangju-jeonnam/6321561",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "전남광주통합특별시",
+    "dev_type": "산업단지",
+    "summary": "이어 광주 군공항 부지 약 250만 평을 반도체 국가산단 후보지로 지정받은 데 이어, 용수(8월) 및 전력(9월) 공급 사업의 예비타당성조사 면제를 이끌어냈다. 특히 2030년 6월 첫 양산을 목표로, 산단 전체 부지 완성을...",
+    "source_url": "http://www.jeollailbo.com/news/articleView.html?idxno=813794",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "산정지구",
+    "dev_type": "산업단지",
+    "summary": "민 시장은 홍 장관에게 무안 국가산단 조기 지정과 산정지구 등 주변 정주여건 개선을 건의했다. 탄약고 예정 부지의 조기 착공과 호남권 반도체 첨단 국가산단 후보지 확대 지정도 요청했다. 이번 방문에 앞서 최태원...",
+    "source_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480686",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "내포신도시",
+    "dev_type": "신도시",
+    "summary": "내포신도시 주요 상권 4곳은 골목형상점가로 지정해 온누리상품권 사용 기반을 넓혔다. 주민 체감형... 박 군수는 “중앙정부 및 충남도와의 유기적인 협업이 원활치 못해 국가산단과 영재학교 사업이 답보 상태를...",
+    "source_url": "https://www.munhwa.com/article/11623816?ref=naver",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "구미시",
+    "dev_type": "산업단지",
+    "summary": "지난 2023년 7월 반도체 분야 국가첨단전략산업 특화단지로 지정된 구미시는 정부가 추진 중인 5극3특 권역별... 구미국가산단의 우위성을 집중 홍보한다. 동시에 현재 조성 중인 구미하이테크밸리의 입지 경쟁력도...",
+    "source_url": "https://www.wikitree.co.kr/articles/1166459",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "도심융합특구",
+    "dev_type": "산업단지",
+    "summary": "동시 지정해야 한다는 목소리가 경남도의회에서 나왔다. 경상남도의회 박해영(국민의힘, 창원3) 의원은... 특히 창원중앙역과 창원대학교 일원에 조성될 특구 후보지는 창원국가산단의 제조 역량과 연구개발 및 인재양성...",
+    "source_url": "https://www.newsgn.com/news/articleView.html?idxno=579338",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "전남광주는 지난 7월 광주 군공항 부지 약 250만평이 반도체 국가산업단지 후보지로 지정된 이후 부지... 전남광주는 전체 산단 부지 확보를 기다리지 않고 우선 활용 가능한 탄약고 이전 예정지 등 약 63만평부터...",
+    "source_url": "https://www.aitimes.com/news/articleView.html?idxno=216287",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "용인",
+    "dev_type": "산업단지",
+    "summary": "■ 반도체 메가 클러스터 착공 임박: 삼성전자가 360조 원 규모 용인 반도체 국가산단의 구체적 청사진을... 법안에는 5년 단위 기본계획 수립, 첨단미래조선산업 클러스터 지정, 중소 조선사 선수금환급보증(RG) 우선...",
+    "source_url": "https://www.sedaily.com/article/20102045?ref=naver",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "밀양시",
+    "dev_type": "산업단지",
+    "summary": "시는 산업전 내에 '밀양시 주제관'을 마련해 국가산단 준공과 기회발전특구 지정을 바탕으로 투자 혜택과 기업 지원 기반을 집중 소개할 계획이다. 한편, 이번 산업전에는 70개 기업, 17개 기관 등 모두 87개 기업·기관이...",
+    "source_url": "https://www.idomin.com/news/articleView.html?idxno=2017058",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "전남광주시",
+    "dev_type": "산업단지",
+    "summary": "이어 7월29일 광주 군공항 부지 약 250만평을 반도체 국가산단 후보지로 지정받았으며, 8월25일 용수와 9월1일 전력 공급사업의 예비타당성조사 면제도 국무회의에서 의결됐다. 시는 전체 산업단지 부지가 확보될 때까지...",
+    "source_url": "https://www.jnilbo.com/news/articleView.html?idxno=90000073770",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "처인구",
+    "dev_type": "기타개발",
+    "summary": "대규모 산단 개발 속도를 전혀 따라가지 못하고 있다고 비판했다. 이에 따라 임 의원은 용인시에 △처인구 기반시설 확충을 시정 최우선 과제로 지정 및 실질적 예산 편성 △각 기반시설별 확충 시기와 소요 예산을...",
+    "source_url": "https://www.fnnews.com/news/202610151457254909",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "문화도시",
+    "dev_type": "산업단지",
+    "summary": "7대 분야 127개 임기 내 완료 목표…기업 투자협약 6150억 원 성과 국가산단 예타 탈락·문화도시 예산 집행... 내포홍학로와 반도, 내포중심·충남대로 등 주요 상권을 골목형상점가로 지정해 온누리상품권 가맹 기반도...",
+    "source_url": "https://www.ajunews.com/view/20261015143555338",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "일산",
+    "dev_type": "신도시",
+    "summary": "정 교수는 남양주왕숙, 하남교산, 고양창릉 등 3기 신도시 6개 지구의 평균 용적률을 현행 194.1%에서 제3종 일반주거 법정 상한인 300%로 상향하는 방안을 제안했다. 이 경우 추가 토지 수용 없이 용적률 상향만으로 일산...",
+    "source_url": "https://www.ekn.kr/web/view.php?key=20261015029486797",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "하남시",
+    "dev_type": "신도시",
+    "summary": "하남시 제공 그간 하남시는 미사·감일·위례 등 3기 신도시 조성에 따라 학생 수가 폭발적으로 늘었다. 하지만 광주시 송정동에 있는 광주하남교육지원청과 통합 운영돼 신속한 교육 행정 처리에 난항을 겪어왔다. 이에...",
+    "source_url": "https://www.segye.com/newsView/20261015523879?OutUrl=naver",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "서울",
+    "dev_type": "신도시",
+    "summary": "추미애 경기도지사가 지난달 28일 서울 여의도 국회 의원회관에서 열린 3기 신도시 자족강화와 신속추진을 위한 제도개선 과제 토론회에서 발언하고 있다. / 뉴스1박 수석대변인은 \"최근 추 지사에 대해서 경기도지사냐...",
+    "source_url": "https://www.wikitree.co.kr/articles/1166556",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "서초구",
+    "dev_type": "신도시",
+    "summary": "단지별로 보면 서초구 '아크로 서초'가 17억 원 상당의 시세차익 기대감에 1099대 1이라는 서울 민간분양 역대 최고 경쟁률을 기록했고, 3기 신도시 등 공공분양(평균 19.0대 1)에도 대거 몰렸다. 반면 지방 청약 시장은...",
+    "source_url": "https://www.kpinews.kr/newsView/1065592322828256",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "초이동",
+    "dev_type": "신도시",
+    "summary": "김 전 의원은 초이동 주민자치위원장과 창우동 H2부지 보상대책위원회 위원장, 교산 3기 신도시 광암지구 보상대책위원장, 하남교육지원청 신설 추진위원회 위원장 등을 역임했다. 지난 2024년 1월부터는 국민의힘...",
+    "source_url": "https://www.kyeonggi.com/article/20261015580363",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "왕곡지구",
+    "dev_type": "신도시",
+    "summary": "특히 의왕·군포·안산 3기 신도시를 비롯해 청계2지구와 고천·초평·월암·오전·왕곡지구 등 주택 개발사업이 추진되면서 장래 광역교통 수요에 선제적으로 대응해야 한다고 강조했다. 이에 국토교통부와 관계기관에는...",
+    "source_url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037673",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "남양주시",
+    "dev_type": "신도시",
+    "summary": "최현덕 남양주시장(왼쪽)국토부 장관에게 정책 건의안을 전달하고 있다/제공=남양주시 최현덕 남양주시장이 3기 신도시 등 대규모 개발에 맞춘 '선 교통 후 입주' 실현을 위해 국토교통부에 핵심 현안 해결을 촉구했다....",
+    "source_url": "http://www.metroseoul.co.kr/article/20261015500128",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "경기도",
+    "dev_type": "신도시",
+    "summary": "- 제323회 정례회서 건의안 만장일치 채택 - 시민 9만3650명 서명·경기도 철도기본계획 반영 - 3기 신도시 등 개발 수요 고려 정부·경기도에 지원 요청 의왕시의회 제323회 제1차 정례회 제1차 본회의 모습 / 의왕시의회 제공...",
+    "source_url": "http://www.metroseoul.co.kr/article/20261014500511",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "남양주시",
+    "dev_type": "신도시",
+    "summary": "이 자리에서 최 시장은 남양주시가 3기 신도시 등 대규모 주택공급을 앞두고 있는 점을 들며 ‘선(先 ) 교통 후(後철) 입주’ 원칙이 지켜져야 한다는 입장과 함께 주요 교통 현안 해결을 위한 건의사항을 전달했다. 철도...",
+    "source_url": "https://www.newsis.com/view/NISX20261015_0003827216",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "서울",
+    "dev_type": "신도시",
+    "summary": "그는 \"정비사업은 예정대로 진행하되 민간임대에 시간을 줘 전환기 공백을 막고, 이주 시기를 사업장별로 분산해야 한다\"며 \"3기 신도시 등 대체 주택 입주 일정과 연계해 전월세 물량을 확보해야 한다\"고 강조했다.",
+    "source_url": "https://www.newsway.co.kr/news/view?ud=2026101511245516738",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "남양주",
+    "dev_type": "신도시",
+    "summary": "경기 남양주시가 3기 신도시 등 대규모 개발 사업에 따른 교통난을 해소하고 수도권 동북부 핵심 거점 도시로 도약하기 위해 정부와 적극적인 협력에 나섰다. 15일 남양주시에 따르면 최현덕 남양주시장은 14일...",
+    "source_url": "https://www.sedaily.com/article/20101879?ref=naver",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "서울",
+    "dev_type": "신도시",
+    "summary": "3기 신도시와 신규 공공택지 조성이 이어지는 남양주시가 철도·도로망 확충을 위한 정부 설득에 나섰다. 주택 공급에 맞춰 교통 기반시설을 갖추지 못하면 출퇴근 혼잡과 서울 접근성 문제가 커질 수 있는 만큼, 도시 성장...",
+    "source_url": "https://www.sentv.co.kr/article/view/sentv202610150085",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "부천대장지구",
+    "dev_type": "신도시",
+    "summary": "지난달 22일 3기 신도시 부천대장지구, 이달 8일 서울 고덕강일 민간 사업장에 이은 세 번째 주택공급 현장 방문으로 정부의 공급 대책이 현장에서 얼마나 속도감 있게 이행되는지 확인하기 위한 일정이다. 홍 장관은...",
+    "source_url": "https://www.newsway.co.kr/news/view?ud=2026101416183792604",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "고천지구",
+    "dev_type": "신도시",
+    "summary": "아울러 의왕·군포·안산 3기 신도시와 청계2지구·고천지구·초평지구·월암지구·오전지구·왕곡지구 등 대규모 주택공급사업에 따른 장래 교통수요를 고려해 국가 차원의 선제적인 대응이 필요하다고 밝혔다. 한편...",
+    "source_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480348",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "기타개발",
+    "summary": "광주 군공항 간 국토장관 \"반도체 산단 유례없는 속도로 조성\"  연합뉴스",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhRWNZamRQek5VZlBuWmM1eXF3RXFyaGRPQzhRbG81ek12Ny1OMExlZWN0WktOM3hLR091cUtDQnl6Ym1fcDdhelNPRjlPbUNnTUx6SmZVN2ZtQ0HSAWBBVV95cUxQX2k5SWdMd2dzRU5MUnZXYXJhamdaVVNWbGdYb01MczRCRjA4c3oxbUNfQXRmNEh4bm9XcWtxTFhYR1pObHNQR0pIaTZLMHhlc2tLXzJyRjZRRHhMQUt2M3Y?oc=5",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "논산시",
+    "dev_type": "산업단지",
+    "summary": "논산시, 헬기 정비산업단지 본격화  뉴스파고",
+    "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkM1h5YjBhWDRSVjB4WC10S1d6aGdqZlhMbUx4MjI4OEpyYVk1Q3V2OTBRWU9SeU5jcDFKaFh0MXliWlRp?oc=5",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "인천시",
+    "dev_type": "산업단지",
+    "summary": "인천시, ‘2026년 인천 산업단지 조성현황 및 분양 설명회’ 성황리 개최  비즈월드",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ieHFMcFJLVDNpZWZuWGhwTUdkN1FPNlNDTEpZUmpSWTB0RS1LakxHYUZNZGxGTWN3aXpfT3lyRlJ6aFNkSkUySU5LM3lGdG5Bb3g1Ny0yclplajBwbm4xa0FILVZnZTROMEE?oc=5",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "논산시",
+    "dev_type": "산업단지",
+    "summary": "논산시, 회전익기 MRO 특화 산업단지 조성 본격 추진  웹이코노미",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MOTRGbUlHcndUTTd6VWhwaUF6b0NudkYyYlUzTnlIdUxfeG1pbXVJZkp0cGlYRWVlLTRUcEJ3ajhyWHJWbTlPckViZ0RwUndvSzFyYlE0RjhscjFkVzdSNkhJZjQwTkhobHhGX21xZjF5dw?oc=5",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "산업단지",
+    "summary": "홍지선 국토부 장관, 광주 군공항 방문...반도체 국가산단 조성사업 점검  https://www.ppss.kr/",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QOE81MDdqLXZiZWFlWGc2eFFndF83WkdpemlHMTBxNE8zZEoyMDlEb2M1SVludzA0MTROUTRNRUZINVBLcHpXRmZNUWtEVUR4TU1wa0NsUER5QmlYUS0yWW9qZTU?oc=5",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "전남광주통합시",
+    "dev_type": "기타개발",
+    "summary": "전남광주통합시, 반도체 메가프로젝트 속도전···산단 조성·기업 투자 총력  서울파이낸스",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MS1YwVk9kSWNSNmlrWEtra0t0RnpFbHlSUFBrT3Z4TjdhbHpEMS10bVV0eHUzckhRS1lITE14QUdNM0RQMjFRWXZJTEdiTnRtT3prMW54RG83WlBfQ2d4c2o5Ql9LRzZmS2c?oc=5",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "광주",
+    "dev_type": "기타개발",
+    "summary": "광주 군공항 250만평에 반도체 산단…2030년 첫 양산 목표 ‘속도전’  뉴스21 통신",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUTTYxWmwzOVBNUzdQdDRiMk1CWmxIcmtlbERMaE1WQWs5SzJmRngyT1lteTJoYnlwT3E1QmVJdGdLdjhNYU9aN3BQYVpmd2ktUW9YWXBn?oc=5",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "논산시",
+    "dev_type": "산업단지",
+    "summary": "논산시, 350억원 규모 회전익기 MRO 특화 산업단지 조성 추진  뉴스티앤티",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyMmVVYjhnOV9KR19mdE9seEl5TVdESUM2WWdQWjd4WFVLd25SYkN1dEhrZ3huYl80bUwwS2NRWkxwUlpsbXdHUUFzYWI1U2dQMTVPRjVnZFZVeS1WR2o0WldyR0p5TWxmanc?oc=5",
+    "pub_date": "2026-10-15"
+  },
+  {
+    "region": "전남광주통합특별시",
+    "dev_type": "기타개발",
+    "summary": "전남광주통합특별시, 반도체 `전격전` 최전선 정부·기업 발길 이끌며 ‘반도체 클러스터’ 본궤도  일등방송",
+    "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE90WHBxMVA1NEk3WU50RENBOEE5aEphTXczTnVzZFpGWUliUjYzaVhPSkdqdzlHQ1FJcldRZGZhMlpqYmpj?oc=5",
     "pub_date": "2026-10-15"
   },
   {
