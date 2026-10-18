@@ -1,5 +1,21 @@
 [
   {
+    "zone_name": "복합지구",
+    "region": "복합지구",
+    "stage": "관리처분계획인가",
+    "summary": "민간 재개발이 조합 설립과 사업시행인가, 관리처분인가 등을 거치는 데 비해 도심복합사업은 조합 설립과 관리처분계획 절차를 생략한다. 복합지구 지정과 사업계획 승인 등을 통해 공급 기간을 줄이도록 설계됐다....",
+    "source_url": "https://www.m-i.kr/news/articleView.html?idxno=2006758",
+    "pub_date": "2026-10-18"
+  },
+  {
+    "zone_name": "세운4구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "세운4구역은 2004년 정비구역 지정 이후 2020년 관리처분계획 인가를 거쳐 2023년 철거와 2024년 7월 매장유산 발굴조사를 마쳤다. 서울시는 지난해 10월 최고 높이를 70m 이하에서 종로변 101m, 청계천변 145m 이하로 높이는...",
+    "source_url": "https://www.news1.kr/local/moi/6322662",
+    "pub_date": "2026-10-18"
+  },
+  {
     "zone_name": "정비구역",
     "region": "서울시",
     "stage": "관리처분계획인가",
@@ -13,6 +29,38 @@
     "stage": "관리처분계획인가",
     "summary": "◇ \"상계2구역, 관리처분인가 앞두고 막판 거래… 투자금 2억~3억\" 김 소장은 \"재개발이 지금 엄청 핫한 이유는 보유세가 낮기 때문\"이라며 \"같은 매매가라도 신축 아파트와 구축 주택의 공동주택가격은 차이가 크고...",
     "source_url": "https://realty.chosun.com/site/data/html_dir/2026/10/16/2026101600923.html",
+    "pub_date": "2026-10-17"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "2017년 정비구역 지정, 2018년 조합설립인가, 2023년 8월에 사업시행계획인가를 거쳐 지난 5월, 관리처분계획인가를 따냈다. 그뒤 조합은 단지 가치를 높이기 위해 최고 49층 상향을 골자로 한 정비계획 변경을 추진해온 바...",
+    "source_url": "https://www.getnews.co.kr/news/articleView.html?idxno=883869",
+    "pub_date": "2026-10-17"
+  },
+  {
+    "zone_name": "13구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "지방재정법 및 정비사업 관련 법령에 따라 2017년 12월31일 이전까지 관리처분인가 신청에 성공한 방배 5구역, 6구역, 13구역, 14구역 등은 재초환 규제에서 벗어났습니다. 재초환 세금 부담이 없다는 점은 조합원의 수익성을...",
+    "source_url": "https://www.hankyung.com/article/2026101664466",
+    "pub_date": "2026-10-17"
+  },
+  {
+    "zone_name": "흑석2구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "[단독]흑석2구역 재개발, 사업시행계획 수립... 주민총회 성료  하우징타임즈",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6MGpVVjVHeG9oTnBwSUsxaEc5QTZnV25DQkpMOFpDWk4yZnh1UVBwOFBTaUR1MUpoQVo1Sk9rT3FQS1BmeGVidDY3TTZqUHM2TmtaMmVsSjlNejJlb21uaEF0RnlVbV85OGgwbHRsS0E?oc=5",
+    "pub_date": "2026-10-17"
+  },
+  {
+    "zone_name": "북변5구역",
+    "region": "김포",
+    "stage": "관리처분계획인가",
+    "summary": "김포 \"북변5구역, 사업시행인가 9년 만에 관리처분 인가…착공 초읽기”  중앙신문",
+    "source_url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOUHZadGY3T1YxNDhjTjZNSmpPQTRDWHo1QUw0OHkya2MtMUh3UFhuY2NPcWxRYU5QOXJ5VGVzNzFjR1RrSElrZlBDd2VPdl9KbEppSmRPX09fTU9fT0EyeDJuODlmUHFFTTZwdDdfMWZtaWo5Wkp4Y1hMbFQ4YjZGck1LSXJ6R0t4ZnBYYzdBYXJVVWVyZ3VGRC0zUnRaYmJEZDRzTmpfMnNWTXlYYnlxNE9aRHk1SEF1TkVCcFdRRllHQU9waFF0MHM2V2dEZlp6RTNZOXVUMlZrZW9vTFJsZjdEUHpZSGdDZUE2SHI0WXNtVElJdzBiMFg5LU9fMDBHSnRWNXpVeF84UXhsai1YU21GRkk0VUNHdXJyRFhpdGxtVDQ3dTgxYkxWemxWSS1UVDZqWDFad2RNb1N3S1p5bnBBNS1vdWRvSlBfUDNaZGFsSmczNjVpQy15ZEowS25DaFdScjlJN1h5VVRvaWwzMXJvSDBrdkgzd2VzYWwzX1hxMmxWZmFlMER5bGhQUDZRc2RjRHBmSm1udV91Smc?oc=5",
     "pub_date": "2026-10-17"
   },
   {
