@@ -1,10 +1,178 @@
 [
   {
+    "zone_name": "01구역",
+    "region": "명륜지구",
+    "stage": "관리처분계획인가",
+    "summary": "사용후핵연료 처분공 전용 굴착장비를 개발해 실제 암반 굴착을 완료했다. 호주에서는 오스넷, 코펜하겐... B-01구역 재개발(7,110억원), 대구 명륜지구 재개발(5,001억원) 시공권을 확보하며 도시정비사업 누적 수주액...",
+    "source_url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2340390",
+    "pub_date": "2026-10-20"
+  },
+  {
     "zone_name": "상도15구역",
     "region": "주요공시",
     "stage": "관리처분계획인가",
     "summary": "84%) 규모 공급계약(상도15구역 주택정비형 재개발사업) 체결 ▶동운아나텍, 보통주 695,491주 소각... 82억원) 규모 자사주 처분 결정(기간:2026-10-19~2026-10-31) ▶노머스, 20억원 규모 자사주 취득 신탁계약...",
     "source_url": "https://www.catchnews.kr/news/articleView.html?idxno=129426",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "북아현2구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "서대문구청이 19일 북아현2구역 재개발 조합에 보낸 관리처분계획인가 조건사항 직권취소 공고. / 사진 = 북아현2구역재개발 조합 제공서울 서대문구 북아현2구역 재개발사업을 둘러싼 '1+1 분양' 갈등이 해소 국면에...",
+    "source_url": "https://news.mtn.co.kr/article/2026101919565586336",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "은평구",
+    "stage": "관리처분계획인가",
+    "summary": "먼저 21일에는 사업시행계획인가를 받은 독바위역세권(불광동 227-7 일대)을 방문해 관리처분계획 수립을 앞둔 토지등소유자와 이해관계인들의 건의사항을 청취한다. 이어 11월18일에는 조합설립인가를 마친 역촌역세권...",
+    "source_url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160286264576003",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이에 오 시장은 \"박 전 시장 재임 당시 재개발·재건축 정비구역 389곳이 해제되면서 약 43만호의 공급 계획이 사라졌다\"고 주장했다. 정비구역 해제의 여파가 사업시행인가와 관리처분인가, 이주와 착공 등 사업 단계별로...",
+    "source_url": "https://news.tvchosun.com/site/data/html_dir/2026/10/19/2026101990115.html",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "은평구",
+    "stage": "관리처분계획인가",
+    "summary": "해당 구역은 사업시행계획인가를 받은 상태로, 향후 관리처분계획 수립을 앞두고 있다. 구는 토지등소유자와 이해관계인들을 만나 관리처분계획 수립 과정에서 예상되는 현안과 건의사항을 청취하고, 사업 추진에 필요한...",
+    "source_url": "https://www.job-post.co.kr/news/articleView.html?idxno=233017",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "은평구",
+    "stage": "관리처분계획인가",
+    "summary": "먼저 10월 21일에는 사업시행계획인가를 받은 독바위역세권(불광동 227-7 일대)에서 관리처분계획 수립을 앞둔 토지등소유자와 이해관계인의 건의사항을 듣는다. 이어 11월 18일에는 조합설립인가를 받은 역촌역세권(대조동...",
+    "source_url": "https://www.cnbizm.com/news/articleView.html?idxno=318395",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "그는 “박원순 전 시장 재임 당시 재개발·재건축 정비구역 389곳이 해제되면서 약 43만 가구의 공급 기반이 사라졌다”며 “해제 지역 대부분이 강북에 집중돼 사업시행인가와 관리처분, 이주·착공·준공으로 이어지는...",
+    "source_url": "https://www.hankyung.com/article/202610190979i",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "만가구",
+    "stage": "관리처분계획인가",
+    "summary": "오 시장은 \"박원순 시장 때 389곳의 재개발·재건축 정비구역이 모두 억지스럽게 해제되면서 약 43만가구의 주택 공급 물량이 사라졌다\"며 \"5년 뒤, 10년 뒤, 15년 뒤에 순차적으로 사업시행인가나 관리처분인가, 이주...",
+    "source_url": "https://www.newsway.co.kr/news/view?ud=2026101916173363647",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이에 오 시장은 “박원순 시장 때 389곳의 재개발·재건축 정비구역이 모두 억지스럽게 해제되면서 약 43만호의 주택 공급 물량이 사라졌다”며 “5년 뒤, 10년 뒤, 15년 뒤에 순차적으로 사업시행인가나 관리처분인가, 이주...",
+    "source_url": "https://www.joongang.co.kr/article/25470917",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "그는 \"박원순 시장 때 389곳의 재개발·재건축 정비구역이 해제되면서 약 43만호의 주택 공급 물량이 사라졌다\"며 \"5년 뒤, 10년 뒤, 15년 뒤에 순차적으로 사업시행인가나 관리처분인가, 이주, 착공, 완공 물량이 줄어들...",
+    "source_url": "https://www.asiatime.co.kr/article/20261019500309",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이에 오 시장은 “박원순 시장 때 389곳의 재개발·재건축 정비구역이 모두 해제되면서 약 43만호의 주택 공급 물량이 사라졌다”며 “5년 뒤, 10년 뒤, 15년 뒤에 순차적으로 사업시행인가나 관리처분인가, 이주, 착공, 완공...",
+    "source_url": "https://biz.heraldcorp.com/article/10907240?ref=naver",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "오 시장은 \"5년 뒤, 10년 뒤, 15년 뒤에 순차적으로 사업시행인가나 관리처분인가, 이주, 착공, 완공 물량이 줄어들 수밖에 없었고 그 영향이 지금까지도 미치고 있다\"고 말했다. 강남 외 지역의 공급 감소 역시 당시...",
+    "source_url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=366390",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "그는 “박원순 시장 때 389곳의 재개발·재건축 정비구역이 모두 억지스럽게 해제되면서 약 43만호의 주택 공급 물량이 사라졌다”며 “5년 뒤, 10년 뒤, 15년 뒤에 순차적으로 사업시행인가나 관리처분인가, 이주, 착공...",
+    "source_url": "http://www.segyebiz.com/newsView/20261019512389?OutUrl=naver",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "오 시장은 \"박원순 시장 때 389곳의 재개발·재건축 정비구역이 억지스럽게 해제되면서 약 43만호의 주택 공급 물량이 사라졌다\"며 \"5년 뒤, 10년 뒤, 15년 뒤에 순차적으로 사업시행인가나 관리처분인가, 이주, 착공, 완공...",
+    "source_url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113147",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "서울",
+    "stage": "관리처분계획인가",
+    "summary": "그는 \"정비사업은 구역 지정이 먼저 된 뒤 5년 뒤, 10년 뒤, 15년 뒤에 순차적으로 사업이 진행된다\"며 \"정비구역이 대폭 줄어든 만큼 사업시행인가나 관리처분인가, 이주, 착공, 완공 물량이 줄어들 수밖에 없었고 그 영향이...",
+    "source_url": "https://www.newspim.com/news/view/20261019000713",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이에 오 시장은 \"박원순 시장 때 389곳의 재개발·재건축 정비구역이 모두 억지스럽게 해제되면서 약 43만 호의 주택 공급 물량이 사라졌다\"며 \"5년 뒤, 10년 뒤, 15년 뒤에 순차적으로 사업시행인가나 관리처분인가, 이주...",
+    "source_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008804153&plink=ORI&cooper=NAVER",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "정비구역",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "이에 오 시장은 \"박원순 시장 때 389곳의 재개발·재건축 정비구역이 모두 억지스럽게 해제되면서 약 43만호의 주택 공급 물량이 사라졌다\"며 \"5년 뒤, 10년 뒤, 15년 뒤에 순차적으로 사업시행인가나 관리처분인가, 이주...",
+    "source_url": "https://www.yna.co.kr/view/AKR20261019084900004?input=1195m",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "신당8구역",
+    "region": "서울시",
+    "stage": "관리처분계획인가",
+    "summary": "신당제8구역 재개발정비사업 조감도/ 서울시 서울 중구 신당8구역 재개발사업의 총공사비가 기존보다 약... 이 관계자는 \"조합원들이 중대형 평형을 많이 원했고, 기존 분양과 관리처분 과정에서 원하는 평형을...",
+    "source_url": "http://www.metroseoul.co.kr/article/20261019500421",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "학동4구역",
+    "region": "광주",
+    "stage": "관리처분계획인가",
+    "summary": "하도급 관리 책임이 도마에 올랐다. 그해 6월 9일 광주 동구 학동4구역 재개발 현장에서 철거 중이던 건물이... 이후 원청의 하도급 관리 책임에 대한 행정처분이 내려졌다. 서울시는 지난 2022년 4월 IPARK현산에 하수급인...",
+    "source_url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205237",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "항만재개발",
+    "region": "확인 필요",
+    "stage": "관리처분계획인가",
+    "summary": "인천항만공사(사장 이경규)는 인천항의 항만시설 개발과 관리·운영, 배후물류단지 조성, 항만재개발과... 특히 순이익이 영업이익의 6배를 넘은 것은 항만 본업의 수익성이 크게 좋아졌기 때문이라기보다 자산처분이...",
+    "source_url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509262",
+    "pub_date": "2026-10-19"
+  },
+  {
+    "zone_name": "북아현2구역",
+    "region": "서대문구",
+    "stage": "관리처분계획인가",
+    "summary": "[단독] 북아현2구역 '1+1 분양' 갈등 일단락…서대문구, 인가 조건 직권취소  MTN 머니투데이방송",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sNnUwNENrVHRGSWo2TjV6aWdPcERHY1BhSlBVNzR3a2dzcTVsamswdEt1VldSSmhZR0VfN1huTi1aQW5GbjZoUDA5eHQzSXFjNEpYVDd3Q29QT0t6WUo0?oc=5",
     "pub_date": "2026-10-19"
   },
   {
