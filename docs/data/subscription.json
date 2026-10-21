@@ -1,5 +1,61 @@
 [
   {
+    "housing_name": "세종시",
+    "region": "세종시",
+    "summary": "10월 둘째 주에는 아파트 매매가격지수도 전주 대비 0.02% 상승했다. 청약시장에서도 일정 수준의 수요가 확인된다. 부동산R114에 따르면 지난해부터 올해 10월까지 세종시 1순위 평균 청약 경쟁률은 14.21대 1로 전국...",
+    "source_url": "https://kpenews.com/View.aspx?No=4272353",
+    "pub_date": "2026-10-21"
+  },
+  {
+    "housing_name": "청주 가경 아이파크 7",
+    "region": "확인 필요",
+    "summary": "청약 열기가 정당계약까지 이어질지, 이후 청주 신규 아파트 분양시장에 어떤 영향을 미칠지 관심이 모아진다. 일반공급 1천235가구에 14만9천730건 접수…전 주택형 마감 가경아이파크,1순위청약,아파트분양",
+    "source_url": "https://www.jbnews.com/news/articleView.html?idxno=1514001",
+    "pub_date": "2026-10-21"
+  },
+  {
+    "housing_name": "계룡건설",
+    "region": "검단",
+    "summary": "수요자는 주택형별 분양가격과 납부 일정, 선택품목 비용 등을 모집공고와 분양 안내를 통해 함께 확인할 수 있다. 청약을 희망하는 수요자는 신청자격과 공급 대상, 유의사항 등을 먼저 확인한 뒤 접수기간 안에...",
+    "source_url": "https://magazine.hankyung.com/business/article/202610203345b",
+    "pub_date": "2026-10-21"
+  },
+  {
+    "housing_name": "청주 가경 아이파크 7",
+    "region": "확인 필요",
+    "summary": "24대 1의 경쟁률을 올려, 20일 기준 올해 전국 202개 분양 단지 중 최다 청약 접수 기록을 수립했다. 단지별로는 7단지가 374가구 모집에 7만2777건이 접수돼 194.59대 1을 나타냈고, 8단지는 861가구 모집에 7만6953건이...",
+    "source_url": "https://www.businessplus.kr/news/articleView.html?idxno=118469",
+    "pub_date": "2026-10-21"
+  },
+  {
+    "housing_name": "행정수도 세종에 기관",
+    "region": "세종",
+    "summary": "지난 8월 분양한 '세종 우미린 센터파크'(17.71대 1) 등 최근 3개 단지에만 1만 404개의 청약통장이 몰렸다. 특별공급 등을 포함하면 1만 4145건에 달한다. 이러한 신축 쏠림 현상 이면에는 공급 절벽과 주택 노후화가...",
+    "source_url": "http://www.ikld.kr/news/articleView.html?idxno=342598",
+    "pub_date": "2026-10-21"
+  },
+  {
+    "housing_name": "세종 집무실 내년 첫삽",
+    "region": "세종",
+    "summary": "8월 분양한 '세종 우미린 센터파크'(17.71대 1) 등 최근 3개 단지에만 청약통장 1만 404개가 몰렸고, 특별공급 등을 더하면 1만 4145건이다. 신축에 수요가 쏠리는 배경에는 공급 절벽과 주택 노후화가 있다. 지난해까지...",
+    "source_url": "https://www.mediapen.com/news/view/1131404",
+    "pub_date": "2026-10-21"
+  },
+  {
+    "housing_name": "동작구 분양가",
+    "region": "동작구",
+    "summary": "흑석11구역을 재개발한 '써밋 더힐'은 전용면적 84㎡ 최고 분양가가 29억 7,820만 원에 달했으나 1순위 평균 32.5대 1을 기록한 뒤 무순위 청약까지 거치며 전 세대 계약을 마쳤다. 노량진6구역 재개발 단지인 '라클라체...",
+    "source_url": "http://www.newsdream.kr/news/articleView.html?idxno=120435",
+    "pub_date": "2026-10-21"
+  },
+  {
+    "housing_name": "동작구 분양가",
+    "region": "동작구",
+    "summary": "이후 잔여 3가구를 대상으로 진행한 무순위 청약에도 2179명이 신청했고, 최종적으로 전 가구 계약을 마쳤다. 노량진6구역 재개발 단지인 '라클라체 자이 드파인'도 비슷한 흐름을 보였다. 전용 59㎡ 최고 분양가는...",
+    "source_url": "https://www.businessplus.kr/news/articleView.html?idxno=118470",
+    "pub_date": "2026-10-21"
+  },
+  {
     "housing_name": "청주 가경 아이파크 7",
     "region": "확인 필요",
     "summary": "지방 아파트 청약시장에서 입지와 주거환경에 따른 수요 양극화가 뚜렷해지고 있다. 지역 내 생활... 청주 가경 아이파크 7·8단지는 10월 19일부터 청약 일정에 들어가며, 당첨자 발표는 8단지 27일, 7단지 28일 각각...",
@@ -102,6 +158,244 @@
     "region": "확인 필요",
     "summary": "현대엔지니어링, ‘힐스테이트 성남메트로블’ 20일 청약 접수… 189실 규모  글로벌이코노믹",
     "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkRoUjM0NnZzSUE5Z1NCMjZxOVNRcmQ2UVNJU2hudzFGTElFVUg3NzVBWGZFMWNTMW5ZbTNyUEFKZmhSWE1SSXV0OWxjMFVXNlg4cE5UbVplSEJFelVPZWplNkc5UXprT250RHMtLVhlUEdiTlVVSV9qcEhGNmZVbGdfRnhLMktZbXc?oc=5",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "반세권",
+    "region": "용인시",
+    "summary": "SK하이닉스가 600조원 규모의 투자를 추진하는 경기 용인 반도체클러스터에서 신규 아파트가 공급된다.... 분양 측은 용인시 처인구가 비규제지역인 만큼 전국 거주자와 유주택자도 일정 요건을 충족하면 1순위 청약이...",
+    "source_url": "https://www.fnnews.com/news/202610201833219998",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "광주도시공사",
+    "region": "확인 필요",
+    "summary": "광주도시공사(사장 김승남)는 서구 운천로에 자리한 영구임대아파트 '금호빛여울채'의 주거 안정망을... 청약 접수 일정은 오는 27일부터 30일까지 나흘 동안 진행되며 매일 오전 10시부터 오후 4시까지 신청을 받되 낮...",
+    "source_url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509646",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "남광토건",
+    "region": "확인 필요",
+    "summary": "총 548세대 규모의 민간참여 공공분양 아파트로 조성되며, 실수요자 선호도가 높은 중소형 평형 위주로... 입주자모집공고와 청약 자격 및 일정은 향후 공식 공고를 통해 확정될 예정이다. 전수연 글로벌이코노믹 기자",
+    "source_url": "https://www.g-enews.com/view.php?ud=202610201438458034a9fc143920_1",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "BYC",
+    "region": "확인 필요",
+    "summary": "분양 일정에 돌입한다고 20일 밝혔다. 'GD메트로타워'는 지하 7층~지상 최고 40층 A·B동 2개동으로 조성된다.... 단지 주변에는 구로디지털단지 역세권, 신대방역세권 등을 비롯해 다수의 아파트 재개발과 모아타운...",
+    "source_url": "https://www.econovill.com/news/articleView.html?idxno=754271",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "청주 가경 아이파크 7",
+    "region": "가경동",
+    "summary": "청약 일정은 19일 특별공급을 시작으로 20일 1순위, 21일 2순위 접수 순으로 이어진다. 당첨자 발표는... 단지별 청약 성적에 차이가 나타나고 있다. 청주에서도 주요 브랜드 아파트가 밀집한 가경동 일대에서 높은...",
+    "source_url": "https://www.thepublic.kr/news/articleView.html?idxno=322905",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "현대ENG",
+    "region": "확인 필요",
+    "summary": "오피스텔이라 자금조달계획서 제출 및 실거주 의무가 없으며, 향후 아파트 청약 시 주택 수에 산정되지... '힐스테이트 성남메트로블'의 청약 일정과 신청 자격은 어떻게 되나요? A. 청약 접수는 20일 단지 공식...",
+    "source_url": "https://www.newspim.com/news/view/20261020000416",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "BYC",
+    "region": "확인 필요",
+    "summary": "청약은 10월 27일부터 28일까지 이틀간 진행된다. 당첨자는 11월 2일 발표하며, 정당계약은 11월 5일부터... 구로디지털단지역과 신대방역 일대 역세권 사업을 비롯해 아파트 재개발과 모아타운, 신속통합기획 등 다양한...",
+    "source_url": "https://www.businessplus.kr/news/articleView.html?idxno=118437",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "BYC",
+    "region": "확인 필요",
+    "summary": "열고 분양에 돌입한다. 지하철 2호선 구로디지털단지역과 직통 연결되는 초역세권 입지를 갖춘 이번... 이번 공급 물량은 B동 전용면적 24~53㎡ 770실 규모이며, 청약 접수는 10월 27일부터 이틀간 진행된다. 입주 예정...",
+    "source_url": "https://www.g-enews.com/view.php?ud=202610201457065555a9fc143920_1",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "LH",
+    "region": "확인 필요",
+    "summary": "주거용 오피스텔 총 1095실과 업무시설, 근린생활시설 등으로 구성되며 이번에 분양하는 오피스텔은 B동 전용 24~53㎡ 770실 규모다. 청약 접수는 오는 27~28일 진행되며 당첨자 발표는 다음달 2일이다. 정당계약은 다음달 5...",
+    "source_url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205277",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "현대엔지니어링",
+    "region": "확인 필요",
+    "summary": "성남메트로블’의 청약 접수를 20일 진행한다고 밝혔다. 청약은 힐스테이트 성남메트로블 홈페이지에서... 거주지역과 청약통장 가입 여부, 주택 보유 여부, 재당첨 제한 등에 관계없이 신청할 수 있다. 분양신고일인...",
+    "source_url": "https://www.viva100.com/article/20261020500440",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "라온건설",
+    "region": "용인시",
+    "summary": "합리적인 분양가가 책정될 예정이며, 단지가 위치한 용인시 처인구는 비규제지역으로 거주지 제한 없이 전국 모든 지역에서 청약 신청이 가능하다. 유주택자도 1순위 청약 접수를 할 수 있으며 실거주 의무가 적용되지...",
+    "source_url": "https://www.g-enews.com/view.php?ud=202610201058257221a9fc143920_1",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "BYC",
+    "region": "영등포구",
+    "summary": "본격적인 분양에 나선다. 20일 BYC에 따르면 서울 영등포구 대림2동 1104-1번지 일원에 들어서는... 청약 접수는 오는 10월 27일과 28일 양일간 진행되며, 당첨자 발표는 11월 2일입니다. 만 19세 이상 성인이라면 거주...",
+    "source_url": "https://www.newspim.com/news/view/20261020000437",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "BYC",
+    "region": "확인 필요",
+    "summary": "주거용 오피스텔 총 1,095실과 업무시설, 근린생활시설 등으로 구성되며, 이번에 분양하는 오피스텔은 B동 전용 24~53㎡ 770실 규모다. 청약접수는 27일부터 28일까지 진행되며, 당첨자 발표는 11월 2일이다. 정당계약은...",
+    "source_url": "http://www.beyondpost.co.kr/view.php?ud=20261020103530252818ef25b590_30",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "구로디지털단지역 바로 연결",
+    "region": "확인 필요",
+    "summary": "이번에 분양하는 오피스텔은 B동 전용 24~53㎡ 770실 규모다. 'GD메트로타워'의 청약접수는 10월 27일부터 28일까지 양일간 진행되며, 당첨자 발표는 11월 2일이다. 정당계약은 11월 5일부터 7일까지 3일간 진행될...",
+    "source_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482114",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "청주 가경 아이파크 7",
+    "region": "확인 필요",
+    "summary": "실제로 지난 19일 진행된 특별공급에서는 수많은 청약 통장이 몰리며 치열한 경쟁을 예고했다. 436가구 모집에 1만3417건이 접수돼 평균 30.77대 1의 경쟁률을 기록했다. 특히 생애최초 등 일부 인기 유형에는 세대 수 대비...",
+    "source_url": "http://www.cctimes.kr/news/articleView.html?idxno=933039",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "청주 아이파크 7",
+    "region": "확인 필요",
+    "summary": "'청주 가경 아이파크 7·8단지' 특별공급에만 1만 3천건이 넘는 청약이 몰리면서 '생애최초' 특공의 경우는 113대 1이 넘는 경쟁률을 기록하기도 했다. 20일 한국부동산원 '청약홈'에 따르면 전날 진행된 '청주 가경...",
+    "source_url": "https://www.nocutnews.co.kr/news/6594428?utm_source=naver&utm_medium=article&utm_campaign=20261020063400",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "GS건설 컨소시엄",
+    "region": "확인 필요",
+    "summary": "지난 8일 견본주택을 개관한 데 이어 19일 특별공급을 진행했으며, 20일 1순위와 21일 2순위 청약을 받는다. 당첨자는 27일 발표하고, 정당계약은 11월 9일부터 11일까지 진행한다. 분양 측이 안내한 1순위 청약 요건은...",
+    "source_url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322965",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "신한은행",
+    "region": "확인 필요",
+    "summary": "규모의 특별보증을 공급한다. 지원 대상은 SK하이닉스가 추천하는 중소·중견 협력업체다. 지원 기업에는... 이벤트 기간 퇴직연금 ELS 청약배정금액이 100만원 이상인 고객에게는 투썸플레이스 1만원 상품권을...",
+    "source_url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205282",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "청주 가경 아이파크 7",
+    "region": "가경동",
+    "summary": "청주 가경동 일대에 들어서는 ‘청주 가경 아이파크 7·8단지’가 특별공급 청약에서 올해 충청권 최다 접수 건수를 기록하며 흥행에 성공했다. 20일 한국부동산원 청약홈에 따르면 지난 19일 진행된 청주 가경...",
+    "source_url": "https://www.g-enews.com/view.php?ud=202610201241338823a9fc143920_1",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "아크메르 동탄",
+    "region": "동탄",
+    "summary": "세부 품목과 적용 범위는 단지 및 주택형별로 다르다. 청약은 오는 26일 특별공급을 시작으로 27일 1순위, 28일 2순위 접수 순으로 진행된다. 아크메르 동탄 견본주택을 찾은 방문객들. (사진=분양 측 제공)",
+    "source_url": "https://www.vegannews.co.kr/news/article.html?no=394541",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "청주 가경 아이파크 7",
+    "region": "충북",
+    "summary": "IPARK현대산업개발이 충북 청주 가경동에 공급하는 '청주 가경 아이파크 7·8단지' 특별공급에 1만3000건이 넘는 청약이 몰렸다. 20일 한국부동산원 청약홈에 따르면 전날 진행된 청주 가경 아이파크 7·8단지...",
+    "source_url": "https://www.newsis.com/view/NISX20261020_0003832992",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "청주 가경 아이파크 7",
+    "region": "충북",
+    "summary": "IPARK현대산업개발이 충북 청주시에 공급하는 '청주 가경 아이파크 7·8단지'가 특별공급 청약에서 1만3000건이 넘는 신청을 받으며 올해 충청권 최다 접수 실적을 기록했다. 특히 생애최초 특별공급에는 모집...",
+    "source_url": "https://www.insight.co.kr/news/578408",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "마곡",
+    "region": "계양신도시",
+    "summary": "강동하남남양주선(9호선 연장)과 경의중앙선 신설역이 계획되어 있는 남양주 왕숙2지구의 첫 본청약 단지인 ‘왕숙 아테라’는 특별공급에서 평균 106.9대 1의 경쟁률을 기록했고, 신혼부부 특별공급은 262.4대 1에...",
+    "source_url": "https://www.dt.co.kr/article/12090031?ref=naver",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "BYC",
+    "region": "확인 필요",
+    "summary": "청약은 오는 27∼28일 이틀간 진행된다. 당첨자 발표는 11월 2일이며 정당계약은 같은 달 5∼7일 체결한다. 만 19세 이상이면 거주지역과 관계없이 청약통장 없이 신청할 수 있다는 게 분양 측 설명이다. 단지는 지하철...",
+    "source_url": "https://www.fnnews.com/news/202610201546268819",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "BYC",
+    "region": "확인 필요",
+    "summary": "청약은 10월 27~28일, 당첨자 발표는 11월 2일, 정당계약은 11월 5~7일이다. 청약통장 없이 거주지역 관계없이 만 19세 이상이면 청약할 수 있다. 단지는 2호선 구로디지털단지역 출입구와 직통 연결되는 초역세권이다....",
+    "source_url": "https://www.lawissue.co.kr/view.php?ud=20261020145827300767191f6c6e_12",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "현대엔지니어링",
+    "region": "확인 필요",
+    "summary": "당첨자는 21일 추첨을 통해 발표되며 22일 정당계약을 체결한다. 해당 오피스텔은 자금조달계획서 제출이나 실거주 의무가 없으며, 아파트 청약 시 주택 수에도 포함되지 않는다. 계약금은 5% 수준으로 이 중 1차 계약금...",
+    "source_url": "https://www.cstimes.com/news/articleView.html?idxno=724553",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "현대엔지니어링",
+    "region": "성남시",
+    "summary": "청약은 1인당 1실만 넣을 수 있고 중복 신청은 무효다. 물량의 20%는 이달 7일 기준 성남시 거주자에게 먼저 배정된다. 여기서 떨어져도 일반 추첨 기회가 남는다. 당첨자 발표는 21일, 계약은 22일이다. 계약금은...",
+    "source_url": "https://www.fetv.co.kr/news/articleView.html?idxno=312072",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "BYC",
+    "region": "확인 필요",
+    "summary": "청약은 오는 27일부터 28일까지 진행되며 당첨자는 11월 2일 발표한다. 정당계약은 11월 5일부터 7일까지다. 청약통장 없이 만 19세 이상이면 거주지역에 관계없이 신청할 수 있다. 입주는 2031년 3월 예정이다....",
+    "source_url": "https://www.fntimes.com/html/view.php?ud=202610201019091988048b718333_18",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "현대엔지니어링",
+    "region": "확인 필요",
+    "summary": "현대엔지니어링, ‘힐스테이트 성남메트로블’ 청약 접수 진행  브릿지경제",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QT3I2YkM1UnZWcmtmNUx3eGFFaS1nOFQ5VEJ4aEgtUTFyV1dwQ1dhUjF5bTFWMGJWbE9UZERaTVVjeGN0eXB0aU1nckxTajNpQXg3U3RRNXB6dw?oc=5",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "현대엔지니어링",
+    "region": "확인 필요",
+    "summary": "현대엔지니어링, ‘힐스테이트 성남메트로블’ 20일 청약 접수… 189실 규모  글로벌이코노믹",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdm11Rnh6S2dlNW93TC1MS2c0MF9RaGlVOHFOVDdhdGtqa0VVUHlLV2JROV8wZUViOVRZWFlMdnJwVnQ3d2wxRnBIZkE5OFhQMmdCZDg4SUhhOVU5X3o4eWt2RmJ0ODFpUW4zY1NheGtEY1luSnc1WjVmRlNaV0tPXzI2QjJCb3ItUFhnNkswRW1vMEN5MmFj?oc=5",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "현대엔지니어링",
+    "region": "확인 필요",
+    "summary": "현대엔지니어링, ‘힐스테이트 성남메트로블’ 20일 청약 접수 실시  edaily.co.kr",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjLUpWcG0wUFJTS2NTc00ya2ZzYnlIM3BYdW1SRDhVT1VqYjVWNGdsUGlOOUhxZGpDYU5sUThEM1ZWbVZ0Tk1FaXh4QUxJTjQzZ3dmeEt5QURMa1ZwVWNIVk94aVlhMTZwbnJsUXFwbmgySlNN?oc=5",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "청주 가경 아이파크 7",
+    "region": "확인 필요",
+    "summary": "청주 가경 아이파크 7·8단지 특별공급에 1.3만명 몰려… 충청권 최다 접수  글로벌이코노믹",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQnRLWkk1NTdLcG03S1RSVTI0SHJFZi0yYWozMXN0MnNxb1lXdE44VXMyelJlcThqWEE3MXItbGRWYzh0NmtpU1JEdVQ4a2JxcGZ2VWxjYVUxZ2N3SFQ1NHNuY1NFZzBKaDlmZHlGblRqbm1LREQwTnVWVUtPX1dyWllNNzBUZTlmRFE?oc=5",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "청주 가경 아이파크 7",
+    "region": "확인 필요",
+    "summary": "청주 가경 아이파크 7·8단지 특공 1.3만건…생애최초 113대 1  뉴시스",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6bUNPaWtwSFpzYzFqM0RpdWUzdmM5V19Tdkp1SUlhQk5jZmxPcXNNVzBCSzJsUnUyYml2TWF0cEtsY3o5M1AwOXE2ZzNsMWwwZjVaWERqUW1aVU9pUFg1TXZvOEdhalN6cEhyRWhuZmtwY1RLTmVoNdIBeEFVX3lxTFB6bUNPaWtwSFpzYzFqM0RpdWUzdmM5V19Tdkp1SUlhQk5jZmxPcXNNVzBCSzJsUnUyYml2TWF0cEtsY3o5M1AwOXE2ZzNsMWwwZjVaWERqUW1aVU9pUFg1TXZvOEdhalN6cEhyRWhuZmtwY1RLTmVoNQ?oc=5",
+    "pub_date": "2026-10-20"
+  },
+  {
+    "housing_name": "청주 가경 아이파크 7",
+    "region": "확인 필요",
+    "summary": "청주 가경 아이파크 7·8단지 특별공급 436가구 모집에 1만3천417건 접수  중부매일",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Y0lRZUZBdGl0RFgxaEJTdTRha3RORG5kQnM4OGE0cW5qR1NEcl9uanRYbUNTbkJ0d1RUX2U1cVNlMlZsZ2JzbFg0WklSaGlHZTkxN0JBX0ZrME1TQlhwVU96ZjBVZmlsa2NMcWFn0gFuQVVfeXFMT3hjSVFlRkF0aXREWDFoQlN1NGFrdE5EbmRCczg4YTRxbmpHU0RyX25qdFhtQ1NuQnR3VFRfZTVxU2UyVmxnYnNsWDRaSVJoaUdlOTE3QkFfRmswTVNCWHBVT3pmMFVmaWxrY0xxYWc?oc=5",
     "pub_date": "2026-10-20"
   },
   {
