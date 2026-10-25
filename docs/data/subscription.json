@@ -1,5 +1,12 @@
 [
   {
+    "housing_name": "문화재 vs 재개발",
+    "region": "확인 필요",
+    "summary": "메달 따서 군 면제, '로또청약'까지 아시안게임 이후 일부 선수의 언행을 계기로 불거진 병역특례 논란이 최근 '로또청약' 특혜 논란으로 번지고 있어요. 국가대표 메달리스트에게 주어지는 아파트 특별공급 혜택이 도마...",
+    "source_url": "https://news.bizwatch.co.kr/article/real_estate/2026/10/23/0027",
+    "pub_date": "2026-10-25"
+  },
+  {
     "housing_name": "티건설",
     "region": "파주",
     "summary": "본격적인 청약 접수 일정에 들어간다. 해당 사업지의 건축 규모를 살펴보면, 3단지는 지하 4층에서 지상 최고 48층, 4단지는 지하 4층에서 지상 최고 45층 높이로 건립된다. 두 개 단지를 합친 전체 공급 물량은 아파트...",
@@ -25,6 +32,41 @@
     "region": "동탄",
     "summary": "다음 주 전국 8곳에서 5,500여 가구가 청약 접수에 나섭니다. 물량은 수도권과 부산에 몰렸고 1,000가구가 넘는 대단지 2곳이 같은 날 1순위 청약을 받습니다. 24일 부동산 리서치업체 리얼투데이에 따르면 10월...",
     "source_url": "https://biz.sbs.co.kr/article_hub/20000341915?division=NAVER",
+    "pub_date": "2026-10-24"
+  },
+  {
+    "housing_name": "수도권",
+    "region": "부산",
+    "summary": "수도권과 부산에 공급이 집중되는 가운데 충청권에서도 대규모 아파트 분양이 이어지는 셈이다. 청약 이후 일정도 잇따른다. '아산 그랑시티필하우스'를 포함한 14개 사업장에서 당첨자를 발표하며, 11개 사업장은...",
+    "source_url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90889",
+    "pub_date": "2026-10-24"
+  },
+  {
+    "housing_name": "다음 주 전국 5",
+    "region": "부산",
+    "summary": "분양 물량은 수도권과 부산에 집중됐습니다. 경기 화성시에서는 '아크메르 동탄 95·99' 1,808가구, 부산... 1순위 청약 접수를 진행합니다. 단지는 지하 6층∼지상 29층, 9개 동, 전용면적 75·114㎡, 총 1,644가구...",
+    "source_url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005946209",
+    "pub_date": "2026-10-24"
+  },
+  {
+    "housing_name": "LH",
+    "region": "확인 필요",
+    "summary": "청약은 사전청약 당첨자를 대상으로 우선 진행한 뒤 남은 물량을 대상으로 특별공급과 일반공급을 실시한다. 특별공급 접수일은 11월 16일, 일반공급은 17일이며 당첨자는 11월 26일 발표할 예정이다. 계약은 2027년 2월...",
+    "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498145",
+    "pub_date": "2026-10-24"
+  },
+  {
+    "housing_name": "10월 마지막 주 분양 5",
+    "region": "동탄",
+    "summary": "10월 마지막 주 분양 5,555가구…동탄·해운대 1순위 청약  SBS Biz",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sVXFUUTUyaVZJQnRRZDRIN2hpRGwweVBObmhDX2V6Z0ZEVnhTS0syUlQ0LU14YlBEbGsycjFBb3dsNWctMFhkNFZFbEtvUmdKUU1z0gFYQVVfeXFMTW1Rclk2Skxaa3g2YkREb0otcnBlQlFyYm5FOTFlMVkyRkh4R0pYczhBRXBPZldTLWpuVHh1WENMdGg0bHVHQXF1VHVkWVU1UWgzSllxN3FMaA?oc=5",
+    "pub_date": "2026-10-24"
+  },
+  {
+    "housing_name": "수도권",
+    "region": "부산",
+    "summary": "수도권·부산 분양시장에 공급 집중 … 10월 다섯째 주 전국 5555가구 청약  워크투데이",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BTmNFMW9xRlgwTmtUMmpFTGNlZ2NSMl83ZUNidjhVVE5jc1JEb0FqNUlJdldha3RFekVOMncxN0l3QW9ZNWlCV0ZiRTkxWUJfS1BhUUI3T29VS1VBTnd2d0JKS1RSaHoxaU1RVA?oc=5",
     "pub_date": "2026-10-24"
   },
   {
@@ -571,6 +613,13 @@
     "region": "시흥거모지구",
     "summary": "LH, 시흥거모지구 공공분양 300가구 공급…청약 일정은  이데일리",
     "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkI3dlZ6Y2hIX2FIeEFMOXNuZ1RHMS0tZ2g0SU5fTVBhb01sd1RyaDFfMjR0eXBTWHc5S3NEVnRpYmNHQ19kblp4RllvQmlVNmhIYm4tYnE1cnp3aVRpaERhdWZTTjU5TmFhNVpFcnFMaWw0eFRtS1dzcS1aVzVicQ?oc=5",
+    "pub_date": "2026-10-23"
+  },
+  {
+    "housing_name": "LH",
+    "region": "시흥거모지구",
+    "summary": "LH, 시흥거모지구 S-1블록 공공분양 300호 공급…다음 달 16일 청약 접수  팍스경제TV",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45N21vQ2xNTzZLZG9rU3pYTWxGZkMweDhLU3VuNHpDa2JhQUs5NndmNC1zT0NtVmZSZHNMaVI2aFdqdVk0c1NoTTI1c1VCNzdjVUg5czM4alVlOVZMQzJSQm5FcFMtbVk?oc=5",
     "pub_date": "2026-10-23"
   },
   {
